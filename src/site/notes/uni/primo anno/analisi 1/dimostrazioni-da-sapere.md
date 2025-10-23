@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/dimostrazioni-da-sapere/","tags":["math","uni"]}
+---
+
+
+#
+- [ ] QR1
+	- [x] pre-successioni
+	- [ ] numeri complessi
+	- [x] successioni
+	- [ ] others
+	- [ ] GUARDA BENE LE ESERCITAZIONI
+- [ ] QR2
+	- [ ] successioni
+		- [ ] rapporto successioni
+		- [ ] exp, log, sin, tan per successioni 
+		- [ ] asintotici
+		- [ ] gerarchia infiniti
+		- [ ] teorema cuoricino 
+		- [x] cauchy
+	- [ ] serie
+		- [ ] carattere serie
+		- [ ] criterio di cauchy
+		- [ ] serie telescopiche
+		- [ ] serie a termini positivi
+			- [ ] confronto tra serie
+			- [ ] serie geometriche
+			- [ ] rappresentazione dec dei numeri reali
+			- [ ] serie armonica
+			- [ ] confronto asintotico
+			- [ ] serie campione
+			- [ ] criterio radice
+			- [ ] criterio rapporto
+			- [ ] criterio leibnitz
+			- [ ] convergenza assoluta allora converge
+	- [ ] GUARDA BENE ESERCITAZIONI
