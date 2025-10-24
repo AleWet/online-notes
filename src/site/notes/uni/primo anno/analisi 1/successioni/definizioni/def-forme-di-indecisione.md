@@ -7,4 +7,4 @@ $$+\infty - \infty$$
 $$0 * \infty$$
 $$\frac{0}{0}$$
 $$\frac{\infty}{\infty}$$
-tutte le altre forme indefinite (con esponenti etch) sono sempre riconducibili ad una forma di quelle precedenti usando che $x = e^{log(x)} \forall x$.
+tutte le altre forme indefinite (con esponenti etch) sono sempre riconducibili ad una forma di quelle precedenti usando che $x = e^{log(x)} \ \forall x$.

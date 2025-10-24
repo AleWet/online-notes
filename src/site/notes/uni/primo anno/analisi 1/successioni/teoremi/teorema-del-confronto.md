@@ -11,5 +11,5 @@ Questa relazione è sufficiente che sia valida *definitivamente*
 ### corollario-infinitesima-per-limitata-è-infinitesima
 se $a_n$ è una [[uni/primo anno/analisi 1/successioni/definizioni/def-successione-limitata\|successione limitata]] e $\mathcal{E}_n$ è una [[uni/primo anno/analisi 1/successioni/definizioni/def-successione-infinitesima\|successione infinitesima]] allora :
 $$b_n:=a_n * \mathcal{E}_n \text{ è infinitesima}$$
-### dim
+### ==dim 1 / 2==
 sul QR1 tutte vicine

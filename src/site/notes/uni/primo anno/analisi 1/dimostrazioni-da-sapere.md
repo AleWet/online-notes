@@ -2,18 +2,17 @@
 {"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/dimostrazioni-da-sapere/","tags":["math","uni"]}
 ---
 
-
-#
 - [ ] QR1
 	- [x] pre-successioni
 	- [ ] numeri complessi
 	- [x] successioni
 	- [ ] others
+	- [ ] riguarda parte dopo aritmetica estesa spiegata velocemente dal pata
 	- [ ] GUARDA BENE LE ESERCITAZIONI
 - [ ] QR2
 	- [ ] successioni
-		- [ ] rapporto successioni
-		- [ ] exp, log, sin, tan per successioni 
+		- [x] rapporto successioni
+		- [ ] continuità exp, log, sin, arctan per successioni 
 		- [ ] asintotici
 		- [ ] gerarchia infiniti
 		- [ ] teorema cuoricino 
@@ -34,3 +33,5 @@
 			- [ ] criterio leibnitz
 			- [ ] convergenza assoluta allora converge
 	- [ ] GUARDA BENE ESERCITAZIONI
+- [ ] QR3
+	- [ ] ultime esercitazioni importanti
