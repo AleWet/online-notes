@@ -4,34 +4,37 @@
 
 - [ ] QR1
 	- [x] pre-successioni
-	- [ ] numeri complessi
+	- [x] numeri complessi
+		- [ ] esercizi numeri complessi
 	- [x] successioni
-	- [ ] others
+	- [x] others
 	- [ ] riguarda parte dopo aritmetica estesa spiegata velocemente dal pata
-	- [ ] GUARDA BENE LE ESERCITAZIONI
+	- [x] GUARDA BENE LE ESERCITAZIONI
 - [ ] QR2
 	- [ ] successioni
 		- [x] rapporto successioni
-		- [ ] continuità exp, log, sin, arctan per successioni 
-		- [ ] asintotici
-		- [ ] gerarchia infiniti
-		- [ ] teorema cuoricino 
+		- [x] continuità exp, log
+		- [x] continuità sin
+		- [ ] formule arctan per successioni 
+		- [x] asintotici
+		- [x] gerarchia infiniti
+		- [x] gerarchia infinitesimi
+		- [x] teorema cuoricino 
 		- [x] cauchy
 	- [ ] serie
 		- [ ] carattere serie
 		- [ ] criterio di cauchy
-		- [ ] serie telescopiche
+		- [x] serie telescopiche
 		- [ ] serie a termini positivi
-			- [ ] confronto tra serie
-			- [ ] serie geometriche
-			- [ ] rappresentazione dec dei numeri reali
+			- [x] confronto tra serie
+			- [x] serie geometriche
+			- [x] rappresentazione dec dei numeri reali
 			- [ ] serie armonica
 			- [ ] confronto asintotico
 			- [ ] serie campione
 			- [ ] criterio radice
-			- [ ] criterio rapporto
-			- [ ] criterio leibnitz
-			- [ ] convergenza assoluta allora converge
+		- [ ] criterio leibnitz
+		- [ ] convergenza assoluta allora converge
 	- [ ] GUARDA BENE ESERCITAZIONI
 - [ ] QR3
 	- [ ] ultime esercitazioni importanti

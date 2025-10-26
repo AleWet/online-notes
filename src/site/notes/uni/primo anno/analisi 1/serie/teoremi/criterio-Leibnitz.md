@@ -3,10 +3,8 @@
 ---
 
 
-$$\text{sia }\begin{equation}
-   {\textstyle \sum_{n_0}^{+\infty}}a_n
-\end{equation}$$
-dove $a_n = (-1)^n*b_n$
+$$\text{sia } \sum_{n=0}^{+\infty}a_n$$
+$$dove \ a_n = (-1)^n*b_n$$
 se : 
 - $b_n \ge 0$
 - $b_n \rightarrow0$

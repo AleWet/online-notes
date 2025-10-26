@@ -22,17 +22,26 @@ $$\frac{b_n}{a_n}\rightarrow1 \text{ per definizione, allora } \frac{b_n}{a_n} \
 $$b_n = a_n(\mathcal{E}_n +1)$$
 ##### osservazione 4
 $$\frac{a_n}{b_n} = \frac{b_n+(b_n-a_n)}{b_n} = 1+\frac{b_n-a_n}{b_n}\rightarrow1 \iff a_n-b_n \rightarrow 0 \ \wedge b_n \nrightarrow0 \text{ (il che implica che }  a_n \nrightarrow 0 )$$
-  tu vuoi che i termini si cancellino e che quindi siano uguali tra loro, se $a_n \rightarrow 0$ allora perdi informazione sui questi termini. 
-
 ### proprietà (guarda appunti QR2)
+in generale:
+$$a_n \sim b_n \nRightarrow f(a_n) \sim f(b_n)$$
+##### esponenti
+se hai una successione [[uni/primo anno/analisi 1/successioni/definizioni/def-successione-limitata\|limitata]] $c_n$ e $a_n\sim b_n$ allora:
+$$a_n^{c_n} \sim b_n^{c_n} \iff e^{c_n \log{(a_n/b_n)}} \rightarrow1$$
+e naturalmente l'esponente è [[uni/primo anno/analisi 1/successioni/definizioni/def-successione-infinitesima\|infinitesimo]] $\iff$ $c_n$ è limitata.
+____
 ##### prodotti
-se $a_n \sim b_n$ allora è vero che $a_nc_n \sim b_nc_n$, questo naturalmente funziona anche con le divisioni
+se $a_n \sim b_n$ allora è vero che $a_nc_n \sim b_nc_n$, questo naturalmente funziona anche con le divisioni. La dimostrazione è banale visto che ti viene $\lim 1 * \lim 1 = 1$.
+___
 ##### esponenziali
-- $se \ a_n \sim b_n \implies e^{a_n} \sim b^{b_n}$ solo per certi casi, NON VERO SEMPRE :  $\lim\frac{e^{a_n}}{e^{b_n}} \rightarrow1 \iff a_n - b_n \rightarrow0$ ma questa condizione non è conseguenza del fatto che $a_n \sim b_n$. In generale funziona se una delle due è limitata : $a_n(1-\frac{b_n}{a_n}) = a_n\epsilon_n \rightarrow0 \iff a_n \text{ limitata}$. 
-- $e^{a_n} - e^{b_n} \sim e^l(a_n-b_n) \iff \lim a_n = \lim b_n \in \mathbb{R}$ e $a_n\ne b_n$. per dimostrazione guarda QB1
+- $se \ a_n \sim b_n \implies e^{a_n} \sim b^{b_n}$ solo per certi casi, NON VERO SEMPRE :  $\lim\frac{e^{a_n}}{e^{b_n}} \rightarrow1 \iff a_n - b_n \rightarrow0$ ma questa condizione non è conseguenza del fatto che $a_n \sim b_n$. In generale funziona se una delle due è limitata : $$a_n(1-\frac{b_n}{a_n}) = a_n\epsilon_n \rightarrow0 \iff a_n \text{ limitata}$$
+- risultato operativo, per dimostrazione guarda QB1 :   
+$$e^{a_n} - e^{b_n} \sim e^l(a_n-b_n) \iff \lim a_n = \lim b_n \in \mathbb{R} \land a_n\ne b_n$$
+___
 ##### logaritmi
 - se $a_n \sim b_n$ e allora quando $|a_n - 1| > \epsilon \implies |b_n - 1| > \epsilon \implies \log(a_n) \sim \log(b_n)$
 - se $a_n\ne b_n$ e $a_n,b_n\rightarrow l \ne 0 \implies log(a_n)-log(b_n) \sim \frac{a_n-b_n}{l}$
+___
 ##### polinomi
 Sia
 $$
@@ -44,7 +53,7 @@ $$
 ____
 ### come non usarlo (guarda appunti QR2)
 - se $a_n \sim b_n$  NON VUOL DIRE SEMPRE CHE $a_n + c_n \sim b_n + c_n$
-- quando usando l'asintotico i termini dominanti si elidono non puoi usarlo, perdi informazioni dopo l'approssimazione asintotica. Devi fare attenzione a quali sono i termini dominanti soprattutto quando si tratta di infinitesimi. PER ESEMPIO:
+- quando usando l'asintotico e  i termini dominanti si elidono non puoi usarlo, perdi informazioni dopo l'approssimazione asintotica. Devi fare attenzione a quali sono i termini dominanti soprattutto quando si tratta di infinitesimi. PER ESEMPIO:
 	- $sin^2(\epsilon_n) - \log(1+\epsilon_n)$ qui puoi usarlo, il primo termine avrà ordine generale $\alpha^2$ mentre il secondo è di ordine $\alpha$ 
 	- $\epsilon_n - \frac{sin(\epsilon_n)}{n}$ qui puoi dire che il primo termine è di ordine generale $\alpha$ mentre il secondo è di ordine $\alpha + 1$ poiché $\frac{1}{n}$ è di ordine 1 e $\epsilon_n$ è di ordine $\alpha$ come prima, di conseguenza tutta l'espressione è $\sim$ al termine di ordine minore per gli infinitesimi $\implies\sim\epsilon_n$ 
 GUARDA APPUNTI SUL QR3

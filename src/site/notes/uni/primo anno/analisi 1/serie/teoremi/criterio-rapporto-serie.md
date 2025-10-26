@@ -6,3 +6,6 @@ sia $a_n>0$ e sia $l =$ [[uni/primo anno/analisi 1/successioni/definizioni/def-l
 - se $l > 1 \implies \sum a_n \ diverge$
 - se $l < 1 \implies \sum a_n \ converge$
 - come al solito se $l = 1$ il criterio è inconcludente
+___
+### dim
+non dimostrato dal pata
