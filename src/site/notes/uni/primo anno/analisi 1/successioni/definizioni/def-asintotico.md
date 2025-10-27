@@ -22,8 +22,8 @@ $$\frac{b_n}{a_n}\rightarrow1 \text{ per definizione, allora } \frac{b_n}{a_n} \
 $$b_n = a_n(\mathcal{E}_n +1)$$
 ##### osservazione 4
 $$\frac{a_n}{b_n} = \frac{b_n+(b_n-a_n)}{b_n} = 1+\frac{b_n-a_n}{b_n}\rightarrow1 \iff a_n-b_n \rightarrow 0 \ \wedge b_n \nrightarrow0 \text{ (il che implica che }  a_n \nrightarrow 0 )$$
-### proprietà (guarda appunti QR2)
-in generale:
+### proprietà
+in generale non puoi sempre usarlo nelle funzioni tranne per certe regole : 
 $$a_n \sim b_n \nRightarrow f(a_n) \sim f(b_n)$$
 ##### esponenti
 se hai una successione [[uni/primo anno/analisi 1/successioni/definizioni/def-successione-limitata\|limitata]] $c_n$ e $a_n\sim b_n$ allora:
@@ -51,12 +51,14 @@ $$
 - i coefficienti reali $(c_1, \dots, c_k)$ possono essere rimpiazzati da [[uni/primo anno/analisi 1/successioni/definizioni/def-successione-limitata\|successioni limitate]] o con i logaritmi
 - ad esempio: $2n^2 + (1+\cos n) \sqrt{n} - 6 \sim 2n^2$
 ____
-### come non usarlo (guarda appunti QR2)
+### come non usarlo
 - se $a_n \sim b_n$  NON VUOL DIRE SEMPRE CHE $a_n + c_n \sim b_n + c_n$
 - quando usando l'asintotico e  i termini dominanti si elidono non puoi usarlo, perdi informazioni dopo l'approssimazione asintotica. Devi fare attenzione a quali sono i termini dominanti soprattutto quando si tratta di infinitesimi. PER ESEMPIO:
 	- $sin^2(\epsilon_n) - \log(1+\epsilon_n)$ qui puoi usarlo, il primo termine avrà ordine generale $\alpha^2$ mentre il secondo è di ordine $\alpha$ 
 	- $\epsilon_n - \frac{sin(\epsilon_n)}{n}$ qui puoi dire che il primo termine è di ordine generale $\alpha$ mentre il secondo è di ordine $\alpha + 1$ poiché $\frac{1}{n}$ è di ordine 1 e $\epsilon_n$ è di ordine $\alpha$ come prima, di conseguenza tutta l'espressione è $\sim$ al termine di ordine minore per gli infinitesimi $\implies\sim\epsilon_n$ 
-GUARDA APPUNTI SUL QR3
+- $a_n \sim b_n \nRightarrow f(a_n) \sim f(b_n)$
+- 
+GUARDA APPUNTI SUL QR3 / QR2
 ### lista asintotici 
 $$\tag*{1.} \sin(\mathcal{E}_n)\sim \mathcal{E}_n$$
 $$\tag*{2.} \arcsin(\mathcal{E}_n)\sim \mathcal{E}_n$$

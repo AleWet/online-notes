@@ -19,7 +19,7 @@
 		- [x] asintotici
 		- [x] gerarchia infiniti
 		- [x] gerarchia infinitesimi
-		- [x] teorema cuoricino 
+		- [ ] teorema cuoricino 
 		- [x] cauchy
 	- [ ] serie
 		- [ ] carattere serie
@@ -30,10 +30,10 @@
 			- [x] serie geometriche
 			- [x] rappresentazione dec dei numeri reali
 			- [ ] serie armonica
-			- [ ] confronto asintotico
+			- [x] confronto asintotico
 			- [ ] serie campione
-			- [ ] criterio radice
-		- [ ] criterio leibnitz
+			- [x] criterio radice
+		- [x] criterio leibnitz
 		- [ ] convergenza assoluta allora converge
 	- [ ] GUARDA BENE ESERCITAZIONI
 - [ ] QR3
