@@ -15,7 +15,7 @@ una serie può essere:
 esso non cambia se si cambia un numero finito di elementi della serie. Naturalmente se la serie converge la somma cambia ma il carattere rimane uguale.
 ### proprietà
 - $k*\sum a_n$ =$\sum k*a_n$
-- la somma delle serie converge se le due serie convergono anche nelle operazioni in [[uni/primo anno/analisi 1/successioni/definizioni/def-R-esteso\|R esteso]]
+- la somma delle serie converge se le due serie convergono anche nelle operazioni in [[uni/primo anno/analisi 1/successioni/definizioni/def-R-esteso\|R esteso]], puoi trattare la serie come un limite finito (è definito così) e usare le [[uni/primo anno/analisi 1/successioni/teoremi/teorema-operazioni-con-limiti\|operazioni con i limiti]].
 ### ordine di sommazione
 L'ordine con cui vengono sommati gli elementi $a_n$ influisce sul comportamento della serie (QR2)
 

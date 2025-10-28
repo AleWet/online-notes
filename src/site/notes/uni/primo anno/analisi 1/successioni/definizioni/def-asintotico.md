@@ -3,7 +3,7 @@
 ---
 
 ### def
-due successioni sono asintotiche se
+due successioni sono dette asintotiche se
 $$\tag*{def}\frac{a_n}{b_n}\rightarrow1 \iff a_n \sim b_n$$
 ### osservazioni
 ##### osservazione 1

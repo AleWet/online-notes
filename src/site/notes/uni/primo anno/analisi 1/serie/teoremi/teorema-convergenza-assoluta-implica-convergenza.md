@@ -6,5 +6,10 @@ se $\begin{equation} {\textstyle \sum^{}}a_n\end{equation}$ [[uni/primo anno/ana
 ### osservazioni
 $\exists$ serie che convergono ma non convergono assolutamente, un esempio è:
 $$\sum \frac{(-)^n}{n}$$
-### dim
-sul QR2 ci sono due dimostrazioni, imparane una
+##### ==dim== (1)
+$$\sum |a_n| \text{ converge per ipotesi}$$
+$$0 \le\sum (|a_n| - a_n) \le 2\sum|a_n|$$
+questo per il [[uni/primo anno/analisi 1/serie/teoremi/teorema-confronto-serie\|teorema del confronto tra serie]] converge allora posso usare le [[uni/primo anno/analisi 1/serie/definizioni/def-serie#proprietà\|operazioni tra limiti]]:
+$$\sum (|a_n| - a_n) \text{ (converge) }+ \sum -|a_n| \text{ (converge) }$$
+$$ = \sum a_n \text{ converge per operazioni tra limiti}$$
+
