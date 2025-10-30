@@ -24,6 +24,7 @@
 	- [ ] serie
 		- [ ] carattere serie
 		- [ ] criterio di cauchy
+		- [ ] serie fattoriale
 		- [x] serie telescopiche
 		- [ ] serie a termini positivi
 			- [x] confronto tra serie
