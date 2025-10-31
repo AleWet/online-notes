@@ -37,5 +37,9 @@
 		- [x] criterio leibnitz
 		- [ ] convergenza assoluta allora converge
 	- [ ] GUARDA BENE ESERCITAZIONI
+		- [ ] num complessi
+		- [ ] serie
+		- [ ] successioni
+		- [ ] combinatoria / sommatorie
 - [ ] QR3
 	- [ ] ultime esercitazioni importanti

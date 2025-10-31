@@ -18,10 +18,10 @@ verificare che dalla parte di destra si arriva alla parte di sinistra è immedia
 $$b_n = a_n(1 + \mathcal{E}_n) \ \ \ \ \ \frac{a_n}{b_n} = \frac{a_n}{a_n}  \frac{1}{1 + \mathcal{E}_n}$$
 verifico adesso che da sinistra si arriva a destra:
 $$b_n = a_n\left( \frac{b_n}{a_n} \right) = a_n(\frac{b_n}{a_n}-1+1)$$
-$$\frac{b_n}{a_n}\rightarrow1 \text{ per definizione, allora } \frac{b_n}{a_n} \rightarrow1 = \mathcal{E}_n$$
+$$\frac{b_n}{a_n}\rightarrow1 \text{ per definizione, allora } \epsilon_n :=\frac{b_n}{a_n}-1 \rightarrow 0$$
 $$b_n = a_n(\mathcal{E}_n +1)$$
 ##### osservazione 4
-$$\frac{a_n}{b_n} = \frac{b_n+(b_n-a_n)}{b_n} = 1+\frac{b_n-a_n}{b_n}\rightarrow1 \iff a_n-b_n \rightarrow 0 \ \wedge b_n \nrightarrow0 \text{ (il che implica che }  a_n \nrightarrow 0 )$$
+$$\frac{a_n}{b_n} = \frac{b_n+(a_n-b_n)}{b_n} = 1+\frac{a_n-b_n}{b_n}\rightarrow1 \iff a_n-b_n \rightarrow 0 \ \wedge b_n \nrightarrow0 \text{ (il che implica che }  a_n \nrightarrow 0 )$$
 ### proprietà
 in generale non puoi sempre usarlo nelle funzioni tranne per certe regole : 
 $$a_n \sim b_n \nRightarrow f(a_n) \sim f(b_n)$$
@@ -34,7 +34,7 @@ ____
 se $a_n \sim b_n$ allora è vero che $a_nc_n \sim b_nc_n$, questo naturalmente funziona anche con le divisioni. La dimostrazione è banale visto che ti viene $\lim 1 * \lim 1 = 1$.
 ___
 ##### esponenziali
-- $se \ a_n \sim b_n \implies e^{a_n} \sim b^{b_n}$ solo per certi casi, NON VERO SEMPRE :  $\lim\frac{e^{a_n}}{e^{b_n}} \rightarrow1 \iff a_n - b_n \rightarrow0$ ma questa condizione non è conseguenza del fatto che $a_n \sim b_n$. In generale funziona se una delle due è limitata : $$a_n(1-\frac{b_n}{a_n}) = a_n\epsilon_n \rightarrow0 \iff a_n \text{ limitata}$$
+- $se \ a_n \sim b_n \implies e^{a_n} \sim e^{b_n}$ solo per certi casi, NON VERO SEMPRE :  $\lim\frac{e^{a_n}}{e^{b_n}} \rightarrow1 \iff a_n - b_n \rightarrow0$ ma questa condizione non è conseguenza del fatto che $a_n \sim b_n$. In generale funziona se una delle due è limitata : $$a_n(1-\frac{b_n}{a_n}) = a_n\epsilon_n \rightarrow0 \iff a_n \text{ limitata}$$
 - risultato operativo, per dimostrazione guarda QB1 :   
 $$e^{a_n} - e^{b_n} \sim e^l(a_n-b_n) \iff \lim a_n = \lim b_n \in \mathbb{R} \land a_n\ne b_n$$
 ___
@@ -59,7 +59,7 @@ ____
 - $a_n \sim b_n \nRightarrow f(a_n) \sim f(b_n)$
 - 
 GUARDA APPUNTI SUL QR3 / QR2
-### lista asintotici 
+### lista asintotici (guarda dispense)
 $$\tag*{1.} \sin(\mathcal{E}_n)\sim \mathcal{E}_n$$
 $$\tag*{2.} \arcsin(\mathcal{E}_n)\sim \mathcal{E}_n$$
 $$\tag*{3.} \tan(\mathcal{E}_n)\sim \mathcal{E}_n$$

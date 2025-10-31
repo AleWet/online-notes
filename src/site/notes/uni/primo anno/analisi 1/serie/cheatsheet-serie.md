@@ -13,16 +13,16 @@ qui puoi usare solo certi metodi ed è importante ricordarsi l'indice di partenz
 - [[uni/primo anno/analisi 1/serie/teoremi/criterio-Leibnitz\|criterio-Leibnitz]] (circa, ti permette di avere una stima della serie)
 ### trova il carattere
 Qui ==oltre ai metodi detti sopra== ci sono altri criteri:
-- [[uni/primo anno/analisi 1/serie/teoremi/teorema-confronto-serie\|teorema confronto tra serie]]
-- 
-- [[uni/primo anno/analisi 1/serie/teoremi/criterio-confronto-asintotico\|confronto asintotico]]
-- [[uni/primo anno/analisi 1/serie/teoremi/criterio-della-radice\|criterio-della-radice]]
-- [[uni/primo anno/analisi 1/serie/teoremi/criterio-rapporto-serie\|criterio-rapporto-serie]]
-- [[uni/primo anno/analisi 1/serie/teoremi/criterio-di-Cauchy\|criterio-di-Cauchy]]
-- [[uni/primo anno/analisi 1/serie/definizioni/def-serie-campione\|serie campione]]
+- [[uni/primo anno/analisi 1/serie/teoremi/teorema-test-di-convergenza-serie\|test di convergenza]] (necessaria non sufficiente)
+- [[uni/primo anno/analisi 1/serie/teoremi/teorema-confronto-serie\|teorema confronto tra serie]] 
+- [[uni/primo anno/analisi 1/serie/teoremi/criterio-confronto-asintotico\|confronto asintotico]] (necessaria e sufficiente)
+- [[uni/primo anno/analisi 1/serie/teoremi/criterio-della-radice\|criterio-della-radice]] (sufficiente)
+- [[uni/primo anno/analisi 1/serie/teoremi/criterio-rapporto-serie\|criterio-rapporto-serie]] (sufficiente)
+- [[uni/primo anno/analisi 1/serie/teoremi/criterio-di-Cauchy\|criterio-di-Cauchy]] (necessaria e sufficiente)
+- [[uni/primo anno/analisi 1/serie/definizioni/def-serie-campione\|serie campione]] 
 ___
 # serie a termini di segno variabile
-qui i criteri utilizzabili sono molto pochi:
+qui i criteri utilizzabili pochi:
 - [[uni/primo anno/analisi 1/serie/teoremi/criterio-Leibnitz\|criterio-Leibnitz]]
-- [[uni/primo anno/analisi 1/serie/teoremi/criterio-Dirichlet\|criterio di Dirichlet]]
+- [[uni/primo anno/analisi 1/serie/teoremi/criterio-Dirichlet\|criterio di Dirichlet]] (hardly used)
 - [[uni/primo anno/analisi 1/serie/teoremi/teorema-convergenza-assoluta-implica-convergenza\|criterio di convergenza assoluta]]
