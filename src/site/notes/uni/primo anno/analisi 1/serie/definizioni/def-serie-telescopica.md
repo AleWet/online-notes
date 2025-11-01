@@ -12,4 +12,7 @@ $$\implies \begin{equation}{\textstyle \sum}a_n\end{equation} = \lim b_0+\lim b_
 caso speciale delle serie telescopiche dove
 $$a_n = \frac{1}{n}-\frac{1}{n+1}$$
 ### serie telescopica con gap
-si può generalizzare il concetto di serie telescopica con una successione di 
+si può generalizzare il concetto di serie telescopica :
+$$ b_n =a_n - a_{n+k}$$
+$$\sum b_n = a_0-a_k+a_1-a_{k+1}+a_2-a_{k+2}+...+a_{n-1}+a_{n+k-1}+a_n-a_{n+k}$$
+$$=\sum b_n = a_0+a_1+a_2+...+a_k-k*\lim a_n$$
