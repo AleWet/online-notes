@@ -12,4 +12,4 @@ $$\text{allora }\begin{equation}
    {\textstyle \sum_{n_0}^{+\infty}}a_nb_n
 \end{equation} \text{ converge}$$
 ### dim
-sul QR2
+non fatta a lezione

@@ -3,13 +3,23 @@
 ---
 
 - [ ] QR1
-	- [x] pre-successioni
-	- [x] numeri complessi
-		- [ ] esercizi numeri complessi
+	- [ ] pre-successioni
+		- [ ] campi, gruppi etc
+		- [ ] cose di insiemi, cantor etc
 	- [x] successioni
 	- [x] others
 	- [ ] riguarda parte dopo aritmetica estesa spiegata velocemente dal pata
-	- [x] GUARDA BENE LE ESERCITAZIONI
+	- [ ] GUARDA BENE LE ESERCITAZIONI
+		- [ ] numeri complessi
+		- [ ] geometria iperbolica
+		- [ ] sommatorie, produttorie
+		- [ ] binomio di newton
+		- [ ] formula di stirling
+	- [ ] cose che so che devo riguardare:
+		- [ ] numeri complessi dio
+		- [ ] sommatorie etc
+		- [ ] binomio di newton
+		- [ ] cose prima meglio saperle
 - [ ] QR2
 	- [ ] successioni
 		- [x] rapporto successioni
