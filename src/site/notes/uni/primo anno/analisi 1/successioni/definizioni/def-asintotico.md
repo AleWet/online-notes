@@ -76,4 +76,4 @@ $$\tag*{12.a} (1 + \mathcal{E}_n)^\alpha - 1 \sim \alpha \mathcal{E}_n \quad [\a
 $$\tag*{12.b} (1 + \mathcal{E}_n)^{a_n} - 1 \sim a_n \mathcal{E}_n \quad [\text{se } 0 \ne a_n \mathcal{E}_n \to 0]$$
 $$\tag*{13.} n! \sim e^{-n} n^n \sqrt{2 \pi n} \quad (\text{de Moivre-Stirling})$$
 $$\tag*{14.} \log n! \sim n \log n$$
-$$\tag*{15.} \sum_{k=1}^n \frac{1}{k} \sim \log n \quad (\text{Euler-Mascheroni})$$
+$$\tag*{15.} \sum_{k=1}^n \frac{1}{k} \sim \log n \quad (\text{Eulero-Mascheroni})$$

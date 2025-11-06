@@ -12,4 +12,8 @@ Questa relazione è sufficiente che sia valida *definitivamente*
 se $a_n$ è una [[uni/primo anno/analisi 1/successioni/definizioni/def-successione-limitata\|successione limitata]] e $\mathcal{E}_n$ è una [[uni/primo anno/analisi 1/successioni/definizioni/def-successione-infinitesima\|successione infinitesima]] allora :
 $$b_n:=a_n * \mathcal{E}_n \text{ è infinitesima}$$
 ### ==dim 1 / 2==
-sul QR1 tutte vicine
+sia $a_n\le c_n \le b_n$ definitivamente e dove $a_n,b_n\rightarrow l \in  \overline{\mathbb{R}}$
+$$\forall \epsilon>0 \exists n_0:\forall n\ge n_0$$
+$$l-\epsilon<a_n\le c_n \le b_n < l+\epsilon$$
+$$\implies l-\epsilon<c_n<l+\epsilon$$
+$$\implies c_n\rightarrow l \ \ \ \square$$

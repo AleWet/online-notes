@@ -8,4 +8,4 @@ sia $a_n>0$ ([[uni/primo anno/analisi 1/serie/definizioni/def-serie-termini-posi
 - come al solito se $l = 1$ il criterio è inconcludente
 ___
 ### dim
-non dimostrato dal pata
+non dimostrato dal Pata
