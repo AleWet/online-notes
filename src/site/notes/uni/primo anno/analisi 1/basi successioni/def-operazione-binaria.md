@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi/def-operazione-binaria/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi-successioni/def-operazione-binaria/","tags":["math","uni"]}
 ---
 
 dato un insieme $S$, $\square$ è un'operazione binaria se :

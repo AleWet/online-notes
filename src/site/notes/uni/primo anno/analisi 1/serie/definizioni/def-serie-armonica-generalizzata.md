@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/serie/definizioni/def-serie-armonica-generalizzata/","tags":["math","uni"]}
 ---
 
-   definisco la serie armonica generalizzata come:
+definisco la serie armonica generalizzata come:
 $$\sum_{n=1}^{+\infty} \frac{1}{n^a}$$
 di conseguenza essa è a [[uni/primo anno/analisi 1/serie/definizioni/def-serie-termini-positivi\|a termini positivi]] allora è regolare e si comporta nel seguente metodo:
 - $a>1$ converge

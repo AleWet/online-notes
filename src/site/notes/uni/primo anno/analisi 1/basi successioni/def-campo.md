@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi/def-campo/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi-successioni/def-campo/","tags":["math","uni"]}
 ---
 
-un campo $F$ è definito come un insieme con 2 [[uni/primo anno/analisi 1/basi/def-operazione-binaria\|operazioni binarie]] tali che:
-- $(F, +)$ è un [[uni/primo anno/analisi 1/basi/def-gruppo\|gruppo abeliano]] con identità $n_0 = 0$
-- $(F \ \textbackslash\ \{0\}, *)$ è un [[uni/primo anno/analisi 1/basi/def-gruppo\|gruppo abeliano]] con identità $n_1 = 1 \ne n_0$
+un campo $F$ è definito come un insieme con 2 [[uni/primo anno/analisi 1/basi successioni/def-operazione-binaria\|operazioni binarie]] tali che:
+- $(F, +)$ è un [[uni/primo anno/analisi 1/basi successioni/def-gruppo\|gruppo abeliano]] con identità $n_0 = 0$
+- $(F \ \textbackslash\ \{0\}, *)$ è un [[uni/primo anno/analisi 1/basi successioni/def-gruppo\|gruppo abeliano]] con identità $n_1 = 1 \ne n_0$
 - e con la proprietà distributiva : $\forall a,b,c \in F \ a*(b+c) = a*b+a*c$
 
 con questa definizione, $\mathbb{R}, \mathbb{C}, \mathbb{Q}$ sono campi
 ___
 ### campo ordinato
-sia $(\mathbb{K},+,*)$ un campo, se esiste una [[uni/primo anno/analisi 1/basi/def-relazione-d'ordine\|relazione d'ordine totale]] su $\mathbb{K}$ tale che :
+sia $(\mathbb{K},+,*)$ un campo, se esiste una [[uni/primo anno/analisi 1/basi successioni/def-relazione-d'ordine\|relazione d'ordine totale]] su $\mathbb{K}$ tale che :
 - $a\le b \implies a +c \le b +c$
 - $a\le b \implies a*c\le b*c$
 allora si dice che la relazione d'ordine è compatibile con il campo ed è quindi un campo ordinato.
