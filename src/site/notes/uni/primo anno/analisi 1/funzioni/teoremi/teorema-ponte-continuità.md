@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teorema-ponte-continuita/","tags":["math","uni"]}
+---
+
+### tesi
+$$f \text{ è continua in }  x_0 \in D(f) \iff f \text{ è continua successionalmente in } x_0$$
+### dim 1°
+se $x_0$ è un [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-punti-accumulazione-and-others#punti isolati\|punto isolato]] di $D(f)$ allora prendo la successione costante:
+$$a_n = x_0$$
+### dim 2°
+se $x_0$ è un [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-punti-accumulazione-and-others#punti di accumulazione\|punto di accumulazione]] di $D(f)$ allora sto dicendo che 
+$$s \lim_{x \to x_0} f(x) = f(x_0)$$
+uso quindi la nozione di [[uni/primo anno/analisi 1/funzioni/definizioni/def-limite-successionale\|limite successionale]] che so essere [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-ponte\|equivalente al limite "normale"]] 

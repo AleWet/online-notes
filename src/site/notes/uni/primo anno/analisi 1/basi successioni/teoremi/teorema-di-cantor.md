@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi-successioni/teorema-di-cantor/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi-successioni/teoremi/teorema-di-cantor/","tags":["math","uni"]}
 ---
 
 Tesi : dato un insieme generico $A$, l'insieme delle parti $P(A)$ ha cardinalità maggiore dell'insieme di partenza : 

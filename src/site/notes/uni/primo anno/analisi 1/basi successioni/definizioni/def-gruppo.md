@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi-successioni/def-gruppo/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi-successioni/definizioni/def-gruppo/","tags":["math","uni"]}
 ---
 
-un gruppo è un insieme $F$ su cui è definita un'[[uni/primo anno/analisi 1/basi successioni/def-operazione-binaria\|operazione binaria]] $\triangle$ con le seguenti proprietà:
+un gruppo è un insieme $F$ su cui è definita un'[[uni/primo anno/analisi 1/basi successioni/definizioni/def-operazione-binaria\|operazione binaria]] $\triangle$ con le seguenti proprietà:
 - chiusura : $a \triangle b = c\in F$
 - associativa : $a\triangle(b\triangle c)=(a\triangle b)\triangle c$
 - elemento neutro : $\exists n_0 \in F : a\triangle n_0 = a$
