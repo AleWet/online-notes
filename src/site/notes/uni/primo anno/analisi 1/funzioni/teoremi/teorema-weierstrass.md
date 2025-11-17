@@ -14,3 +14,4 @@ $[a,b]$ può essere sostituito da un [[uni/primo anno/analisi 1/basi funzioni/de
    
 3) intervallo chiuso e limitato ma funzione non continua
    controesempio = $f:[0,1] \to \mathbb{R}, \ \ f(x) = \cases{\frac{1}{x} \ x > 0 \\ \\ 0 \ \ x = 0}$
+### dim TBD
