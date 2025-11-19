@@ -10,7 +10,7 @@ Assumi sempre che $x_0$ è un punto di accumulazione per $D(f)$ se no il limite 
 ### $\Rightarrow$
 prendo una generica $a_n \ne x_0$ con $a_n \rightarrow x_0$ e voglio dimostrare che $f(a_n) \rightarrow l$ :
 $$\forall u(l), \ f(a_n) \in u(l) \text{ definitivamente}$$
-poiché se $a_n \rightarrow x_0 \implies a_n \in \dot{u}(x_0)$ definitivamente ([[uni/primo anno/analisi 1/basi funzioni/definizioni/def-intorni#osservazione importante\|def-intorni#osservazione importante]])
+poiché se $a_n \rightarrow x_0 \implies a_n \in \dot{u}(x_0)$ definitivamente ([[uni/primo anno/analisi 1/basi funzioni/definizioni/def-intorni#osservazione importante\|osservazione cuoricino]])
 e di conseguenza $f(a_n) \in u(l)$ poiché ogni elemento della successione $a_n$ $\in u(x_0)$ definitivamente.
 ### $\Leftarrow$
 voglio dimostrare che $s\lim f(x) = l \implies \lim f(x) = l$ quindi uso la seguente cosa : 
@@ -43,4 +43,3 @@ $$\forall n \text{ scelgo l'intorno } (n, +\infty)$$
 $$\forall n \ \exists u(l) \text{ e } a_n \ne x_0 \in D(f) : a_n > n$$
 $$\implies a_n \rightarrow x_0 \implies a_n \in u(x_0) \text{ ma } f(a_n) \not\in u(l)$$
 $$\implies f(a_n) \not\rightarrow l \ \ \ \ \ \square$$
-DI QUESTA NON SONO SICURO
