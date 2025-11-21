@@ -3,7 +3,7 @@
 ---
 
 # rapporto incrementale
-sia $f:(a,b) \to \mathbb{R}$ e sia $x_0 \in (a,b)$, definiamo per $h \ne 0$ il seguente oggetto:
+sia $f:(a,b) \to \mathbb{R}$ e sia $x_0 \in (a,b)$, definiamo per $h \ne 0$ e quando $x_0+h \in (a,b)$ il seguente oggetto:
 $$R(f,x_0,h)  := \frac{f(x_0+h) - f(x_0)}{h}$$
 $$\text{ il rapporto incrementale della funzione f nel punto } x_0 \text{ di incremento }h$$
 ____
@@ -38,3 +38,7 @@ ___
 sia $f : I \to \mathbb{R}$ (definita su tutto l'intervallo) costruisco la funzione derivata di $f$ nel seguente modo:
 $$D(f') = \{x \in I : f \text{ derivabile in } x\}$$
 $$x\longmapsto f'(x)$$
+### osservazione
+non è naturalmente vero che se $f$ è continua e derivabile la sua derivata è continua, un esempio è:
+$$\phi(x) = \cases{x^2sin\left( \frac{1}{x}\right) \ \ \ x \ne 0 \\ \\ 0  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ x = 0}$$
+se fai il limite del rapporto incrementale in $x_0 = 0$ ti viene 0 ma $f'(0)$ è undefined.

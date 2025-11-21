@@ -16,6 +16,7 @@ ovvero una retta :
 $$r_{x_0} = f(x_0) + L(x-x_0)$$
 e un errore che va  0 "più veloce" di una retta, l'approssimazione lineare è il termine dominante : 
 $$error(h) = \omega(x-x_0) * (x-x_0)$$
-questo è quindi un termine che quando $x\to x_0, \ \omega(x-x_0) \to 0$ ma questo errore non è il termine dominante, è trascurabile rispetto all'approssimazione della retta.
+questo è quindi un termine che quando $x\to x_0, \ \omega(x-x_0) \to 0$ ma questo errore non è il termine dominante, è trascurabile rispetto all'approssimazione della retta :
+$$\lim_{x \to x_0} \frac{errore(x)}{x-x_0} = 0$$
 ### osservazione
 in $\mathbb{R}^1$, ovvero la retta dei reali, questa nozione è equivalente alla nozione di [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata\|derivabilità]] come dice il [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-equivalenza-derivabile-differenziabile\|seguente teorema]].
