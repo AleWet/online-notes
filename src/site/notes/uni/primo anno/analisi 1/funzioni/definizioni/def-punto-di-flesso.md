@@ -6,7 +6,6 @@ un punto di *flesso* $P_0 = {x_0, f(x_0)}$ per $f$ è tale se
 1) $\exists$ la retta tangente ovvero $f$ è [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in $x_0$
 2) detta $r_0(x)$ la retta tangente al grafico in $x_0 \implies$ 
 $$f(x) - r_0(x) \ge0 \text{ in } (x_0, x_0+\varepsilon)\ \ \land \ \ f(x) - r_0(x) \le 0 \text{ in } (x_0- \varepsilon, x_0) \text{ o viceversa }$$
-equivalente a dire che la funzione sta sopra la tangente a destra/sinistra e sotto la tangente a sinistra/destra.
+equivalente a dire che la funzione sta sopra la tangente a destra/sinistra e sotto la tangente a sinistra/destra, è un punto dove la tangente "buca" il grafico della funzione.
 ### osservazioni importanti
-pagina 14 del seguente pdf [[Derivata (1).pdf#page=14|documento pata derivate su webeep]].
-
+Questa definizione naturalmente non ti dice che c'è un [[uni/primo anno/analisi 1/funzioni/definizioni/def-punto-cambio-concavità\|cambio di concavità]] nel punto di flesso, guarda gli esempi a pagina 14 del seguente pdf [[Derivata (1).pdf#page=14|documento Pata derivate su webeep]].

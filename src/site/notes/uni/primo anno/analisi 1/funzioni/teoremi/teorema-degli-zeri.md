@@ -12,7 +12,7 @@ $$f(a) > 0,\ \ f(b) <0$$
 $$P = \{x \in [a,b] : f(x) > 0\}$$
 $\text{ noto che : }$
 1) $P \ne \emptyset$ poiché $f(a) \in P$
-2) $P \text{ è superiormente limitato o anche } +\infty$ 
+2) $P \text{ è superiormente limitato}$ 
 3) $\exists \ c = supP \in [a,b]$ per la [[uni/primo anno/analisi 1/basi successioni/definizioni/def-assioma-completezza\|completezza di R]]
 $$\text{allora abbiamo dimostrato che } \exists P_n \in P : P_n \to c\tag{*}$$
 $$\text{dalla continuità }\implies f(P_n) \to f(c)$$

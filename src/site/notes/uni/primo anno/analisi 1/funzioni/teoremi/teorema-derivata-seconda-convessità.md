@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teorema-derivata-seconda-convessita/","tags":["math","uni"]}
+---
+
+sia $f:[a,b] \to \mathbb{R}$ con $f$ [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] 2 volte in tutto $[a,b]$
+$$\implies f \text{ è convessa}\iff f''(x) \ge0 \ \forall \ x \in [a,b]$$
+$$\iff f' \text{ è crescente}$$
+per definizione di $f$ convessa guarda [[uni/primo anno/analisi 1/funzioni/definizioni/def-funzione-convessa\|qui]].
+### osservazione importante
+Se f è due volte derivabile in un intervallo $(a,b)$, gli eventuali [[uni/primo anno/analisi 1/funzioni/definizioni/def-punto-cambio-concavità\|punti di cambio di concavità]] vanno dunque ricercati tra le soluzioni dell'equazione $f''(x) = 0$. Questa è infatti una condizione 
+==necessaria non sufficiente== per trovare i punti di cambio di concavità.
