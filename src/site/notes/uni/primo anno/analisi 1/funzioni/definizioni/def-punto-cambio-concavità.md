@@ -6,7 +6,7 @@ Sia $f:[a,b] \to \mathbb{R}$ e sia $x_0 \in (a,b)$.
 
 Diciamo che $x_0$ è un **punto di cambio di concavità/convessità** se:
 
-$$\exists \varepsilon >0 : \begin{cases}
+$$\exists \ \varepsilon >0 : \begin{cases}
 f \text{ è convessa in } [x_0-\varepsilon, x_0] \text{ e concava in } [x_0, x_0+\varepsilon] \\\\
 \text{oppure} \\\\
 f \text{ è concava in } [x_0-\varepsilon, x_0] \text{ e convessa in } [x_0, x_0+\varepsilon]

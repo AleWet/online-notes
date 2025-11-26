@@ -4,7 +4,7 @@
 
 # intuizione
 presa una funzione $f$ derivabile in $x_0$, più ci si avvicina al punto $x_0$ più la funzione diventa approssimabile con la retta tangente in $x_0$, prendi per esempio:
-$$sin(x), \ \ r_0(x) = sin'(0)(x-0) + sin(0) = x$$
+$$sin(x), \ \ r_0(x) = (x-0) + sin(0) = x$$
 è da qui che viene l'[[uni/primo anno/analisi 1/successioni/definizioni/def-asintotico\|asintotico]], sto approssimando la mia funzione con una retta.
 # definizione
 $f:(a,b) \to \mathbb{R}, \ \ \  x_0 \in (a,b)$, $f$ è **differenziabile** in $x_0$ se

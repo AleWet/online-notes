@@ -5,7 +5,7 @@
 # combinazione convessa
 dati $x,y \in \mathbb{R}, \ \ x\ne y$ chiamiamo combinazioni convesse di $x,y$ tutti i numeri della forma:
 $$z_{\lambda} = \lambda x + (1-\lambda)y \ \ \ \lambda \in [0,1]$$
-	ovvero i numeri che ottieni "scorrendo" l'intervallo $[0,1]$ con un parametro $\lambda$.
+ovvero i numeri che ottieni "scorrendo" l'intervallo $[0,1]$ con un parametro $\lambda$.
 ### osservazione
 tutti e soli i numeri compresi tra $x$ e $y$ sono della forma $z_\lambda$ dove $\lambda = \frac{y-z}{y-x}$.
 # funzione convessa
