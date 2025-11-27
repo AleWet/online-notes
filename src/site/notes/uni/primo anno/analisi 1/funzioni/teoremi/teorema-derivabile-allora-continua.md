@@ -8,8 +8,8 @@ naturalmente non è vero il contrario, prendi la funzione $f(x) = |x|$ che è co
 ### dim
 voglio dimostrare che 
 $$\lim_{x\to x_0} f(x) = f(x_0)$$
-$$\iff \lim_{h \to 0} f(x_0+h) \to f(x_0) \iff \lim_{h \to 0}\  [f(x_0+h)-f(x_0)] \to 0$$
-$$\iff \lim_{h \to 0} \frac{f(x_0+h)-f(x_0)}{h} * h \to 0$$
+$$\iff \lim_{h \to 0} f(x_0+h) = f(x_0) \iff \lim_{h \to 0}\  [f(x_0+h)-f(x_0)] = 0$$
+$$\iff \lim_{h \to 0} \frac{f(x_0+h)-f(x_0)}{h} * h = 0$$
 $$\lim_{h\to0}\frac{f(x_0+h)-f(x_0)}{h} = f'(x_0) \in \mathbb{R} \ \ (*)$$
 $$\implies f'(x_0) * h \to 0 \ \ \ \ \square$$
 $$(*) \text{ visto che ho definito la derivata come un limite finito}$$

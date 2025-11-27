@@ -10,7 +10,7 @@ $f'$ è crescente allora la tesi diventa che $f$ vive sopra la retta tangente in
 fissiamo $x_0$ qualsiasi e mostriamo che $\forall x > x_0, f(x) \ge r_{x_0}(x)$, la dimostrazione $\forall x < x_0$ è analoga.
 applico il [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-Lagrange\|teorema di Lagrange]] all'intervallo $[x_0,x]$ ($f$ è derivabile e continua in quell'intervallo, etc)
 $$\implies \exists y \in (x_0,x) : f(x)-f(x_0) = f'(y)(x-x_0)$$
-$$f'(y) \ge f'(x_0) \text{ poiché f' è crescente per ipotesi}$$
+$$f(y) \ge f(x_0) \text{ poiché f' è crescente per ipotesi}$$
 $$f(x) = f'(y)(x-x_0)+f(x_0) \ge f(x_0)(x-x_0)+f(x_0)$$
 $$\implies f(x) \ge f'(x_0)(x-x_0)+f(x_0) = r_{x_0}(x) \ \ \ \ \forall x > x_0$$
 dove $r_{x_0}(x)$ è la retta tangente al grafico di $f$ nel punto $x_0$. Fatto lo stesso ragionamento $\forall x < x_0$

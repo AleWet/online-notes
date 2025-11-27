@@ -33,6 +33,8 @@ $$f'(0) = +\infty \text{ ma } f \text{ non è continua in } x_0$$
 $$\tag{2}\text{il controesempio di Ruziewicz ti dice che salta anche la seconda proprietà}$$
 ### osservazione 3
 sia $f : [a,b] \to \mathbb{R}$ allora dire che $f$ è continua in $a$ e $b$ è dire che $\exists$ rispettivamente la derivata destra e derivata sinistra ($f'_+(a) \ \  \land \ \  f'_-(b)$)
+### osservazione 4
+naturalmente implicito dire che quando faccio $\lim_{h \to 0} f(x_0+h)...$ sto dicendo che $f$ è definita in un [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-intorni\|intorno]] $u(x_0)$ se no questo limite non è neanche "applicabile".
 ___
 # funzione derivata
 sia $f : I \to \mathbb{R}$ (definita su tutto l'intervallo) costruisco la funzione derivata di $f$ nel seguente modo:
@@ -41,4 +43,4 @@ $$x\longmapsto f'(x)$$
 ### osservazione
 non è naturalmente vero che se $f$ è continua e derivabile la sua derivata è continua, un esempio è:
 $$\phi(x) = \cases{x^2sin\left( \frac{1}{x}\right) \ \ \ x \ne 0 \\ \\ 0  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ x = 0}$$
-se fai il limite del rapporto incrementale in $x_0 = 0$ ti viene 0 ma $f'(0)$ è undefined.
+la funzione $f$ è continua in $x_0 = 0$ ma $f'(0)$ è undefined $\implies f'(x)$ non è continua.
