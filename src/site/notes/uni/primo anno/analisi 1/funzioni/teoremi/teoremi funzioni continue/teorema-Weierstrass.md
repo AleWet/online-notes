@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teorema-weierstrass/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-weierstrass/","tags":["math","uni"]}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ una funzione [[uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] allora $f$ ammette [[uni/primo anno/analisi 1/successioni/definizioni/def-estremo-superiore-inferiore-e-max-min\|massimo e minimo]] dove $[a,b]$ è un intervallo [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-insiemi-aperti-chiusi\|chiuso]] e limitato.
@@ -32,7 +32,7 @@ $$\exists \ x_n \in [a,b] : f(x_n) \to M$$
 questo per definizione di [[uni/primo anno/analisi 1/successioni/definizioni/def-estremo-superiore-inferiore-e-max-min\|estremo superiore]]: fai che $\forall \varepsilon >0 \ \exists x \in [a,b] : M-\varepsilon < f(x) \le M$ (cambia con $\forall K>0$ nel caso in cui $M = +\infty$) e quindi :
 $$\forall n \ \exists x : f(x) \in \left( M-\frac{1}{n} ,M\right] \implies \text{crei } x_n :f(x_n) \to M$$
 adesso devo mostrare che $\exists x \in [a,b] : f(x) = M$ e quindi che $M$ è finito.
-dal [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-Weierstrass#lemma\|lemma qui sopra]] sai che
+dal [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Weierstrass#lemma\|lemma qui sopra]] sai che
 $$\exists x_{n_k} \in [a,b] : x_{n_k} \to x \in [a,b]$$
 $$\text{se }f(x_n) \to M \implies \text{ presa una generica sottosuccessione } x_{n_k} \ , \ f(x_{n_k}) \to M$$
 $$\text{ poiché dal lemma } x_{n_k} \to x \in [a,b], f(x_{n_k}) \to M$$

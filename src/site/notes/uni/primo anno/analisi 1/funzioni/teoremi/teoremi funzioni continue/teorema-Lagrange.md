@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teorema-lagrange/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-lagrange/","tags":["math","uni"]}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ (definita su tutto $[a,b]$) tale che :
@@ -17,7 +17,7 @@ allora questo viene chiamato il ==teorema di Rolle==.
 2) se la prendo non derivabile in $(a,b)$
    $$f(x) = |x|$$
 in entrambi i casi non c'è un punto dove *m* della retta tangente è $= \frac{f(b)-f(a)}{b-a} = 0$
-### osservazione 2
+### osservazione 2 DA RIGUARDARE LEZIONE 18/11
 $a \in \mathbb{R}, \ f:u(a) \to \mathbb{R} \ \land f \in C^1(u(a))$ ([[uni/primo anno/analisi 1/funzioni/definizioni/def-classi\|classi delle funzioni]]) e sia $a_n \to a, \ a_n \ne a$ 
 $$\implies f(a_n)-f(a) \sim f'(a)(a_n-a)$$
 si dimostra nel seguente modo:
@@ -27,11 +27,11 @@ $$\implies f(a_n)-f(a) = f'(b_n)(a_n-a)$$
 $$f'(b_n) \to f'(a) \text{ poiché f } \in C^1(u(a)) \text{ ed equivalenza di continuità successionale}$$
 Da questa relazione derivi molti [[uni/primo anno/analisi 1/successioni/definizioni/def-asintotico\|asintotici]] come $e^{a_n}-e^a \sim e^a(a_n-a).$
 ### dim Rolle
-supponiamo $f(a) = f(b)$, poiché $f$ è continua in $[a,b]$ allora $f$ ammette massimo e minimo nell'intervallo chiuso per [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-Weierstrass\|teorema-Weierstrass]]. 
+supponiamo $f(a) = f(b)$, poiché $f$ è continua in $[a,b]$ allora $f$ ammette massimo e minimo nell'intervallo chiuso per [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Weierstrass\|teorema-Weierstrass]]. 
 1) caso banale : massimo e minimo sono entrambi negli estremi $a$ e $b \implies f$ è costante
    il che vorrebbe dire che tutti i punti nell'intervallo $[a,b]$ sono estremanti
 2) assumiamo allora che almeno uno tra max e min non sia realizzato negli estremi 
-   $\implies \exists c \in [a,b] : c$ è estremante. In entrambi i casi il [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-Fermat\|teorema-Fermat]] ci dice che 
+   $\implies \exists c \in [a,b] : c$ è estremante. In entrambi i casi il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Fermat\|teorema-Fermat]] ci dice che 
    $f'(c) = 0$ arrivando quindi all'ipotesi
 ### dim Lagrange
 Devo quindi dimostrare il caso più generale con $f(a), f(b)$ generici. Considero allora una generica retta $y = mx + q$ dove  

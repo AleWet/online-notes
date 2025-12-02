@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teorema-convessa-maggiore-tangente/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessa-maggiore-tangente/","tags":["math","uni"]}
 ---
 
 # $\Rightarrow$
@@ -7,7 +7,7 @@ sia $f:[a,b] \to \mathbb{R}$ una funzione [[uni/primo anno/analisi 1/funzioni/de
 $$\implies f(x) \ge r_{tangente}(x) \ \forall x \in [a,b]$$
 dove $r_{tangente}$ è la retta tangente a $f$ in $x_0 ,\  r_{\text{tangente}} = f'(x_0)(x-x_0)+f(x_0)$ 
 ### osservazione
-La retta tangente sta quindi sotto *tutto* il grafico della funzione se la funzione è convessa e questo vale per ogni punto $x_0$ dell'intervallo di convessità.
+La retta tangente sta quindi sotto *tutto* il grafico della funzione se la funzione è convessa e questo vale per ogni punto $x_0$ in cui la funzione ammette derivata.
 ### dim TBD
 ___
 # $\Leftarrow$ 

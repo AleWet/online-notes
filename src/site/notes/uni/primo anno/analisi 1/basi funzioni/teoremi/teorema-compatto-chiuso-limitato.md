@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teorema-compatto-chiuso-limitato/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi-funzioni/teoremi/teorema-compatto-chiuso-limitato/","tags":["math","uni"]}
 ---
 
 [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-insieme-compatto\|insieme compatto]] $A \iff A$ [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-insiemi-aperti-chiusi#insieme chiuso\|chiuso]] e limitato

@@ -21,7 +21,7 @@ ___
 # continuità successionale
 $f$ è continua successionalmente in $x_0$ se 
 $$\forall a_n \in D(f) : a_n \rightarrow x_0 \text{ si ha che } f(a_n) \to f(x_0)$$
-il [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-ponte-continuità\|seguente teorema]] ti dice che questa cosa è equivalente alla continuità definita sopra. 
+il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-ponte-continuità\|seguente teorema]] ti dice che questa cosa è equivalente alla continuità definita sopra. 
 
 ____
 # funzione continua

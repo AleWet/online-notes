@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teorema-heine-cantor/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-heine-cantor/","tags":["math","uni"]}
 ---
 
 questo teorema ti dice che una $f$ [[uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] su un [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-insieme-compatto\|insieme compatto]] allora $f$ è [[uni/primo anno/analisi 1/funzioni/definizioni/def-uniformemente-continua\|uniformemente continua]].

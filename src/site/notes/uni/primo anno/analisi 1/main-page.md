@@ -6,7 +6,7 @@ Dalla barra a sinistra puoi accedere a tutte le note utili per il corso di anali
 Link utili : 
 - [[uni/primo anno/analisi 1/lista-teoremi-secondo-parziale-TBD\|lista-teoremi-secondo-parziale-TBD]]
 - [[uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|def-continuità]]
-- [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-Lagrange\|teorema-Lagrange]]
+- [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Lagrange\|teorema-Lagrange]]
 
 
 

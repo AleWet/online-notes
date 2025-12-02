@@ -24,7 +24,7 @@ $$f(x) = \cases{x^2 sin\left( \frac{1}{x} \right)  \ \ \ \ x \ne 0 \\ \\\ 0 \ \ 
 ### osservazione 2
 le seguenti cose sono vere se dico che il limite di $R(f,x_0,h)$ deve essere **FINITO** : 
 
-1) se so che la funzione è derivabile in $x_0$ so anche che è [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-derivabile-allora-continua\|continua]]  
+1) se so che la funzione è derivabile in $x_0$ so anche che è [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-derivabile-allora-continua\|continua]]  
 2) se $f,g$ sono derivabili in $[a,b]$ e so che $\forall x\in [a,b] \ \ f'(x) =g'(x) \implies f(x) = g(x) +c$
 
 se ammettessi che il limite del rapporto incrementale fosse $\pm \infty$ allora sorgerebbero dei problemi:

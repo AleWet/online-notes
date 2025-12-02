@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teorema-degli-zeri/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-degli-zeri/","tags":["math","uni"]}
 ---
 
 sia $f : [a,b] \to \mathbb{R}$ [[uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] (definita e continua su tutto l'intervallo $[a,b]$)
