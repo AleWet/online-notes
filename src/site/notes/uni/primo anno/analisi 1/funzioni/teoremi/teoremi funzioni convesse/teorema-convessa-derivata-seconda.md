@@ -12,5 +12,5 @@ Se f è due volte derivabile in un intervallo $(a,b)$, gli eventuali [[uni/primo
 ### osservazione 
 naturalmente la stessa cosa si applica alle funzioni concave nelle quali $f''(x) \le x \ \forall x$.
 ### dim
-applichi banalmente il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-derivata-monotonia\|seguente teorema]] che ti dice che una funzione è crescente se e solo se la sua derivata è $\ge$ 0 in quell'intervallo (stessa cosa per decrescente con $\le0$).
+applichi banalmente il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-derivata-monotonia\|seguente teorema]] che ti dice che una funzione è crescente se e solo se la sua derivata è $\ge$ 0 in quell'intervallo (stessa cosa per decrescente con $\le0$).
 

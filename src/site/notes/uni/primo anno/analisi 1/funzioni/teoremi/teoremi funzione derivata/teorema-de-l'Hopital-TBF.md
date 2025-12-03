@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-de-l-hopital-tbf/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-de-l-hopital-tbf/","tags":["math","uni"]}
 ---
 
 sia $x_{0} \in \overline{\mathbb{R}}$ e siano $f,g$ [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#derivabilità\|derivabili]] in $\dot{u} (x_0)$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-lagrange/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-lagrange/","tags":["math","uni"]}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ (definita su tutto $[a,b]$) tale che :
@@ -31,7 +31,7 @@ supponiamo $f(a) = f(b)$, poiché $f$ è continua in $[a,b]$ allora $f$ ammette 
 1) caso banale : massimo e minimo sono entrambi negli estremi $a$ e $b \implies f$ è costante
    il che vorrebbe dire che tutti i punti nell'intervallo $[a,b]$ sono estremanti
 2) assumiamo allora che almeno uno tra max e min non sia realizzato negli estremi 
-   $\implies \exists c \in [a,b] : c$ è estremante. In entrambi i casi il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Fermat\|teorema-Fermat]] ci dice che 
+   $\implies \exists c \in [a,b] : c$ è estremante. In entrambi i casi il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Fermat\|teorema-Fermat]] ci dice che 
    $f'(c) = 0$ arrivando quindi all'ipotesi
 ### dim Lagrange
 Devo quindi dimostrare il caso più generale con $f(a), f(b)$ generici. Considero allora una generica retta $y = mx + q$ dove  

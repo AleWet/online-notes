@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-tappabuchi-tbd/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-tappabuchi-tbd/","tags":["math","uni"]}
 ---
 
 Pata l'ha chiamata condizione sufficiente di derivabilità se mi ricordo bene.

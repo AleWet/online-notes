@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-equivalenza-derivabile-differenziabile-tbd/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-equivalenza-derivabile-differenziabile-tbd/","tags":["math","uni"]}
 ---
 
 $f$ è [[uni/primo anno/analisi 1/funzioni/definizioni/def-differenziabilità\|differenziabile]] in $x_0 \iff f$ è [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata\|derivabile]] in $x_0$, e in tal caso $l$ è esattamente $f'(x_0)$.

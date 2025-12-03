@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-derivata-monotonia/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-monotonia/","tags":["math","uni"]}
 ---
 
-sia $f:[a,b] \to \mathbb{R}, f$ soddisfa le ipotesi di [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Lagrange\|Lagrange]] $\implies$
+sia $f:[a,b] \to \mathbb{R}, f$ soddisfa le ipotesi di [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Lagrange\|Lagrange]] $\implies$
 $$f(x) \text{ è crescente } \iff f'(x) \ge0 \ \forall\  x\in (a,b)$$
 $$f(x) \text{ è decrescente} \iff f'(x) \le 0 \ \forall \ x \in (a,b)$$
 ### osservazione 1
@@ -11,7 +11,7 @@ non è vero che se $f \text{ è setrettamente crescente } \implies f'(x) > 0$, u
 $$f \text{ è costante} \iff f'(x) = 0$$
 ### dim $\Rightarrow$ 
 siano $x<y$ con $x,y \in [a,b]$ voglio mostrare che $f(x) \le f(y)$.
-Inizio applicando [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Lagrange\|Lagrange]] a $f$ sull'intervallo $[x,y]$
+Inizio applicando [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Lagrange\|Lagrange]] a $f$ sull'intervallo $[x,y]$
 $$\implies \exists c \in (x,y) : \frac{f(y)-f(x)}{y-x}=f'(c)$$
 $$\implies f'(c)(y-x) = f(y)-f(x)$$
 $$y-x > 0, \ f'(c) \ge 0 \implies f(y)-f(x) \ge 0 \ \ \ \ \square$$

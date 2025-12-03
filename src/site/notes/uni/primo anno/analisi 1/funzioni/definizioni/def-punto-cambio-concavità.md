@@ -20,4 +20,4 @@ se $f$ è due volte [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata
 $$f''(x_0) = 0$$
 e si dimostra nel seguente modo: 
 $f'$ (definita in un intorno di $x_0$) ha un estremo locale in $x_0$ poiché è crescente/decrescente prima e decrescente/crescente dopo (se no non sarebbe un punto di cambio di concavità). 
-La tesi segue dal [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Fermat\|teorema-Fermat]]: se $f'$ ha un estremo locale in $x_0$ e $f'$ è derivabile in $x_0$, allora $(f')'(x_0) = f''(x_0) = 0$.
+La tesi segue dal [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Fermat\|teorema-Fermat]]: se $f'$ ha un estremo locale in $x_0$ e $f'$ è derivabile in $x_0$, allora $(f')'(x_0) = f''(x_0) = 0$.

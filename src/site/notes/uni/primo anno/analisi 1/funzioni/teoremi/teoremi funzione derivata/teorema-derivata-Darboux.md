@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-derivata-darboux/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-darboux/","tags":["math","uni"]}
 ---
 
 sia $f : I \to \mathbb{R}$ [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata\|derivabile]] in $I$ allora la [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#funzione derivata\|funzione derivata]] $f'$ ha la proprietà di [[uni/primo anno/analisi 1/funzioni/definizioni/def-Darboux\|Darboux]].
@@ -20,4 +20,4 @@ $$\implies \exists z \in (a,b) : z \text{ è il massimo di }g \implies g'(z) = 0
 $$\implies g'(z) = f'(z) -\gamma \implies f'(z) = \gamma \ \ \ \square$$
 
 $(*)$ questo per il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Weierstrass\|teorema-Weierstrass]].
-$(**)$ questo per il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Fermat\|teorema-Fermat]].
+$(**)$ questo per il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Fermat\|teorema-Fermat]].
