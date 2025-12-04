@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/definizioni/def-classi/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/definizioni/def-classi-di-continuita/","tags":["math","uni"]}
 ---
 
 # $D$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-integrabilita-da-continuita/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-continua-integrabile/","tags":["math","uni"]}
 ---
 
 sia $f$ [[uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] in un intervallo $[a,b]$ allora $f \in R(a,b)$ (dove con $R(a,b)$ si intende [[uni/primo anno/analisi 1/funzioni/definizioni/def-integrale-Riemann-TBF\|questo]]).

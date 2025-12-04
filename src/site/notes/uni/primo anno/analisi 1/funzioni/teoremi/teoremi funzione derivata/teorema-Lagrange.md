@@ -18,7 +18,7 @@ allora questo viene chiamato il ==teorema di Rolle==.
    $$f(x) = |x|$$
 in entrambi i casi non c'è un punto dove *m* della retta tangente è $= \frac{f(b)-f(a)}{b-a} = 0$
 ### osservazione 2 DA RIGUARDARE LEZIONE 18/11
-$a \in \mathbb{R}, \ f:u(a) \to \mathbb{R} \ \land f \in C^1(u(a))$ ([[uni/primo anno/analisi 1/funzioni/definizioni/def-classi\|classi delle funzioni]]) e sia $a_n \to a, \ a_n \ne a$ 
+$a \in \mathbb{R}, \ f:u(a) \to \mathbb{R} \ \land f \in C^1(u(a))$ ([[uni/primo anno/analisi 1/funzioni/definizioni/def-classi-di-continuità\|classi delle funzioni]]) e sia $a_n \to a, \ a_n \ne a$ 
 $$\implies f(a_n)-f(a) \sim f'(a)(a_n-a)$$
 si dimostra nel seguente modo:
 1) sia $b_n$ compresa tra $a$ e $a_n \implies  b_n \to a$ ([[uni/primo anno/analisi 1/successioni/teoremi/teorema-del-confronto\|teorema-del-confronto]])
