@@ -11,7 +11,7 @@ $$ \int f(x)dx \ge 0$$
 ### osservazione importante
 non è vero che 
 $$\int f(x)dx = 0 \implies f(x) = 0  \forall x \in [a,b]$$
-poiché posso cambiare un numero $finito$ di punti e [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-integrale-finiti-punti-diversi-TBD\|lo stesso integrale alla fine]].
+poiché posso cambiare un numero $finito$ di punti e [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-integrale-finiti-punti-diversi-TBF\|lo stesso integrale alla fine]].
 se impongo però che $f$ sia [[uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] allora questo è vero (non posso più avere punti di "salto" dove l'integrale ha valori diversi che hanno "misura $0$").
 ### dim-teorema-TBD
 ### dim-corollario-TBD

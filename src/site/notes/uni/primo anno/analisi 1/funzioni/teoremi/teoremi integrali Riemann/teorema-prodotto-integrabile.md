@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-prodotto-integrabili/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-prodotto-integrabile/","tags":["math","uni"]}
 ---
 
 siano $f,g \in R(a,b)$ allora 

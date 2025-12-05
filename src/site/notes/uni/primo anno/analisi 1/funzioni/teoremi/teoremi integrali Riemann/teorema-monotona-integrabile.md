@@ -4,7 +4,7 @@
 
 una funzione $f:[a,b] \to \mathbb{R}$ monotona è automaticamente [[uni/primo anno/analisi 1/funzioni/definizioni/def-integrale-Riemann-TBF\|Riemann integrabile]] ($\in R(a,b)$)
 ### osservazione 
-una funzione monotona può avere infiniti salti e quindi infiniti punti di discontinuità ed essere comunque integrabile grazie a questo teorema ( $\neq$ da [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-finite-discontinuità-integrabile-TBD\|questo teorema]]). 
+una funzione monotona può avere infiniti salti e quindi infiniti punti di discontinuità ed essere comunque integrabile grazie a questo teorema ( $\neq$ da [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-finite-discontinuità-integrabile-TBF\|questo teorema]]). 
 ### dim
 supponiamo che $f$ sia crescente, per $f$ decrescente la dimostrazione è analoga e prendo per semplicità $[a,b] = [0,1]$ in modo da avere $\frac{1}{n}$ come lunghezza di ogni partizione $I_{k}$.
 $$S_{n} = \frac{1}{n}\left[ f\left( \frac{1}{n} \right) + f\left( \frac{2}{n} \right) + \dots +f\left(  \frac{n-1}{n}   \right) + f\left( \frac{n}{n} = 1 \right) \right]$$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-integrale-finiti-punti-diversi-tbd/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-integrale-finiti-punti-diversi-tbf/","tags":["math","uni"]}
 ---
 
 siano $f,g:[a,b] \to \mathbb{R}$ tali che differiscono di un numero **FINITO** di punti, allora 
