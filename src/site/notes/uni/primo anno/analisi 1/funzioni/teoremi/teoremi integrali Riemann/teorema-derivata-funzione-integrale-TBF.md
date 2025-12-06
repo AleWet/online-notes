@@ -22,4 +22,4 @@ $$f(x) = \begin{cases}
 0 & x=0
 \end{cases}$$
 $f$ ha un solo punto di [[uni/primo anno/analisi 1/funzioni/definizioni/def-punti-discontinuità#discontinuità di II specie\|discontinuità di seconda specie]] e altrove è continua quindi [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-finite-discontinuità-integrabile-TBF\|è integrabile]], inoltre $f$ ammette primitiva (la $F$) e quindi $f \in R_P(a,b)$.
-### dim
+### dim TBD
