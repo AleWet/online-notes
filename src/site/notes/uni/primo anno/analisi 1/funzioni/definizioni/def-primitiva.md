@@ -17,7 +17,7 @@ assumiamo che $F$ e $G$ siano primitive di $f \implies F = G+c, \ c \in \mathbb{
 $$F,G \text{ primitive di } f$$
 $$(F-G)' = F'-G' = f-f = 0$$
 $$\implies (F-G) \text{ è una funzione costante } h(x) = c$$
-l'ultimo passaggio si deriva da [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-derivata-monotonia\|questo teorema]] che ti dice che una funzione con derivata nulla è costante.
+l'ultimo passaggio si deriva da [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-derivata-monotonia\|questo teorema]], dice che una  funzione con derivata nulla è costante.
 ### osservazione 4
 consideriamo le seguenti affermazioni:
 $$\tag{1} f \text{ ammette primitiva in } [a,b]$$
