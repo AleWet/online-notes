@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/geometria-iperbolica/def-generali/","tags":["uni","math"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/basi-successioni/geometria-iperbolica/def-generali/","tags":["uni","math"]}
 ---
 
 ### definizione

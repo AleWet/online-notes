@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/successioni-funzioni/teoremi-convergenza-puntuale/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/successioni-funzioni/teoremi-convergenza-puntuale-tbd/","tags":["math","uni"]}
 ---
 
 qui segue la trattazione che il Pata ha fatto a lezione delle proprietà della convergenza puntuale.
