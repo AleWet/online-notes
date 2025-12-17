@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/successioni-funzioni/def-successione-funzioni/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-successione-funzioni/","tags":["math","uni"]}
 ---
 
 # successione di funzioni
@@ -20,7 +20,7 @@ $$\forall x \in I, \ \{f_{n}(x)\} \ \text{ converge } \in \mathbb{R}$$
 $$\text{ e definiamo } f : I \to \mathbb{R} \text{ come funzione limite}$$
 $$f(x):= \lim_{ n \to \infty } f_{n}(x)$$
 quindi solo quando il **limite esiste ed è finito**, la notazione standard è $f_{n} \to f$.
-Guarda [[uni/primo anno/analisi 1/successioni funzioni/teoremi-convergenza-puntuale-TBD\|qui]] per la trattazione fatta a lezione di questa proprietà che risulta molto debole.
+Guarda [[uni/primo anno/analisi 1/successioni funzioni/teoremi/teoremi-convergenza-puntuale-TBD\|qui]] per la trattazione fatta a lezione di questa proprietà che risulta molto debole.
 ___
 # convergenza uniforme
 visto che la convergenza puntiforme risulta abbastanza debole come concetto di convergenza (come puoi vedere nel link qui sopra) è necessaria una definizione di convergenza più potente.
@@ -34,4 +34,4 @@ $$ \iff \sup_{x \in I} |f_{n}(x) - f(x)| < \varepsilon$$
 $$\iff\lim_{ n \to \infty }  \sup_{x \in I} |f_{n}(x) - f(x)| = 0$$
 la notazione che usa il Pata è
 $$f_{n} \xrightarrow{u} f$$
-è importante citare che tutti con questo concetto di convergenza molte delle proprietà delle funzioni della successione si traslano alla funzione limite, per i teoremi guarda [[uni/primo anno/analisi 1/successioni funzioni/teoremi-convergenza-uniforme-TBD\|qui]].
+è importante citare che tutti con questo concetto di convergenza molte delle proprietà delle funzioni della successione si traslano alla funzione limite, per i teoremi guarda [[uni/primo anno/analisi 1/successioni funzioni/teoremi/teoremi-convergenza-uniforme-TBF\|qui]].
