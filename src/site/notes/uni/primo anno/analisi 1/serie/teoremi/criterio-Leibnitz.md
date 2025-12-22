@@ -22,7 +22,7 @@ $$S_{2n+1} = (b_0-b_1)+(b_2-b_3)+...+(b_{2n}-b_{2n+1})$$
 e tu sai che $b_n > b_{n-1} \ \forall n$ e che quindi $S_{2n} \downarrow \land \ S_{2n+1}\uparrow$. 
 Inoltre : 
 $$S_{2n} > S_{2n+1} \ \forall n $$
-questo perché $S_{2n} - S_{2n+1} = a_{2n+1} < 0 \text{ (esponente dispari)}$.
+questo perché $S_{2n} - S_{2n+1} = + a_{2n+1} > 0 \text{ (esponente dispari)}$.
 Inoltre ti viene che $a_n \rightarrow 0$ ([[uni/primo anno/analisi 1/successioni/definizioni/def-successione-infinitesima\|infinitesima * limitata = infinitesima]]).
 di conseguenza puoi usare il [[uni/primo anno/analisi 1/successioni/teoremi/teorema-cuoricino\|teorema-cuoricino]] che ti dice che :
 $$\lim S_{2n} =\lim S_{2n+1} = l \in \mathbb{R}$$

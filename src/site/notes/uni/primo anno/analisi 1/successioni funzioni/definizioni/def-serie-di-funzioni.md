@@ -4,10 +4,14 @@
 
 data $f_{n}: I \to \mathbb{R}$ costruiamo, come nelle [[uni/primo anno/analisi 1/serie/definizioni/def-serie\|serie]], la **successione delle somme parziali** di una [[uni/primo anno/analisi 1/successioni funzioni/definizioni/def-successione-funzioni\|successione di funzioni]] :  
 $$s_{n}(x) = \sum_{k = 1}^n f_{k}(x) \ \ \forall x \text{ fissato}$$
+il concetto è sempre quello di una successione di funzioni, ad ogni $n$ associ una funzione che in questo caso non è più "una singola funzione" ma una somma di più funzioni. Immagina di fissare un punto $x$, definisci $s_{n}(x)$ come la somma di $n$ funzioni tutte della variable $x$ :
+$$s_{n}(x) = f_{1}(x)+f_{2}(x)+\dots+f_{n}(x)$$
+quindi come prima hai una "macro funzione" $s_{n}$ 
+che dipende sia da $n$ sia da $x$.a
 # convergenza puntuale
 come nelle [[uni/primo anno/analisi 1/successioni funzioni/definizioni/def-successione-funzioni#convergenza puntuale\|successioni di funzioni]] diciamo che $s_{n}$ **converge puntualmente in $x$ se** :
-$$\exists  \in \mathbb{R}\lim_{ n \to \infty } \sum_{n=1}^\infty f_{n}(x)$$ e lo chiamiamo:
-$$S(x) :=\lim_{ n \to \infty } \sum_{n=1}^\infty f_{n}(x), \ \ s_{n} \to S$$
+$$\exists  \in \mathbb{R}\lim_{ n \to \infty } \sum_{k=1}^n f_{k}(x)$$ e lo chiamiamo:
+$$S(x) :=\lim_{ n \to \infty } \sum_{k=1}^n f_{k}(x), \ \ s_{n} \to S$$
 # convergenza uniforme
 uguale alle [[uni/primo anno/analisi 1/successioni funzioni/definizioni/def-successione-funzioni#convergenza uniforme\|successioni di funzioni]], anche stessa notazione :
 $$s_{n} \xrightarrow{u} S $$

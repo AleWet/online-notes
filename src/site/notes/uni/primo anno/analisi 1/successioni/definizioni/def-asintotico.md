@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/successioni/definizioni/def-asintotico/","tags":["math","uni"]}
 ---
 
-### def
+### definizione
 due successioni sono dette asintotiche se
 $$\tag*{def}\frac{a_n}{b_n}\rightarrow1 \iff a_n \sim b_n$$
 ### osservazioni

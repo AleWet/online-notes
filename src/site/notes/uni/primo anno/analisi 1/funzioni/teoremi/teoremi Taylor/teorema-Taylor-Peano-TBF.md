@@ -21,7 +21,7 @@ Se provi ad usare Taylor sulla funzione esponenziale in $x_0 = 0$ troverai esatt
 ### osservazione 3
 Se ho un polinomio $P_{n}(x)$ di grado $\le n$ tale che (prendendo $x_{0}=0$) :
 $$ \frac{P_{n}(x)-f(x)}{x^n} \to 0$$
-non posso sempre trovare questo "polibello" con la procedura di Taylor poiché essa è sufficiente e non necessaria. Esempio : $f(x) = x^3\sin(x)$ per cui $\not \exists \ f''(0) \implies \not\exists P_{taylor}(x)$ ma se prendo $Q(x) = 0$ questo è un "polibello" che funziona con il $grado-2$ :
+non posso sempre trovare questo "polibello" con la procedura di Taylor poiché essa è sufficiente e non necessaria. Esempio : $f(x) = x^3\sin\left( \frac{1}{x} \right)$ per cui $\not \exists \ f''(0) \implies \not\exists P_{taylor}(x)$ ma se prendo $Q(x) = 0$ questo è un "polibello" che funziona con il $grado-2$ :
 $$\lim_{x\to 0} \frac{f(x)-Q(x)}{x^2} = \lim_{ x \to 0 } \frac{f(x)}{x^2} =0$$
 ho quindi trovato un "polibello" di $\text{ordine 2}$ ma non esiste un "politaylor" di $\text{ordine 2}$.
 ### dim TBF

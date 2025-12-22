@@ -24,7 +24,7 @@ $$\tag{1} f \text{ ammette primitiva in } [a,b]$$
 $$\tag{2} f \in R(a,b)$$
 dove con $R(a,b)$ si intende la [[uni/primo anno/analisi 1/funzioni/definizioni/def-integrale-Riemann-TBF\|seguente cosa]], allora 
 $$(1) \not\Rightarrow (2)$$
-poiché le [[uni/primo anno/analisi 1/funzioni/definizioni/def-funzione-costante-a-tratti-TBF\|funzioni costanti a tratti]] non ammettono primitiva poiché non sono Darboux
+poiché le [[uni/primo anno/analisi 1/funzioni/definizioni/def-funzione-costante-a-tratti\|funzioni costanti a tratti]] non ammettono primitiva poiché non sono Darboux
 $$(2) \not\Rightarrow (1)$$
 e si può fare il seguente controesempio:
 $$f(x) = \begin{cases}
