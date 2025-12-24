@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessita-monotonia/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessita-derivata-prima/","tags":["math","uni"]}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] su tutto $[a,b]$ allora $f$ è [[uni/primo anno/analisi 1/funzioni/definizioni/def-funzione-convessa\|convessa]] $\iff f'(x)$ è crescente
