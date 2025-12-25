@@ -11,4 +11,4 @@ $$a_n = x_0$$
 ### dim 2°
 se $x_0$ è un [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-punti-accumulazione-and-others#punti di accumulazione\|punto di accumulazione]] di $D(f)$ allora sto dicendo che 
 $$s \lim_{x \to x_0} f(x) = f(x_0)$$
-uso quindi la nozione di [[uni/primo anno/analisi 1/funzioni/definizioni/def-limite-successionale\|limite successionale]] che so essere [[uni/primo anno/analisi 1/funzioni/teoremi/teorema-ponte\|equivalente al limite "normale"]].
+uso quindi la nozione di [[uni/primo anno/analisi 1/funzioni/definizioni/def-limite-successionale\|limite successionale]] che so essere [[uni/primo anno/analisi 1/basi funzioni/teoremi/teorema-ponte\|equivalente al limite "normale"]].

@@ -6,6 +6,7 @@
 sia $f:(a,b) \to \mathbb{R}$ e sia $x_0 \in (a,b)$, definiamo per $h \ne 0$ e quando $x_0+h \in (a,b)$ il seguente oggetto:
 $$R(f,x_0,h)  := \frac{f(x_0+h) - f(x_0)}{h}$$
 $$\text{ il rapporto incrementale della funzione f nel punto } x_0 \text{ di incremento }h$$
+inoltre ho come ipotesi che $x_{0}$ sia un punto di accumulazione per $f$ se no la procedura di derivazione non è implementabile.
 ____
 # derivabilità
 $f$ è *derivabile* in $x_0$ se $\exists$ **FINITO**  il seguente limite:

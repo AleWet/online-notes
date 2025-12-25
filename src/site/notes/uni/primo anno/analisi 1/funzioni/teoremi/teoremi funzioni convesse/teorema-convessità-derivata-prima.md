@@ -6,9 +6,7 @@ sia $f:[a,b] \to \mathbb{R}$ [[uni/primo anno/analisi 1/funzioni/definizioni/def
 ### osservazione
 la parte più interessante di questa relazione è $\Leftarrow$ poiché la derivata ci sta dando informazioni riguardo la funzione ed è infatti l'unica parte che abbiamo dimostrato.
 ### dim $\Leftarrow$
-$f'$ è crescente allora la tesi diventa che $f$ vive sopra la retta tangente in ogni punto per ogni retta:
-fissiamo $x_0$ qualsiasi e mostriamo che $\forall x > x_0, f(x) \ge r_{x_0}(x)$, la dimostrazione $\forall x < x_0$ è analoga.
-applico il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Lagrange\|teorema di Lagrange]] all'intervallo $[x_0,x]$ ($f$ è derivabile e continua in quell'intervallo, etc)
+Parto per ipotesi dal fatto che $f'(x)$ e voglio dimostrare che $f$ è convessa, per fare ciò dimostro che $f(x)$ è sopra tutte le sue rette tangenti in $[a,b]$ e grazie a [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni convesse/teorema-convessa-maggiore-tangente\|questo teorema]] trovo che $f$ è convessa. Fissiamo $x_0$ qualsiasi e mostriamo che $\forall x > x_0, f(x) \ge r_{x_0}(x)$, la dimostrazione $\forall x < x_0$ è analoga. Applico il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Lagrange\|teorema di Lagrange]] all'intervallo $[x_0,x]$ ($f$ è derivabile e continua in quell'intervallo, posso dire che è continua [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni convesse/teorema-convessa-allora-continua\|grazie a questo teorema]])
 $$\implies \exists y \in (x_0,x) : f(x)-f(x_0) = f'(y)(x-x_0)$$
 $$f(y)' \ge f(x_0)' \text{ poiché f' è crescente per ipotesi}$$
 $$f(x) = f'(y)(x-x_0)+f(x_0) \ge f(x_0)'(x-x_0)+f(x_0)$$

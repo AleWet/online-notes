@@ -13,3 +13,4 @@ $$\iff \lim_{h \to 0} \frac{f(x_0+h)-f(x_0)}{h} * h = 0$$
 $$\lim_{h\to0}\frac{f(x_0+h)-f(x_0)}{h} = f'(x_0) \in \mathbb{R} \ \ (*)$$
 $$\implies f'(x_0) * h \to 0 \ \ \ \ \square$$
 $$(*) \text{ visto che ho definito la derivata come un limite finito}$$
+è importante far notare che la definizione iniziale di continuità è quella implementabile nei [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-punti-accumulazione-and-others\|punti di accumulazione]].
