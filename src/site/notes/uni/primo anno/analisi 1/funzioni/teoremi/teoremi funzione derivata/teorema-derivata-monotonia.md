@@ -25,3 +25,7 @@ $$\implies f'_+(x) \ge0 \implies f'(x) \ge 0 \text{ usando il teorema della perm
 ### dim corollario 
 questo segue dal fatto che una funzione costante è contemporaneamente *crescente* e *decrescente* ricordando che crescente e decrescente impongono $\ge, \le$ non disuguaglianza stretta,
 $$\implies f'(x) \ge0 \ \land f'(x) \le0 \implies f'(x) = 0 \ \ \ \square$$
+questa cosa si può dimostrare anche per assurdo nel seguente modo:
+siano due punti $x,y$ t.c. $f(x) \ne f(y)$ allora:
+$$\exists c \in (x,y) : \frac{f(x)-f(y)}{y-x} = f'(c)$$
+e per ipotesi $x \ne y, \ f(x) \ne f(y) \implies f'(c) \ne 0$ il che è assurdo.
