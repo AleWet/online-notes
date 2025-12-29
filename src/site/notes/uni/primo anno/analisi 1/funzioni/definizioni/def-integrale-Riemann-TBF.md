@@ -17,9 +17,9 @@ esistono funzioni limitate non integrabili e come sempre usi la [[uni/primo anno
 ___
 # somme inferiori e superiori
 definisco **somma inferiore** relativa a $f$ su $[a,b]$ di ordine $n$ la quantità
-$$s_{n}= \frac{b-a}{n}\sum_{i=0}^n \inf_{I_{k}}f$$
+$$s_{n}= \frac{b-a}{n}\sum_{i=1}^n \inf_{I_{k}}f$$
 definisco **somma superiore** in modo analogo:
-$$S_{n} = \frac{b-a}{n}\sum_{i=0}^n \sup_{I_{k}}f$$
+$$S_{n} = \frac{b-a}{n}\sum_{i=1}^n \sup_{I_{k}}f$$
 ### osservazioni necessarie
 $$\tag{1}\forall n, \forall m  \ \ s_{n} \le S_{n}$$
 l'area del pluri-rettangolo sotto il grafico di $f$ sarà sempre minore di tutti i pluri-rettangoli che posso costruire sopra il grafico di $f$.

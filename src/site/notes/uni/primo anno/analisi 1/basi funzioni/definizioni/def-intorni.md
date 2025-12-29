@@ -13,4 +13,5 @@ ___
 Definiamo $\dot{u}(x)$ come intorno bucato di $x$ nel seguente modo : 
 $$\dot{u}(x) = \cases{ u(x) \text{ if } x = \pm \infty \\  \\ u(x) \setminus \{x\}\text{ negli altri casi} }$$
 $$u(x) \setminus \{x\} = (x-\varepsilon, x) \cup(x,x+\varepsilon)$$
-___
+
+(per più info riguardo queste note guarda il [[Limiti.pdf|questo link del Pata]]) 

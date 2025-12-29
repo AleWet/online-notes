@@ -9,5 +9,6 @@ sappiamo che [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riema
 $$h(x)= [F(x)G(x)]' = F(x)g(x)+f(x)G(x)$$
 $$\implies h(x) \in R_{P}(a,b)$$
 qui uso il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-fondamentale-del-calcolo\|teorema-fondamentale-del-calcolo]] e la [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-linearità-integrale-TBF\|linearità]] e trovo:
-$$\int_{a}^b h(x) = FG \big|_{a}^b = F(b)g(b)-f(a)G(a)$$
+$$\int_{a}^b h(x) = FG \big|_{a}^b = F(b)G(b)-F(a)G(a)$$
 $$\implies \int_{a}^b F(x)g(x)dx + \int_{a}^b f(x)G(x)dx = FG \big|_{a}^b$$
+questa dimostrazione tiene per scontato che le primitive siano integrabili, questo è vero perché la primitiva è per forza derivabile, [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-derivabile-allora-continua\|quindi è anche continua]] e quindi [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-continua-integrabile\|è anche integrabile]].

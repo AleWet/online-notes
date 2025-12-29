@@ -39,7 +39,6 @@ ovvero che dato un certo $u(x)$ in poi, tutti i punti dell'intorno sono dentro l
 ### esempio
 $$A = [0,1]$$
 $$(0,1) \text{ sono tutti punti interni dell'insieme A}$$
-
 ____
 # classificazione
 schema fatto dal Pata molto comprensivo
@@ -51,3 +50,5 @@ schema fatto dal Pata molto comprensivo
 - se $x \not\in A$ allora può essere
 	- punto di accumulazione $\implies$ punto di frontiera
 	- punto esterno, ovvero $x\in A^C$
+
+(per più info riguardo queste note guarda il [[Limiti.pdf|questo link del Pata]])

@@ -13,3 +13,5 @@ $\mathbb{R} \land \emptyset$ sono gli unici due insiemi che sono ==sia aperti ch
 - $\mathbb{R}$ contiene tutti i possibili punti di accumulazione finiti e ogni suo punto è interno
 - $\emptyset$ non può avere punti di accumulazione quindi li contiene tutti non ha punti interni
 tutti gli altri sono o chiusi o aperti.
+
+(per più info riguardo queste note guarda il [[Limiti.pdf|questo link del Pata]])

@@ -8,7 +8,7 @@ grazie al [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/
 $$\implies \forall \varepsilon > 0 \exists  \ \delta >0 : \text{ se } |x-y| < \delta \implies |f(x)-f(y)| < \varepsilon$$
 voglio mostrare che fissato $\varepsilon>0 \ \exists n_{0} : \text{ se } n \geq n_{0} \implies \omega(f) < \varepsilon$ (guarda [[uni/primo anno/analisi 1/funzioni/definizioni/def-integrale-Riemann-TBF#def $ Delta$ somme sup e inf\|qui]] per def. di $\omega(f)$).
 sia $\varepsilon >0$ fissato e sia $n_0$ tale che 
-$$\frac{b-a}{2} < \delta \ \forall n \geq n_{0}$$
+$$\frac{b-a}{n} < \delta \ \forall n \geq n_{0}$$
 se suddivido $[a,b]$ in $n$ intervalli (che chiamo $I_{k}$) avrò che:
 $$l(I_{k}) = \frac{b-a}{n} < \delta$$
 dove con $l(I)$ intendo la [[uni/primo anno/analisi 1/basi funzioni/definizioni/def-intervallo#lunghezza dell'intervallo\|lunghezza dell'intervallo]] e adesso uso il fatto che $f$ è uniformemente continua:

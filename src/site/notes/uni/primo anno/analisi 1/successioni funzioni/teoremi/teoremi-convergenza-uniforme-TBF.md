@@ -10,7 +10,7 @@ ___
 ### teorema 2 integrabilità
 Per la definizione di Riemann-integrabile guarda [[uni/primo anno/analisi 1/funzioni/definizioni/def-integrale-Riemann-TBF\|qui]].
 Sia $I$ un intervallo **[[uni/primo anno/analisi 1/basi funzioni/definizioni/def-insiemi-aperti-chiusi#insieme chiuso\|chiuso]] e limitato** e sia $f_{n}:[a,b] \to \mathbb{R}$ e $\forall {n} \in R(a,b)$ allora
-$$\text{ se } f_{n} \xrightarrow{u} $$
+$$\text{ se } f_{n} \xrightarrow{u} f$$
 $$\tag{1} f \in R(a,b)$$
 $$\tag{2} \lim_{ n \to \infty } \int_{a}^b |f_{n}(x)-f(x)|dx \to 0$$
 ### osservazione importante

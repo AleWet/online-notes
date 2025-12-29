@@ -7,6 +7,8 @@ $$P(x) = \sum_{k=0}^n \frac{f^{(k)}(x_0)}{k!} (x-x_0)^k$$
 dove :
 - la derivata $0-esima$ è la funzione $f$ originale.
 - prendiamo $(x-x_0)^0 =1$.
+### lista polinomi di Taylor 
+guarda [[Sviluppi-Taylor.pdf|qui]] per gli sviluppi di Taylor notevoli del Pata, il file originale lo trovi su Webeep.
 ### osservazione base
 Questa formula deriva dal fatto che sto tentando creare un polinomio la cui derivata $n-esima$ è uguale alla derivata $n-esima$ della mia funzione. Avrò quindi un polinomio la cui $k-esima$ derivata è uguale alla $k-esima$ derivata della mia funzione originale.
 ### osservazione 1
