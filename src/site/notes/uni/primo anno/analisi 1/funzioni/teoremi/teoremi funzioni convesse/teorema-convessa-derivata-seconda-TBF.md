@@ -12,5 +12,6 @@ Se f è due volte derivabile in un intervallo $(a,b)$, gli eventuali [[uni/primo
 ### osservazione 
 naturalmente la stessa cosa si applica alle funzioni concave nelle quali $f''(x) \le x \ \forall x$.
 ### dim
+la dimostrazione non me la sono segnata forse perché non l'abbiamo fatta a lezione ma segue banalmente dal [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-derivata-monotonia\|seguente teorema]] applicato alla derivata prima. Nel [[Derivata (1).pdf|pdf del Pata]] c'è tutto un discorso per dire che è vero anche negli estremi ma non è stato fatto a lezione per quanto mi ricordo.
 
-
+	

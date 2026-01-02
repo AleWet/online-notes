@@ -43,7 +43,7 @@ $$\implies f'(x_{0}) \leq \frac{{f(x)-f(x_{0})}}{x-x_{0}}$$
 $$\implies f'(x_{0})(x-x_{0}) + f(x_{0}) \leq f(x) \ \ \  \ \  \square $$
 ___
 ### dim 2 
-adesso devo dimostrare il contrario, ovvero che se una funzione è derivabile in $[a,b]$ e essa si trova sopra la propria retta tangente **di ogni punto** in $[a,b]$ allora essa è convessa.
+adesso devo dimostrare il contrario, ovvero che se una funzione è derivabile in $[a,b]$ e essa si trova sopra la propria retta tangente **di ogni punto** di $[a,b]$ allora essa è convessa.
 Presi due punti $x,y\in [a,b]$ e fissato $x_{0} \in (x,y)$ posso scrivere che :
 $$x_{0} = \lambda x + (1-\lambda)y$$
 visto che $x \leq x_{0} \leq y$, allora applico l'ipotesi a $x$ e $y$ : 

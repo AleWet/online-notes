@@ -7,4 +7,5 @@ sia $f$ una funzione [[uni/primo anno/analisi 1/funzioni/definizioni/def-funzion
 non puoi dire che è continua sull'intervallo chiuso perché può non essere vero negli estremi:
 $$f(x) = \cases{x^2 \ \ \ \ x \le|1| \\ \\ 4 \ \ \ \ \  \ x = |1|}$$
 questa funzione è convessa ma non è vero che è continua in $[1,1]$.
-
+### dim
+Il Pata ha dato l'idea della dimostrazione e basta.

@@ -9,6 +9,7 @@ dove per derivabile $n$ volte in un punto si intende che $\exists f^n(x_0)$ ovve
 # $C$ 
 si definisce $C^n(I)$ la classe delle funzioni [[uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#derivabilità\|derivabili]] $n$ volte e la cui derivata $n-esima$ è [[uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] sull'intervallo di partenza $I$:
 $$C^n(I)=\{f : I \to \mathbb{R} : f \text{ derivabile n volte in } I \ \land f'(I) \text{ è continua }\}$$
+e con $C^0$ o semplicemente $C$ intendo che la funzione è solo continua su $I$.
 ### osservazione
 naturalmente si ha che 
 $$C^n(f)\subset D^n(f) \subset ... \subset C^3(f) \subset D^3(f)\subset C^2(f) \subset ...$$
