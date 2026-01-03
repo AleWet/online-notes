@@ -40,11 +40,34 @@ $$f'(0)-P'_{n}(0)=0$$
 $$\dots.$$
 $$f(0)^{(n)}-P_{n}^{(n)}(0)=0$$
 a questo punto il Pata ha detto che si dovrebbe procedere per induzione ma è uguale se non lo fai, quindi non lo farai all'esame:
-applico il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Lagrange\|teorema-Lagrange]] a $g$ nell'intervallo $[0,x$] 
-$$\implies \exists x_{1} \in (0,x):g(x)-g(0) = g'(x_{1})(x-x_{0}) = g'(x_{1})x$$
-applico di nuovo Lagrange a $g$ nell'intervallo $[0,x_{1}]$ 
+applico il [[uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-Lagrange\|teorema-Lagrange]] su $g$ nell'intervallo $[0,x$] 
+$$\implies \exists x_{1} \in (0,x):g(x)-g(0) = g'(x_{1})(x-0) = g'(x_{1})x$$
+$$\implies g(x) = g'(x_{1})x$$
+applico di nuovo Lagrange a $g'$ nell'intervallo $[0,x_{1}]$ 
 $$\implies \exists x_{2} \in (0,x_{1}):g'(x_{1})-g'(0) = g''(x_{2})x_{1}$$
 $$\implies g'(x_{1})-0 = g''(x_{2})x_{1}$$
+$$g'(x_{1}) = g''(x_{2})x_{1}$$
+$$\implies g(x) = g''(x_{2})x_{1}x$$
 a questo punto applico Lagrange finché non arrivo allo "step" $n-2$ :
 $$\exists x_{n-1}\in(0,x_{n-2}):g^{(n-2)}(x_{n-2})-0 =g^{(n-1)}(x_{n-1})x_{n-2}$$
-a differenza degli altri passaggi, non so se $g^{(n-1)}$ è derivabile su tutto l'intervallo $[0,x_{n-1}]$. Nelle ipotesi avevo che $f$ è derivabile $n$ volte in $x_0 = 0$ ma questo non mi garantisce che $f$ sia derivabile in tutto un intorno $u(0)$ $n$ volte, potrei avere la derivata $n-esima$ solo in $0$ e non averla per tutti gli altri punti. 
+a differenza degli altri passaggi, non so se $g^{(n-1)}$ è derivabile su tutto l'intervallo $[0,x_{n-1}]$. Nelle ipotesi avevo che $f$ è derivabile $n$ volte in $x_0 = 0$ ma questo non mi garantisce che $f$ sia derivabile in tutto un intorno $u(0)$ $n$ volte, potrei avere la derivata $n-esima$ solo in $0$ e non averla per tutti gli altri punti (esistono funzioni continue in $u(x_{0})$ ma derivabili solo in $x_{0}$). 
+Devo quindi cambiare approccio e usare la [[uni/primo anno/analisi 1/funzioni/definizioni/def-differenziabilità\|differenziabilità]] di $g^{(n-1)}$ in $0$ 
+$$g^{n-1} (t) = g^{(n-1)}(0) + g^n(0)(t-0) + o(t-0)$$
+e la applico a $x_{n-1}$ ottenendo : 
+
+$$g^{n-1} (x_{n-1}) = g^{(n-1)}(0) + g^n(0)(x_{(n-1)}) + o(x_{n-1}) $$
+$$\implies g^{(n-1)}(x_{n-1}) = o(x_{n-1}) = x_{n-1}\omega (x_{n-1})$$
+dove $\omega (x_{n-1})$ è una generica funzione che tende a $0$ quando $x \to x_{n-1}$.
+Mettendo insieme tutte le espressioni ottieni:
+$$g(x) = g'(x_{1})x$$
+$$g(x) =  g''(x_{2})x_{1}x$$
+$$g(x) = g'''(x_{3})x_{2}x_{1}x$$
+$$\dots$$
+$$g(x) = x_{n-1}\ \omega(x_{n-1})\ x_{n-2}x_{n-3}x_{n-4}\dots x_{2}x_{1}x$$
+$$\implies g(x) = x^n \frac{{x_{n-1} x_{n-2}x_{n-3}x_{n-4}\dots x_{2}x_{1}x}}{x^n} * \omega(x_{n-1})$$
+il termine con la frazione noto che è completamente contenuto tra $0$ e $1$ facendo il seguente ragionamento:
+$$c := \frac{x_{n-1}}{x} \frac{x_{n-2}}{x}\dots \frac{x_{2}}{x} \frac{x_{1}}{x}1$$
+e seguendo tutte le applicazioni del teorema di Lagrange so che $x_n<x_{n-1}<x_{n-2}<\dots<x$ di conseguenza $c \in (0,1)$ perché tutti i membri sono compresi tra $0$ e $1$.
+$$\implies \frac{g(x)}{x^n} =  c  \ \frac{{x^n \omega(x_{n-1})}}{x^n} = c \omega (x_{n-1})$$
+e noto che quando $x \to 0^+$ anche $x_{n-1} \to 0^+$ sempre per il discorso degli intervalli del teorema di Lagrange usando il [[uni/primo anno/analisi 1/successioni/teoremi/teorema-del-confronto\|teorema-del-confronto]], ottengo quindi il seguente limite : 
+$$\lim_{ x \to 0^+ }c \omega(x_{n-1}) = 0 $$
