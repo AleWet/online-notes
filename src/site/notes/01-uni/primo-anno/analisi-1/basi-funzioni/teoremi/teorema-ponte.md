@@ -4,13 +4,13 @@
 
 ### tesi
 $$\lim_{x \rightarrow x_0} f(x) \iff s\lim_{x \rightarrow x_0} f(x)$$
-ovvero che [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-limite-successionale\|il limite successionale]] e il [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-limite-funzione\|limite "normale"]] sono equivalenti, basta che sostituisci alla $x$ una generica successione $X_n : X_n \rightarrow x_0$ e puoi calcolare il limite.
+ovvero che [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-limite-funzione\|limite "normale"]] sono equivalenti, basta che sostituisci alla $x$ una generica successione $X_n : X_n \rightarrow x_0$ e puoi calcolare il limite.
 ### dim
 Assumi sempre che $x_0$ è un punto di accumulazione per $D(f)$ se no il limite non è implementabile.
 ### $\Rightarrow$
 prendo una generica $a_n \ne x_0$ con $a_n \rightarrow x_0$ e voglio dimostrare che $f(a_n) \rightarrow l$ :
 $$\forall u(l), \ f(a_n) \in u(l) \text{ definitivamente}$$
-poiché se $a_n \rightarrow x_0 \implies a_n \in \dot{u}(x_0)$ definitivamente ([[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-intorni#osservazione importante\|osservazione cuoricino]])
+poiché se $a_n \rightarrow x_0 \implies a_n \in \dot{u}(x_0)$ definitivamente ([[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intorni#osservazione importante\|osservazione cuoricino]])
 e di conseguenza $f(a_n) \in u(l)$ poiché ogni elemento della successione $a_n$ $\in u(x_0)$ definitivamente.
 ### $\Leftarrow$
 voglio dimostrare che $s\lim f(x) = l \implies \lim f(x) = l$ quindi uso la seguente cosa : 

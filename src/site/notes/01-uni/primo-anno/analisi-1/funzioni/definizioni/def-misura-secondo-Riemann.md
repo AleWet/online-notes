@@ -7,6 +7,6 @@ $$m(A) = \int_{-n}^n \chi_{A}(x)dx$$
 ### osservazione 1
 non tutti gli insiemi sono misurabili.
 ### osservazione 2
-la misura di un [[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-intervallo\|intervallo]] è uguale alla sua lunghezza $l$ :
+la misura di un [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intervallo\|intervallo]] è uguale alla sua lunghezza $l$ :
 $$l(I) = m(I)= \int_{-n}^{n} \chi_{I}(x)dx$$
 $$I \subseteq [-n,n]$$

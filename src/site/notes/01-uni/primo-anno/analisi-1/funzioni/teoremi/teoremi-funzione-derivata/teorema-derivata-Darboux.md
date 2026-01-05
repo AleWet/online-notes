@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-darboux/","tags":["math","uni"]}
 ---
 
-sia $f : I \to \mathbb{R}$ [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-derivata\|derivabile]] in $I$ allora la [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#funzione derivata\|funzione derivata]] $f'$ ha la proprietà di [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-Darboux\|Darboux]].
+sia $f : I \to \mathbb{R}$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-Darboux\|Darboux]].
 ### dim
 ==sui miei appunti ho scritto che questa dimostrazione non verrà chiesta all'esame==
 siano $x,y \in I, x<y :$
@@ -19,5 +19,5 @@ $$\implies g \text{ non assume minimo in x e massimo in y, se no } g'(y) = g'(x)
 $$\implies \exists z \in (a,b) : z \text{ è il massimo di }g \implies g'(z) = 0 \tag{**}$$
 $$\implies g'(z) = f'(z) -\gamma \implies f'(z) = \gamma \ \ \ \square$$
 
-$(*)$ questo per il [[01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Weierstrass\|01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Weierstrass]].
+$(*)$ questo per il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-Weierstrass\|teorema-Weierstrass]].
 $(**)$ questo per il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-Fermat\|teorema-Fermat]].

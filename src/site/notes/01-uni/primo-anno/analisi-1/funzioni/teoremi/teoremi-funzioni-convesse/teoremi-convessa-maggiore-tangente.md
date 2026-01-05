@@ -3,14 +3,14 @@
 ---
 
 # teorema 1 $(\Rightarrow)$
-sia $f:[a,b] \to \mathbb{R}$ una funzione [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-funzione-convessa\|convessa]] e assumendo che $f$ sia [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in $x_0 \in[a,b]$
+sia $f:[a,b] \to \mathbb{R}$ una funzione [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in $x_0 \in[a,b]$
 $$\implies f(x) \ge r_{tangente}(x) \ \forall x \in [a,b]$$
 dove $r_{tangente}$ è la retta tangente a $f$ in $x_0 ,\  r_{\text{tangente}} = f'(x_0)(x-x_0)+f(x_0)$ 
 ### osservazione
 La retta tangente sta quindi sotto *tutto* il grafico della funzione se la funzione è convessa e questo vale per ogni punto $x_0$ in cui la funzione ammette derivata.
 ___
 # teorema 2 $(\Leftarrow)$ 
-sia $f : [a,b] \to \mathbb{R}$ tale che $f$ è [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in $[a,b]$ e si ha che:
+sia $f : [a,b] \to \mathbb{R}$ tale che $f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in $[a,b]$ e si ha che:
 $$\forall x_0 \in [a,b], \ f(x) \ge r_{x_0}(x)$$
 dove $r_{x_0}$ è la tangente al grafico di $f$ in $x_0$ $(r_{x_0} = f(x_0) + f'(x_0)(x-x_0))$
 $$\implies f(x) \text{ è convessa in }[a,b]$$
@@ -37,7 +37,7 @@ $$f(x_{0}+h)-f(x_{0}) \leq (1-\lambda)(f(x)-f(x_{0}))$$
 a questo punto esplicito $\lambda$ :
 $$f(x_{0}+h)-f(x_{0}) \leq \left( \frac{h}{x-x_{0}} \right)(f(x)-f(x_{0}))$$
 $$\frac{{f(x_{0}+h)-f(x_{0})}}{h} \leq \frac{{f(x)-f(x_{0})}}{x-x_{0}}$$
-usando il [[01-uni/primo anno/analisi 1/successioni/teoremi/teorema-della-permanenza-del-segno\|01-uni/primo anno/analisi 1/successioni/teoremi/teorema-della-permanenza-del-segno]] con $h \to 0^+$ ottengo che:
+usando il [[01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-della-permanenza-del-segno\|teorema-della-permanenza-del-segno]] con $h \to 0^+$ ottengo che:
 $$\lim_{ h \to 0^+ } R(f,x_{0},h) \leq \frac{{f(x)-f(x_{0})}}{x-x_{0}}$$
 $$\implies f'(x_{0}) \leq \frac{{f(x)-f(x_{0})}}{x-x_{0}}$$
 $$\implies f'(x_{0})(x-x_{0}) + f(x_{0}) \leq f(x) \ \ \  \ \  \square $$

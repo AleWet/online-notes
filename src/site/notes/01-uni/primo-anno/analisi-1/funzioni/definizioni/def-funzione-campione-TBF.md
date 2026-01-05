@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-campione-tbf/","tags":["math","uni"]}
 ---
 
-definiamo come fatto per le [[01-uni/primo anno/analisi 1/serie/definizioni/def-serie-campione\|serie]] una **funzione campione** con cui confrontare gli [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-improprio-TBF\|integrale improprio]] di cui vogliamo studiare il carattere:
+definiamo come fatto per le [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-campione\|serie]] una **funzione campione** con cui confrontare gli [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-improprio-TBF\|integrale improprio]] di cui vogliamo studiare il carattere:
 $$F_{\alpha \beta}(x) = \frac{1}{x^\alpha |\log x|^{\beta}}$$
 vedo subito che i "punti critici" di questa funzione sono 3:
 - $x = 0$

@@ -5,7 +5,7 @@
 # intuizione
 presa una funzione $f$ derivabile in $x_0$, più ci si avvicina al punto $x_0$ più la funzione diventa approssimabile con la retta tangente in $x_0$, prendi per esempio:
 $$sin(x), \ \ r_0(x) = (x-0) + sin(0) = x$$
-è da qui che viene l'[[01-uni/primo anno/analisi 1/successioni/definizioni/def-asintotico\|asintotico]], sto approssimando la mia funzione con una retta.
+è da qui che viene l'[[01-uni/primo-anno/analisi-1/successioni/definizioni/def-asintotico\|asintotico]], sto approssimando la mia funzione con una retta.
 # definizione
 $f:(a,b) \to \mathbb{R}, \ \ \  x_0 \in (a,b)$, $f$ è **differenziabile** in $x_0$ se
 $$\exists L \in \mathbb{R} \text{ e una funzione } \omega(h) : \omega(h) \to 0 \text{ quando } h \to 0 \text{ tali che } $$
@@ -23,4 +23,4 @@ questa nota è stata scritta prima della trattazione degli "o-piccoli", un modo 
 $$f(x) = f'(x_{0})(x-x_{0}) + f(x_{0}) + o(x-x_{0})$$
 $$ \iff f(x) = r_{x_{0}}(x) + o(x-x_{0})$$
 ### osservazione
-in $\mathbb{R}^1$, ovvero la retta dei reali, questa nozione è equivalente alla nozione di [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata\|derivabilità]] come dice il [[01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-equivalenza-derivabile-differenziabile-TBD\|seguente teorema]].
+in $\mathbb{R}^1$, ovvero la retta dei reali, questa nozione è equivalente alla nozione di [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-equivalenza-derivabile-differenziabile-TBD\|seguente teorema]].

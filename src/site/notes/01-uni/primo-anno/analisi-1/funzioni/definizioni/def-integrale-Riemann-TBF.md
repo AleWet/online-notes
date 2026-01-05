@@ -9,7 +9,7 @@ sia $f:[a,b] \to \mathbb{R}$ con $f$ LIMITATA su $[a,b]$, fissiamo $n \in \mathb
 3) $x_{k} := a+\frac{b-a}{n}*k$ 
 4) $I_{k}:= [x_{k-1},x_{k}]$ 
 ### osservazione 1
-poiché $f$ è limitata per ipotesi, $\forall k$ tra $1$ e $n$ il [[01-uni/primo anno/analisi 1/successioni/definizioni/def-estremo-superiore-inferiore-e-max-min\|sup]] e [[01-uni/primo anno/analisi 1/successioni/definizioni/def-estremo-superiore-inferiore-e-max-min\|inf]] di $I_k$ è *finito* :
+poiché $f$ è limitata per ipotesi, $\forall k$ tra $1$ e $n$ il [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-estremo-superiore-inferiore-e-max-min\|inf]] di $I_k$ è *finito* :
 $$\forall k \ \ \sup_{I_{k}}f, \ \inf_{I_{k}}f \in \mathbb{R}$$
 non è tuttavia garantito che abbiano $\max$ e $\min$.
 ### osservazione 2
@@ -38,7 +38,7 @@ Definiamo poi la seguente quantità:
 $$\omega_{n}(f) = S_{n}-s_{n} = \frac{b-a}{n} \sum_{k=1}^n \sup_{I_{k}}f-\inf_{I_{k}}f$$
 e faccio la seguente osservazione:
 $$f \in R(a,b) \iff \omega_{n}(f)\to 0 \iff s_{n},S_{n}\to l$$
-per la dimostrazione guarda [[01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-delta-somme-superiori-inferiori-TBD\|qui]]
+per la dimostrazione guarda [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-delta-somme-superiori-inferiori-TBD\|qui]]
 ____
 # definizione equivalente
 L'integrale può essere definito in molti modi, uno citato dal Pata è di definire prima l'integrabilità di una [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-costante-a-tratti#osservazione importante\|funzione costante a tratti]] e poi dire che ogni funzione integrabile può essere "compresa" tra due funzioni costanti a tratti :

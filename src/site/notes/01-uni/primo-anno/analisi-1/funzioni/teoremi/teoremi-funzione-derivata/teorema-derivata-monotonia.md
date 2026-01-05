@@ -18,7 +18,7 @@ $$y-x > 0, \ f'(c) \ge 0 \implies f(y)-f(x) \ge 0 \ \ \ \ \square$$
 ovvero stai dicendo che per ogni due numeri $x,y$ appartenenti all'intervallo di partenza, passando per Lagrange, $f(y) \ge f(x) \iff f'(c) \ge 0$.
 ### dim $\Leftarrow$ 
 questa è la parte più interessante del teorema poiché ci dice fornisce informazioni riguardo la funzione originale studiandone la derivata:
-sia $x \in (a,b)$ so che $f$ è [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in $x$ per ipotesi e quindi
+sia $x \in (a,b)$ so che $f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in $x$ per ipotesi e quindi
 $$f'_+(x) = f'(x)$$
 $$f'_+(x) = \lim_{h\to 0+} \frac{f(x+h)-f(x)}{h} \ \ \text{dove } h>0 \ \text{ e} \ \ f(x+h)-f(x) \ge0 $$
 $$\implies f'_+(x) \ge0 \implies f'(x) \ge 0 \text{ usando il teorema della permanenza del segno}$$

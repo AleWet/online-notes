@@ -12,8 +12,8 @@ $$\frac{{log(n)^p}}{n^q}$$
 siano $p,q,r > 0$ allora :
 $$\frac{1}{log(n)^p} >> \frac{1}{n^q} >> \frac{1}{e^{rn}} >> \frac{1}{n!} >> \frac{1}{n^n}$$
 ### usi
-- somme di infiniti di ordine diverso sono sempre [[01-uni/primo anno/analisi 1/successioni/definizioni/def-asintotico\|asintotice]] all'infinito di ordine **maggiore**.
-- somme di infinitesimi di ordine diverso sono sempre [[01-uni/primo anno/analisi 1/successioni/definizioni/def-asintotico\|asintotiche]] all'infinito di ordine **minore**
+- somme di infiniti di ordine diverso sono sempre [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-asintotico\|asintotice]] all'infinito di ordine **maggiore**.
+- somme di infinitesimi di ordine diverso sono sempre [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-asintotico\|asintotiche]] all'infinito di ordine **minore**
 ___
 ### ==dim 4 / 3 / 2 / 1 (most difficult)==
 QB2 (fine) and QR2 (inizio).

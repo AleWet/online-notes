@@ -24,7 +24,7 @@ se prendo però una "velocità" di convergenza diversa da una parte e dall'altra
 $$I = \int_{-1+\varepsilon}^{1-\varepsilon^2}f(x)dx$$
 e se lo risolvi ottieni che con $\varepsilon \to 0, I = +\infty$ e concludo (uguale alla [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità#continuità successionale\|continuità successionale]]) che il limite doppio non esiste.
 ### osservazione 3
-Negli esercizi spesso non ti viene richiesto di calcolare il valore dell'integrale ma il comportamento (uguale al discorso fatto con le [[01-uni/primo anno/analisi 1/serie/definizioni/def-serie\|serie]]) in un certo intorno di un **punto critico** dove con punto critico intendiamo un punto dove la funzione smette di essere Riemann integrabile (un asintoto verticale, $\pm \infty$). Se però ti chiedono di calcolare il valore dell'integrale improprio devi prima dimostrare che esso effettivamente è integrabile in quell'intorno, trovare la primitiva e poi dire applicare il [[01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-fondamentale-del-calcolo\|01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi integrali Riemann/teorema-fondamentale-del-calcolo]] con un limite.zx
+Negli esercizi spesso non ti viene richiesto di calcolare il valore dell'integrale ma il comportamento (uguale al discorso fatto con le [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-fondamentale-del-calcolo\|teorema-fondamentale-del-calcolo]] con un limite.zx
 ### notazione interna al corso
 diciamo che una funzione è integrabile impropriamente su un intervallo $(a,b)$ come:
 $$f \in I(a,b)$$

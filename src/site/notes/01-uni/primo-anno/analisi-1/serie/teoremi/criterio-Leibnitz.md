@@ -23,8 +23,8 @@ e tu sai che $b_n > b_{n-1} \ \forall n$ e che quindi $S_{2n} \downarrow \land \
 Inoltre : 
 $$S_{2n} > S_{2n+1} \ \forall n $$
 questo perché $S_{2n} - S_{2n+1} = + a_{2n+1} > 0 \text{ (esponente dispari)}$.
-Inoltre ti viene che $a_n \rightarrow 0$ ([[01-uni/primo anno/analisi 1/successioni/definizioni/def-successione-infinitesima\|infinitesima * limitata = infinitesima]]).
-di conseguenza puoi usare il [[01-uni/primo anno/analisi 1/successioni/teoremi/teorema-cuoricino\|01-uni/primo anno/analisi 1/successioni/teoremi/teorema-cuoricino]] che ti dice che :
+Inoltre ti viene che $a_n \rightarrow 0$ ([[01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione-infinitesima\|infinitesima * limitata = infinitesima]]).
+di conseguenza puoi usare il [[01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-cuoricino\|teorema-cuoricino]] che ti dice che :
 $$\lim S_{2n} =\lim S_{2n+1} = l \in \mathbb{R}$$
 $$\implies S_n \rightarrow l \text{ poiché tutti i itermini convergono a }l$$
 

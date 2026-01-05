@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-trasporto-tbf/","tags":["math","uni"]}
 ---
 
-sia $f \in R_P(a,b)$ (guarda [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-primitiva#notazione interna al corso\|qui]]) allora se la [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-funzione-integrale\|funzione integrale]] è della forma:
+sia $f \in R_P(a,b)$ (guarda [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-integrale\|funzione integrale]] è della forma:
 $$I(x) = \int_{g(x)}^{h(x)} f(t)dt$$
 esso si può scrivere come se fosse una funzione composta:
 $$I(x) = F(h(x))-F(g(x))$$

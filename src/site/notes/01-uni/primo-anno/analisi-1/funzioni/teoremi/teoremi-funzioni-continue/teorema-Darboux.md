@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-darboux/","tags":["math","uni"]}
 ---
 
-sia $f : I \to \mathbb{R}$ dove $f$ è [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] $\implies f$ [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-Darboux\|ha la proprietà di Darboux]] 
+sia $f : I \to \mathbb{R}$ dove $f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-Darboux\|ha la proprietà di Darboux]] 
 ### dim
 siano $x,y \in I: x<y$ 
 - se $f(x) = f(y)$ il valore intermedio è uno dei due estremi 

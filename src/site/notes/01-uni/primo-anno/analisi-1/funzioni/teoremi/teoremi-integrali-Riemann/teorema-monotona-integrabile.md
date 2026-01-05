@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-monotona-integrabile/","tags":["math","uni"]}
 ---
 
-una funzione $f:[a,b] \to \mathbb{R}$ monotona è automaticamente [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-integrale-Riemann-TBF\|Riemann integrabile]] ($\in R(a,b)$)
+una funzione $f:[a,b] \to \mathbb{R}$ monotona è automaticamente [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann-TBF\|Riemann integrabile]] ($\in R(a,b)$)
 ### osservazione 
 una funzione monotona può avere infiniti salti e quindi infiniti punti di discontinuità ed essere comunque integrabile grazie a questo teorema ( $\neq$ da [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-finite-discontinuità-integrabile-TBF\|questo teorema]]). 
 ### dim

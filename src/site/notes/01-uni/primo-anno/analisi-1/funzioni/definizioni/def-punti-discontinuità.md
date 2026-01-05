@@ -6,7 +6,7 @@
 un punto $x_0 \in D(f)$ è detto *punto di discontinuità* per $f$ se $f$ non è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] in $x_0$ : 
 $$\lim_{x \to x_0} f(x) \ne f(x_0)$$
 ### osservazione importante
-questa definizione sottintende che $x_0$ è un [[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-punti-accumulazione-and-others#punti di accumulazione\|punto di accumulazione]] per l'insieme $D(f)$ se no l'operazione di "check" che la funzione non è continua non è neanche implementabile, non ha senso fare il limite. Anzi  se $x_0$ fosse un punto isolato per $D(f)$ avremmo che $f$ è continua in $x_0$.
+questa definizione sottintende che $x_0$ è un [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-punti-accumulazione-and-others#punti di accumulazione\|punto di accumulazione]] per l'insieme $D(f)$ se no l'operazione di "check" che la funzione non è continua non è neanche implementabile, non ha senso fare il limite. Anzi  se $x_0$ fosse un punto isolato per $D(f)$ avremmo che $f$ è continua in $x_0$.
 ___
 # discontinuità eliminabile (III specie)
 $x_0$ è punto di *discontinuità eliminabile* se

@@ -3,8 +3,8 @@
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ (definita su tutto $[a,b]$) tale che :
-1) $f$ è [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] in $[a,b]$ ([[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-intervallo\|intervallo]] [[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-insiemi-aperti-chiusi#insieme chiuso\|chiuso]])
-2) $f$ è [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-derivata\|derivabile]] in $(a,b)$ ([[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-intervallo\|intervallo]] [[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-insiemi-aperti-chiusi#insieme aperto\|aperto]])
+1) $f$ è [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insiemi-aperti-chiusi#insieme chiuso\|chiuso]])
+2) $f$ è [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insiemi-aperti-chiusi#insieme aperto\|aperto]])
 
 $$\implies \exists \ c \in (a,b) : f'(c) = \frac{f(b)-f(a)}{b-a}$$
 ### osservazione 1
@@ -18,16 +18,16 @@ allora questo viene chiamato il ==teorema di Rolle==.
    $$f(x) = |x|$$
 in entrambi i casi non c'è un punto dove *m* della retta tangente è $= \frac{f(b)-f(a)}{b-a} = 0$
 ### osservazione 2 DA RIGUARDARE LEZIONE 18/11
-$a \in \mathbb{R}, \ f:u(a) \to \mathbb{R} \ \land f \in C^1(u(a))$ ([[01-uni/primo anno/analisi 1/funzioni/definizioni/def-classi-di-continuità\|classi delle funzioni]]) e sia $a_n \to a, \ a_n \ne a$ 
+$a \in \mathbb{R}, \ f:u(a) \to \mathbb{R} \ \land f \in C^1(u(a))$ ([[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-classi-di-continuità\|classi delle funzioni]]) e sia $a_n \to a, \ a_n \ne a$ 
 $$\implies f(a_n)-f(a) \sim f'(a)(a_n-a)$$
 si dimostra nel seguente modo:
-1) sia $b_n$ compresa tra $a$ e $a_n \implies  b_n \to a$ ([[01-uni/primo anno/analisi 1/successioni/teoremi/teorema-del-confronto\|01-uni/primo anno/analisi 1/successioni/teoremi/teorema-del-confronto]])
+1) sia $b_n$ compresa tra $a$ e $a_n \implies  b_n \to a$ ([[01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-del-confronto\|teorema-del-confronto]])
 2) applico Lagrange in $[a,a_n]$ oppure  $[a_n, a]$ 
 $$\implies f(a_n)-f(a) = f'(b_n)(a_n-a)$$
 $$f'(b_n) \to f'(a) \text{ poiché f } \in C^1(u(a)) \text{ ed equivalenza di continuità successionale}$$
-Da questa relazione derivi molti [[01-uni/primo anno/analisi 1/successioni/definizioni/def-asintotico\|asintotici]] come $e^{a_n}-e^a \sim e^a(a_n-a).$
+Da questa relazione derivi molti [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-asintotico\|asintotici]] come $e^{a_n}-e^a \sim e^a(a_n-a).$
 ### dim Rolle
-supponiamo $f(a) = f(b)$, poiché $f$ è continua in $[a,b]$ allora $f$ ammette massimo e minimo nell'intervallo chiuso per [[01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Weierstrass\|01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzioni continue/teorema-Weierstrass]]. 
+supponiamo $f(a) = f(b)$, poiché $f$ è continua in $[a,b]$ allora $f$ ammette massimo e minimo nell'intervallo chiuso per [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-Weierstrass\|teorema-Weierstrass]]. 
 1) caso banale : massimo e minimo sono entrambi negli estremi $a$ e $b \implies f$ è costante
    il che vorrebbe dire che tutti i punti nell'intervallo $[a,b]$ sono estremanti
 2) assumiamo allora che almeno uno tra max e min non sia realizzato negli estremi 

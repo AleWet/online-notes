@@ -4,7 +4,7 @@
 
 $\exists$ al più un singolo [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-Taylor/teorema-Taylor-Peano#osservazione 3\|polibello]] $P(x)$ di grado $n$ per una singola $f$.
 ### corollario
-se $f$ è derivabile $n$ volte in $x_{0} \implies \exists$ [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-polinomio-Taylor\|politaylor]] di grado $n$ per $f$ ed esso è unico.
+se $f$ è derivabile $n$ volte in $x_{0} \implies \exists$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-polinomio-Taylor\|politaylor]] di grado $n$ per $f$ ed esso è unico.
 ### dim
 siano per assurdo $P(x), Q(x)$ due polibelli di grado $n$ per la funzione $f$ in $x_0 = 0$ (per semplicità) allora:
 $$\lim_{ x \to 0 } \frac{f(x)-P(x)}{x^n} = 0$$

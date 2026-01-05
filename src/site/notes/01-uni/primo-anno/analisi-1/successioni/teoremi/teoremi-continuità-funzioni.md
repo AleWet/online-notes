@@ -3,7 +3,7 @@
 ---
 
 ### ==nota importante==
-in generale non è vero la seguente cosa ([[01-uni/primo anno/analisi 1/successioni/definizioni/def-asintotico#come non usarlo\|regole asintotici]]):
+in generale non è vero la seguente cosa ([[01-uni/primo-anno/analisi-1/successioni/definizioni/def-asintotico#come non usarlo\|regole asintotici]]):
 $$a_n \sim b_n \nRightarrow f(a_n) \sim f(b_n)$$
 esempi importanti:
 $\cos(a_n) \rightarrow \cos(\lim a_n)$ ma $a_n \sim b_n \nRightarrow \cos(a_n) \sim \cos(b_n)$. quindi se trovi una cosa del genere:

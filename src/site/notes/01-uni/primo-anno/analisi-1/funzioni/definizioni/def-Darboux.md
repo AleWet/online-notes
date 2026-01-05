@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-darboux/","tags":["math","uni"]}
 ---
 
-una funzione $f:I \to \mathbb{R}$ ,dove $I$ è un [[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-intervallo\|intervallo]], è di Darboux se presi $x,y \in I : x<y$, la funzione $f$ assume tutti i valori compresi tra $f(x)$ e $f(y)$ nell'intervallo $[x,y]$ : 
+una funzione $f:I \to \mathbb{R}$ ,dove $I$ è un [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intervallo\|intervallo]], è di Darboux se presi $x,y \in I : x<y$, la funzione $f$ assume tutti i valori compresi tra $f(x)$ e $f(y)$ nell'intervallo $[x,y]$ : 
 $$\forall x,y \in I, \forall w  \in [f(x),f(y)], \exists c \in [x,y] : f(c) = w$$
 (nota : può anche essere $[f(y),f(x)]$ dipende da chi è maggiore o minore).
 ### osservazione 1

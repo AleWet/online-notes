@@ -25,7 +25,7 @@ $$f(x) = \cases{x^2 sin\left( \frac{1}{x} \right)  \ \ \ \ x \ne 0 \\ \\\ 0 \ \ 
 ### osservazione 2
 le seguenti cose sono vere se dico che il limite di $R(f,x_0,h)$ deve essere **FINITO** : 
 
-1) se so che la funzione è derivabile in $x_0$ so anche che è [[01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-derivabile-allora-continua\|continua]]  
+1) se so che la funzione è derivabile in $x_0$ so anche che è [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivabile-allora-continua\|continua]]  
 2) se $f,g$ sono derivabili in $[a,b]$ e so che $\forall x\in [a,b] \ \ f'(x) =g'(x) \implies f(x) = g(x) +c$
 
 se ammettessi che il limite del rapporto incrementale fosse $\pm \infty$ allora sorgerebbero dei problemi:
@@ -35,7 +35,7 @@ $$\tag{2}\text{il controesempio di Ruziewicz ti dice che salta anche la seconda 
 ### osservazione 3
 sia $f : [a,b] \to \mathbb{R}$ allora dire che $f$ è derivabile in $a$ e $b$ è dire che $\exists$ rispettivamente la derivata destra e derivata sinistra ($f'_+(a) \ \  \land \ \  f'_-(b)$)
 ### osservazione 4
-naturalmente implicito dire che quando faccio $\lim_{h \to 0} f(x_0+h)...$ sto dicendo che $f$ è definita in un [[01-uni/primo anno/analisi 1/basi funzioni/definizioni/def-intorni\|intorno]] $u(x_0)$ se no questo limite non è neanche "applicabile".
+naturalmente implicito dire che quando faccio $\lim_{h \to 0} f(x_0+h)...$ sto dicendo che $f$ è definita in un [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intorni\|intorno]] $u(x_0)$ se no questo limite non è neanche "applicabile".
 ### osservazione 5
 Nella definizione di rapporto incrementale e di derivata io non ho ipotesi riguardo la funzione $f$, ci poi sono teoremi che mi danno info sulla $f$ se $\lim_{ h \to 0 }R(f,h,x_{0}) \in \mathbb{R}$ ma a priori io definisco il rapporto incrementale senza queste informazioni.  
 ___

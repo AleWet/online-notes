@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-degli-zeri/","tags":["math","uni"]}
 ---
 
-sia $f : [a,b] \to \mathbb{R}$ [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-continuità\|continua]] (definita e continua su tutto l'intervallo $[a,b]$)
+sia $f : [a,b] \to \mathbb{R}$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] (definita e continua su tutto l'intervallo $[a,b]$)
 $$\text{se } f(a)*f(b) <0 \implies \exists \ c \in (a,b) : f(c) = 0$$
 ciò ti dice anche che $f(a), f(b) \ne 0$ se no la prima condizione non è verificata.
 ### dim 1 (brutta)
@@ -13,7 +13,7 @@ $$P = \{x \in [a,b] : f(x) > 0\}$$
 $\text{ noto che : }$
 1) $P \ne \emptyset$ poiché $f(a) \in P$
 2) $P \text{ è superiormente limitato}$ 
-3) $\exists \ c = supP \in [a,b]$ per la [[01-uni/primo anno/analisi 1/basi successioni/definizioni/def-assioma-completezza\|completezza di R]]
+3) $\exists \ c = supP \in [a,b]$ per la [[01-uni/primo-anno/analisi-1/basi-successioni/definizioni/def-assioma-completezza\|completezza di R]]
 $$\text{allora abbiamo dimostrato che } \exists P_n \in P : P_n \to c\tag{*}$$
 $$\text{dalla continuità }\implies f(P_n) \to f(c)$$
 $$\text{ma } f(P_n) >0 \text{ per come ho definito l'insieme }P$$

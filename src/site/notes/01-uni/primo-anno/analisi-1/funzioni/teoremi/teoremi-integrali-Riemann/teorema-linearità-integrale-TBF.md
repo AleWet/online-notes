@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-linearita-integrale-tbf/","tags":["math","uni"]}
 ---
 
-siano $f,g \in R(a,b)$ (dove con $R(a,b)$ si intende [[01-uni/primo anno/analisi 1/funzioni/definizioni/def-integrale-Riemann-TBF\|questo]]) allora 
+siano $f,g \in R(a,b)$ (dove con $R(a,b)$ si intende [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann-TBF\|questo]]) allora 
 $$\tag{1}f+\lambda g \in R(a,b)$$
 $$\tag{2}\int_{a}^b [f(x)+\lambda g(x)] )= \int_{a}^b f(x)dx+\lambda\int_{a}^b g(x)dx$$
 ### osservazione importante

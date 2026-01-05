@@ -11,7 +11,7 @@ naturalmente il caso $a = 1$ coincide con la serie armonica.
 ### osservazione
 per $a>1$ so che le serie convergono perché posso dire la seguente cosa:
 $$\begin{equation}{\sum} \frac{1}{n^2}\end{equation} < \sum \frac{2}{n(n+1)}$$
-dove il termine a destra è $2$* la [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-telescopica\|serie di mengoli]] e per il [[01-uni/primo anno/analisi 1/serie/teoremi/teorema-confronto-serie\|01-uni/primo anno/analisi 1/serie/teoremi/teorema-confronto-serie]] allora la serie a sinistra converge.
+dove il termine a destra è $2$* la [[01-uni/primo-anno/analisi-1/serie/teoremi/teorema-confronto-serie\|teorema-confronto-serie]] allora la serie a sinistra converge.
 ### Eulero-Mascheroni
 $$\sum_1^\infty \frac{1}{n} \sim \log(n)$$
 $$S_n - \log(n) \rightarrow \gamma$$

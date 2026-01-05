@@ -8,7 +8,7 @@ $$F:[a,b] \to \mathbb{R} : F'(x) = f(x) \ \ \forall x$$
 se $f$ ammette **primitiva** e se $f$ è **Riemann-integrabile** su $[a,b]$ allora diciamo che
 $$f \in R_{P}(a,b)$$
 ### osservazione 1
-Una funzione generica $f$ per ammettere primitiva deve avere la [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-Darboux\|proprietà di Darboux]] poiché sappiamo che [[01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-derivata-Darboux\|la funzione derivata ha sempre la proprietà di Darboux]]. Di conseguenza non può avere discontinuità di tipo salto o eliminabili. Posso quindi dire che tutte le $f$ con di Darboux ammettono primitiva? No, è solo necessario
+Una funzione generica $f$ per ammettere primitiva deve avere la [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-Darboux\|la funzione derivata ha sempre la proprietà di Darboux]]. Di conseguenza non può avere discontinuità di tipo salto o eliminabili. Posso quindi dire che tutte le $f$ con di Darboux ammettono primitiva? No, è solo necessario
 ### osservazione 2
 Supponiamo che $f$ ammetta primitiva, allora tutte le sue primitive saranno della forma:
 $$F(x) + c , \ c \in \mathbb{R}$$
@@ -17,7 +17,7 @@ assumiamo che $F$ e $G$ siano primitive di $f \implies F = G+c, \ c \in \mathbb{
 $$F,G \text{ primitive di } f$$
 $$(F-G)' = F'-G' = f-f = 0$$
 $$\implies (F-G) \text{ è una funzione costante } h(x) = c$$
-l'ultimo passaggio si deriva da [[01-uni/primo anno/analisi 1/funzioni/teoremi/teoremi funzione derivata/teorema-derivata-monotonia\|questo teorema]], dice che una  funzione con derivata nulla è costante.
+l'ultimo passaggio si deriva da [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-monotonia\|questo teorema]], dice che una  funzione con derivata nulla è costante.
 ### osservazione 4
 consideriamo le seguenti affermazioni:
 $$\tag{1} f \text{ ammette primitiva in } [a,b]$$

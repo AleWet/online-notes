@@ -14,9 +14,9 @@ Questa formula deriva dal fatto che sto tentando creare un polinomio la cui deri
 ### osservazione 1
 Potrebbe anche essere un polinomio degenere e quindi non avere grado $n$.
 ### osservazione 2
-Posso quindi dire che l'[[01-uni/primo anno/analisi 1/successioni/definizioni/def-asintotico\|asintotico]] è un polinomio di Taylor di grado 1, è la miglior "retta" approssimante della mia funzione originale in un certo punto.
+Posso quindi dire che l'[[01-uni/primo-anno/analisi-1/successioni/definizioni/def-asintotico\|asintotico]] è un polinomio di Taylor di grado 1, è la miglior "retta" approssimante della mia funzione originale in un certo punto.
 ### osservazione importante
-A priori la costruzione di questo polinomio non mi dona nessuna informazione riguardo la funzione $f$ originale, senza il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-Taylor/teorema-Taylor-Peano\|teorema-Taylor-Peano]] non so se sto migliorando la mia approssimazione rispetto a un [[01-uni/primo anno/analisi 1/successioni/definizioni/def-asintotico\|asintotico]]. Logicamente ha senso però dire che sto "imitando" più accuratamente la funzione in $x_0$ poiché non solo $f$ e $P$ hanno lo stesso valore in $x_0$ ma anche la stessa derivata $k-esima$.
+A priori la costruzione di questo polinomio non mi dona nessuna informazione riguardo la funzione $f$ originale, senza il [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-asintotico\|asintotico]]. Logicamente ha senso però dire che sto "imitando" più accuratamente la funzione in $x_0$ poiché non solo $f$ e $P$ hanno lo stesso valore in $x_0$ ma anche la stessa derivata $k-esima$.
 ### osservazione extra
 Si dimostra che una funzione pari nel suo sviluppo di Taylor ha solo termini pari (per le funzioni dispari è analogo). Il ragionamento per dimostrare questo è notare che la derivata di una funzione pari è sempre dispari, se prendi $x_{0} = 0\ \  (*)$  avrai che le derivate $f^{(2n+1)}$ sono tutte dispari e una funzione dispari definita in $u(0)$ si annulla in 0 :
 $$f^{(2n+1)}(0) = -f^{(2n+1)}(-0) = -f^{(2n+1)}(0) \implies f^{(2n+1)}(0) = 0$$
