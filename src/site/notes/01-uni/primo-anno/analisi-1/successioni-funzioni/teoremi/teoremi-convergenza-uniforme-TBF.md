@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-tbf/","tags":["math","uni"]}
 ---
 
-wguarda qui per def di [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-successione-funzioni#convergenza uniforme\|convergenza uniforme]], la notazione usata è $f_{n} \xrightarrow{u}f$.
+guarda qui per def di [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-successione-funzioni#convergenza uniforme\|convergenza uniforme]], la notazione usata è $f_{n} \xrightarrow{u}f$.
 ### teorema 1 continuità
 sia $f_n:I \to \mathbb{R}$ una [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] allora 
 $$\text{ se } f_{n} \xrightarrow{u} f \implies f \text{ è continua}$$
 ___
 ### teorema 2 integrabilità
-Per la definizione di Riemann-integrabile guarda [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann-TBF\|qui]].
+Per la definizione di Riemann-integrabile guarda [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|qui]].
 Sia $I$ un intervallo **[[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insiemi-aperti-chiusi#insieme chiuso\|chiuso]] e limitato** e sia $f_{n}:[a,b] \to \mathbb{R}$ e $\forall {n} \in R(a,b)$ allora
 $$\text{ se } f_{n} \xrightarrow{u} f$$
 $$\tag{1} f \in R(a,b)$$
@@ -18,7 +18,7 @@ la proprietà $(2)$ ti dice che puoi portare il "limite" dentro l'integrale, cio
 $$\int_{a}^b \bigg|f_{n}(x)-f(x)\bigg|dx \ge \bigg| \int_{a}^b \big[f_{n}(x)-f(x)\big]dx \bigg|$$
 usando la [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-disuguaglianza-modulo\|disuguaglianza del modulo]]
 $$= \bigg| \int_{a}^b f(x)dx -\int_{a}^b f_{n}(x)dx\bigg|$$
-usando la [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-linearità-integrale-TBF\|linearità dell'integrale]]
+usando la [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-linearità-integrale\|linearità dell'integrale]]
 $$\implies \lim_{ n \to \infty } \int_{a}^b f_{n}(x)dx = \int^a_{b}\lim_{ n \to \infty }f_{n}(x)dx = \int_{a}^b f(x)dx$$
 ma questa proprietà (quella di portare "dentro o fuori" il limite $n\to \infty$) è **più debole di quella di partenza**, per più dettagli e un esempio guarda QR5.
 ___
@@ -57,7 +57,7 @@ $$\implies \int_{a}^b |f_{n}(x)-f(x)|dx \to 0$$
 ### dim teorema 3 TBF
 anche questa dimostrazione è semplificata e assumiamo per vero che $f_{n} \in C^1([a,b])$ (guarda [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-classi-di-continuità\|qui]]) e quindi che le derivate sono continue su $[a,b]$ e supponiamo anche di prendere $x_{0} = a$ per comodità, la dimostrazione per gli altri punti è analoga:
 $$f_{n}(x) = f_{n}(a) + \int _{a}^x f'_{n}(t)dt$$
-usando il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-continua-integrabile\|quindi essa è integrabile]]. Definisco poi $l := \lim_{ n \to \infty } f_{n}(a)$ : 
+usando il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-funzione-continua-integrabile\|quindi essa è integrabile]]. Definisco poi $l := \lim_{ n \to \infty } f_{n}(a)$ : 
 $$f(x) = l + \int_{a}^xg(t)dt$$
 osservo poi che grazie al **TEOREMA 1** enunciato qui sopra, $g$ è continua su $[a,b]$.
 a questo derivo $f$ e trovo:

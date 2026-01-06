@@ -4,7 +4,7 @@
 
 ### tesi
 $$\lim_{x \rightarrow x_0} f(x) \iff s\lim_{x \rightarrow x_0} f(x)$$
-ovvero che [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-limite-funzione\|limite "normale"]] sono equivalenti, basta che sostituisci alla $x$ una generica successione $X_n : X_n \rightarrow x_0$ e puoi calcolare il limite.
+ovvero che [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-limite-successionale\|il limite successionale]] e il [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-limite-funzione\|limite "normale"]] sono equivalenti, basta che sostituisci alla $x$ una generica successione $X_n : X_n \rightarrow x_0$ e puoi calcolare il limite.
 ### dim
 Assumi sempre che $x_0$ è un punto di accumulazione per $D(f)$ se no il limite non è implementabile.
 ### $\Rightarrow$

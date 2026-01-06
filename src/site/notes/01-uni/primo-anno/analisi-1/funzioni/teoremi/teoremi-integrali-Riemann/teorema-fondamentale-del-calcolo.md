@@ -5,11 +5,11 @@
 sia $f \in R_{P}(a,b)$ quindi intendiamo [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-primitiva#notazione interna al corso\|che ammette primitiva e che è integrabile]], chiamata $F$ una primitiva di $f$ si ha che:
 $$\int_{a}^b f(x)dx = F(b)-F(a)  = F \big|_{a}^b$$
 ### dim
-per comodità scelgo l'intervallo $[0,1]$ al posto di $[a,b]$ e sia quindi $F$ una primitiva di $f$ in $[a,b]$ e dividiamo l'intervallo $[0,1]$ in $n$ intervalli di lunghezza $1/n$ chiamando gli estremi di questi intervalli $x_k$ con $k = 1, 2,3,\dots ,n$ e $x_{0} = a, \ x_{n} = b$. Considero quindi l'intervallo generico $I_{k}$
-dove $I_{k} = [x_{k-1},x_{k}]$ e applico [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-Lagrange\|Lagrange]] a $F$ su questo intervallo generico, posso poiché per ipotesi $F$ è derivabile su tutto l'intervallo (se no non sarebbe la primitiva di $f$).
+per comodità scelgo l'intervallo $[0,1]$ al posto di $[a,b]$ e sia quindi $F$ una primitiva di $f$ in $[a,b]$ e dividiamo l'intervallo $[0,1]$ in $n$ intervalli di lunghezza $1/n$ chiamando gli estremi di questi intervalli $x_k$ con $k = 1, 2,3,\dots ,n$ e $x_{0} = a, \ x_{n} = b$. 
+Considero quindi l'intervallo generico $I_{k}$ dove $I_{k} = [x_{k-1},x_{k}]$ e applico [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-Lagrange\|Lagrange]] a $F$ su questo intervallo generico, posso poiché per ipotesi $F$ è derivabile su tutto l'intervallo (se no non sarebbe la primitiva di $f$).
 $$\implies \exists y \in(x_{k-1},x_{k}) : F(x_{k})-F(x_{k-1}) = F'(y)(x_{k}-x_{k-1})$$
 $$F'(y) = f(y) \text{ per definizione di primitiva}$$
-$$\implies F(x_{k})-F(x_{k-1}) = f(y)\left( \frac{1}{n} \right)$$
+$$\implies F(x_{k})-F(x_{k-1}) = \frac{f(y)}{n}$$
 $$y \in I \implies \inf_{I_{k}}f\le f \le \sup_{I_{k}}f$$
 $$\implies \forall k \in [0,n]\cap \mathbb{N}$$
 $$\frac{\inf_{I_{k}}f}{n} \le \frac{f(y)}{n} \le  \frac{\sup_{I_{k}}f}{n}$$

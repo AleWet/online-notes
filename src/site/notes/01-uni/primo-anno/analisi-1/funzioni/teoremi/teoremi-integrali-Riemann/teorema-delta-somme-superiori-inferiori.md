@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-delta-somme-superiori-inferiori-tbd/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-delta-somme-superiori-inferiori/","tags":["math","uni"]}
 ---
 
-sia $f \in R(a,b)$ (dove con $R(a,b)$ intendo [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann-TBF\|questo]]) allora 
+sia $f \in R(a,b)$ (dove con $R(a,b)$ intendo [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|questo]]) allora 
 $$\omega _{n}(f) := S_{n} - s_{n}$$
 $$f \in R(a,b) \iff \omega_{n} \to 0$$
 ### osservazione preliminare

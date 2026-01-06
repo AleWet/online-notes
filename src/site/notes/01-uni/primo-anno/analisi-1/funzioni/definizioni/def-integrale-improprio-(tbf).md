@@ -11,7 +11,7 @@ $$\lim_{\begin{smallmatrix} d \to b & \\ c \to a \end{smallmatrix}} \int_{c}^d f
 se questo limite $\exists$ **FINITO** diciamo che $f$ è integrabile impropriamente su $(a,b)$.
 ### osservazioni importante 1
 1) se $a = -\infty$ oppure $b = \infty$ o entrambi avrò $(a,b)$ non limitato e quindi non posso implementare la procedura di Riemann direttamente. 
-2) Può anche essere che $f$ non sia limitata nell'intervallo $(a,b)$ e anche questa è un'ipotesi della procedura dell'[[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann-TBF\|integrale di Riemann]].
+2) Può anche essere che $f$ non sia limitata nell'intervallo $(a,b)$ e anche questa è un'ipotesi della procedura dell'[[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|integrale di Riemann]].
 ### osservazione importante 2
 Nell'applicare il limite doppio bisogna fare attenzione, non bisogna prendere una "velocità di convergenza" a caso, dimostrare che è finito e basta, ma bisogna dire PER OGNI "velocità" arbitraria con cui ci si avvicina al limite devo trovare sempre lo stesso risultato:
 $$\forall a_{n},b_{n} \in D(f) : a_{n}\to a^+, b_{n}\to b^-$$
@@ -24,7 +24,7 @@ se prendo però una "velocità" di convergenza diversa da una parte e dall'altra
 $$I = \int_{-1+\varepsilon}^{1-\varepsilon^2}f(x)dx$$
 e se lo risolvi ottieni che con $\varepsilon \to 0, I = +\infty$ e concludo (uguale alla [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità#continuità successionale\|continuità successionale]]) che il limite doppio non esiste.
 ### osservazione 3
-Negli esercizi spesso non ti viene richiesto di calcolare il valore dell'integrale ma il comportamento (uguale al discorso fatto con le [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-fondamentale-del-calcolo\|teorema-fondamentale-del-calcolo]] con un limite.zx
+Negli esercizi spesso non ti viene richiesto di calcolare il valore dell'integrale ma il comportamento (uguale al discorso fatto con le [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-fondamentale-del-calcolo\|teorema-fondamentale-del-calcolo]] con un limite. se invece ti chiedono di calcolare l'integrale improprio è esattamente la stessa cosa di un integrale definito solo con uno o più limiti agli estremi.
 ### notazione interna al corso
 diciamo che una funzione è integrabile impropriamente su un intervallo $(a,b)$ come:
 $$f \in I(a,b)$$

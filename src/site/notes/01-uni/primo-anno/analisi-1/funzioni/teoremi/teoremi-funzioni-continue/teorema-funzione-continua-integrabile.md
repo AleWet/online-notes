@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-continua-integrabile/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-funzione-continua-integrabile/","tags":["math","uni"]}
 ---
 
-sia $f$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann-TBF\|questo]]).
+sia  $f : [a,b] \to \mathbb{R}$ con $f$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] allora $f \in R(a,b)$ (dove con $R(a,b)$ intendo [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|questo]]).
 ### dim
-grazie al [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-uniformemente-continua\|uniformemente continua]] :
+grazie al [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-uniformemente-continua\|teorema di Heine-Cantor]] :
 $$\implies \forall \varepsilon > 0 \exists  \ \delta >0 : \text{ se } |x-y| < \delta \implies |f(x)-f(y)| < \varepsilon$$
-voglio mostrare che fissato $\varepsilon>0 \ \exists n_{0} : \text{ se } n \geq n_{0} \implies \omega(f) < \varepsilon$ (guarda [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann-TBF#def $ Delta$ somme sup e inf\|qui]] per def. di $\omega(f)$).
+voglio mostrare che fissato $\varepsilon>0 \ \exists n_{0} : \text{ se } n \geq n_{0} \implies \omega(f) < \varepsilon$ (guarda [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann#def $ Delta$ somme sup e inf\|qui]] per def. di $\omega(f)$).
 sia $\varepsilon >0$ fissato e sia $n_0$ tale che 
 $$\frac{b-a}{n} < \delta \ \forall n \geq n_{0}$$
 se suddivido $[a,b]$ in $n$ intervalli (che chiamo $I_{k}$) avrò che:

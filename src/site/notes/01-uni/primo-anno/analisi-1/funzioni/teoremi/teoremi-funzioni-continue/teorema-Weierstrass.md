@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-weierstrass/","tags":["math","uni"]}
 ---
 
-sia $f:[a,b] \to \mathbb{R}$ una funzione [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insiemi-aperti-chiusi\|chiuso]] e limitato.
+sia $f:[a,b] \to \mathbb{R}$ una funzione [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] e $[a,b]$ [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insiemi-aperti-chiusi\|chiuso]] e limitato allora 
+$$\text{ f ammette massimo e minimo } \in [a,b]$$
 ### osservazione 1
 $[a,b]$ può essere sostituito da un [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insieme-compatto\|insieme compatto]].
 ### cosa succede se allento le ipotesi
-1) funzione continua, intervallo limitato ma non chiuso
+1) funzione continua, intervallo limitato ma aperto
    controesempio = $f:(0,1] \to \mathbb{R} , \ \ f(x) = \frac{1}{x}$
    
 2) funzione continua, intervallo chiuso ma non limitato

@@ -3,8 +3,8 @@
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ (definita su tutto $[a,b]$) tale che :
-1) $f$ è [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insiemi-aperti-chiusi#insieme chiuso\|chiuso]])
-2) $f$ è [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insiemi-aperti-chiusi#insieme aperto\|aperto]])
+1) $f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in $[a,b]$)
+2) $f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] su $(a,b)$)
 
 $$\implies \exists \ c \in (a,b) : f'(c) = \frac{f(b)-f(a)}{b-a}$$
 ### osservazione 1

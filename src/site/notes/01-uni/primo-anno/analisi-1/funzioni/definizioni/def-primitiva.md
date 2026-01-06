@@ -8,7 +8,7 @@ $$F:[a,b] \to \mathbb{R} : F'(x) = f(x) \ \ \forall x$$
 se $f$ ammette **primitiva** e se $f$ è **Riemann-integrabile** su $[a,b]$ allora diciamo che
 $$f \in R_{P}(a,b)$$
 ### osservazione 1
-Una funzione generica $f$ per ammettere primitiva deve avere la [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-Darboux\|la funzione derivata ha sempre la proprietà di Darboux]]. Di conseguenza non può avere discontinuità di tipo salto o eliminabili. Posso quindi dire che tutte le $f$ con di Darboux ammettono primitiva? No, è solo necessario
+Una funzione generica $f$ per ammettere primitiva deve avere la [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-Darboux\|la funzione derivata ha sempre la proprietà di Darboux]]. Di conseguenza non può avere discontinuità di tipo salto o eliminabili. Posso quindi dire che tutte le $f$ con di Darboux ammettono primitiva? **No, è solo necessario**.
 ### osservazione 2
 Supponiamo che $f$ ammetta primitiva, allora tutte le sue primitive saranno della forma:
 $$F(x) + c , \ c \in \mathbb{R}$$
@@ -22,10 +22,11 @@ l'ultimo passaggio si deriva da [[01-uni/primo-anno/analisi-1/funzioni/teoremi/t
 consideriamo le seguenti affermazioni:
 $$\tag{1} f \text{ ammette primitiva in } [a,b]$$
 $$\tag{2} f \in R(a,b)$$
-dove con $R(a,b)$ si intende la [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann-TBF\|seguente cosa]], allora 
-$$(1) \not\Rightarrow (2)$$
-poiché le [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-costante-a-tratti\|funzioni costanti a tratti]] non ammettono primitiva poiché non sono Darboux
+dove con $R(a,b)$ si intende la [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|seguente cosa]], allora :
 $$(2) \not\Rightarrow (1)$$
+poiché le [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-costante-a-tratti\|funzioni costanti a tratti]] non ammettono primitiva poiché non sono Darboux ma sono Riemann integrabili.
+$$(1) \not\Rightarrow (2)$$
+
 e si può fare il seguente controesempio:
 $$f(x) = \begin{cases}
 2x\sin\left( \frac{1}{x^2} \right) + x^2\cos\left( \frac{1}{x^2} \right)(-2x^{-3})  & x \ne 0 \\ \\

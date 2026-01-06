@@ -13,4 +13,4 @@ e con $C^0$ o semplicemente $C$ intendo che la funzione è solo continua su $I$.
 ### osservazione
 naturalmente si ha che 
 $$C^n(f)\subset D^n(f) \subset ... \subset C^3(f) \subset D^3(f)\subset C^2(f) \subset ...$$
-perché tutte le funzioni in $D^n(f)$ possono appartenere alla classe "superiore" $C^n(f)$ le quali sono le uniche che possono essere derivate ulteriormente ([[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivabile-allora-continua\|derivabile allora continua]]) il che vuol dire che **possono** appartenere a $D^{n+1}(f)$.
+perché tutte le funzioni in $D^n(f)$ possono appartenere alla classe "superiore" $C^n(f)$ le quali sono le uniche che possono essere derivate ulteriormente ([[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivabile-continua\|derivabile allora continua]]) il che vuol dire che **possono** appartenere a $D^{n+1}(f)$.

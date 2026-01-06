@@ -34,4 +34,4 @@ $$ \iff \sup_{x \in I} |f_{n}(x) - f(x)| < \varepsilon$$
 $$\iff\lim_{ n \to \infty }  \sup_{x \in I} |f_{n}(x) - f(x)| = 0$$
 la notazione che usa il Pata è
 $$f_{n} \xrightarrow{u} f$$
-è importante citare che tutti con questo concetto di convergenza molte delle proprietà delle funzioni della successione si traslano alla funzione limite, per i teoremi guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-TBF\|qui]].
+è importante citare che con questo concetto di convergenza molte delle proprietà delle funzioni della successione si traslano alla funzione limite, per i teoremi guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-TBF\|qui]].

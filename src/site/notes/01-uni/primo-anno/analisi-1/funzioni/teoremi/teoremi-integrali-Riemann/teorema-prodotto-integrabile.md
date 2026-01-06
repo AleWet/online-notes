@@ -6,7 +6,7 @@ siano $f,g \in R(a,b)$ allora
 $$f*g \in R(a,b)$$
 ### dim
 $$f+g \in R(a,b)$$
-questo grazie alla [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-linearità-integrale-TBF\|linearità dell'integrale]]
+questo grazie alla [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-linearità-integrale\|linearità dell'integrale]]
 $$\implies (f+g)^2 \in R(a,b)$$
 grazie al fatto che è una [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-composta-continua-integrabile\|composta di funzione continua con una integrabile]] 
 $$\implies (f-g)^2 \in R(a,b)$$

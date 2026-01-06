@@ -25,7 +25,7 @@ ___
 un punto $x \in \mathbb{R}$ (NON $\overline{\mathbb{R}}$) è detto di frontiera per l'insieme $A$ se:
 $$\forall u(x), \ u(x)\cap A \ne \emptyset \ \land\ u(x)\cap A^C \ne \emptyset$$
 dove $A^C$ è l'insieme complementare all'insieme $A$. 
-In pratica sono i punti che sono "ai lati" dell'insieme $A$. Di conseguenza tutti i punti di frontiera sono anche [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-punti-accumulazione-and-others#punti isolati\|punti isolati]] poiché ricordiamo che i punti isolati sono compresi nell'insieme $A$.
+In pratica sono i punti che sono "ai lati" dell'insieme $A$. Di conseguenza tutti i [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-punti-accumulazione-and-others#punti isolati\|punti isolati]] sono anche punti di frontiera poiché ricordiamo che i punti isolati sono compresi nell'insieme $A$.
 ### osservazione 
 Chiediamo che i punti di frontiera siano finiti ma effettivamente per gli insiemi non limitati possiamo dire che $\pm\infty$ sono moralmente punti di frontiera, ci si avvicina sempre ma non lo si raggiunge mai. 
 ### esempio

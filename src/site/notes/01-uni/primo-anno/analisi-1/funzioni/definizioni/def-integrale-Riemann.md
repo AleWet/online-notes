@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-riemann-tbf/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-riemann/","tags":["math","uni"]}
 ---
 
 # costruzione dell'integrale di Riemann
@@ -13,7 +13,7 @@ poiché $f$ è limitata per ipotesi, $\forall k$ tra $1$ e $n$ il [[01-uni/primo
 $$\forall k \ \ \sup_{I_{k}}f, \ \inf_{I_{k}}f \in \mathbb{R}$$
 non è tuttavia garantito che abbiano $\max$ e $\min$.
 ### osservazione 2
-esistono funzioni limitate non integrabili e come sempre usi la [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-Dirichelt\|funzione di Dirichlet]]  $:[0,1] \to \mathbb{R}$, in ogni intervallino indipendentemente da quanto lo si fa piccolo si avrà che $\sup D$ e $\inf D$ sono sempre $1$ e $0$. 
+esistono funzioni limitate non integrabili e come sempre usi la [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-Dirichlet\|funzione di Dirichlet]]  $:[0,1] \to \mathbb{R}$, in ogni intervallino indipendentemente da quanto lo si fa piccolo si avrà che $\sup D$ e $\inf D$ sono sempre $1$ e $0$. 
 ___
 # somme inferiori e superiori
 definisco **somma inferiore** relativa a $f$ su $[a,b]$ di ordine $n$ la quantità
@@ -38,7 +38,7 @@ Definiamo poi la seguente quantità:
 $$\omega_{n}(f) = S_{n}-s_{n} = \frac{b-a}{n} \sum_{k=1}^n \sup_{I_{k}}f-\inf_{I_{k}}f$$
 e faccio la seguente osservazione:
 $$f \in R(a,b) \iff \omega_{n}(f)\to 0 \iff s_{n},S_{n}\to l$$
-per la dimostrazione guarda [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-delta-somme-superiori-inferiori-TBD\|qui]]
+per la dimostrazione guarda [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-delta-somme-superiori-inferiori\|qui]]
 ____
 # definizione equivalente
 L'integrale può essere definito in molti modi, uno citato dal Pata è di definire prima l'integrabilità di una [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-costante-a-tratti#osservazione importante\|funzione costante a tratti]] e poi dire che ogni funzione integrabile può essere "compresa" tra due funzioni costanti a tratti :

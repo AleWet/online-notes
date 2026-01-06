@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-continue/teorema-ponte-continuita/","tags":["math","uni"]}
 ---
 
-### tesi
 $$f \text{ è continua in }  x_0 \in D(f) \iff f \text{ è continua successionalmente in } x_0$$
 dove con [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità#continuità successionale\|continuità successionale]] intendo la cosa descritta nel link ma è intuitiva.
 ### dim 1°
