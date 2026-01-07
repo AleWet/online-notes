@@ -11,7 +11,7 @@ $$ \int_{a}^b f(x)dx \ge 0$$
 ### osservazione importante
 non è vero che 
 $$\int_{a}^b f(x)dx = 0 \implies f(x) = 0  \forall x \in [a,b]$$
-poiché posso cambiare un numero $finito$ di punti e [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-integrale-finiti-punti-diversi-(tbf)\|lo stesso integrale alla fine]].
+poiché posso cambiare un numero $finito$ di punti e l'integrale rimane [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-integrale-finiti-punti-diversi-(tbf)\|lo stesso integrale alla fine]].
 se impongo però che $f$ sia [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] allora effettivamente la funzione è nulla (non posso più avere punti di "salto" dove l'integrale ha valori diversi che hanno "misura $0$"), la dimostrazione l'ha data il Pata in classe e se ho voglia sarà riportata qui sotto.
 ### dim teorema
 per dimostrare basta notare che :

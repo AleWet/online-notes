@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-serie-di-funzioni/","tags":["math","uni"]}
 ---
 
+	# definizione
 data $f_{n}: I \to \mathbb{R}$ costruiamo, come nelle [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie\|serie]], la **successione delle somme parziali** di una [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-successione-funzioni\|successione di funzioni]] :  
 $$s_{n}(x) = \sum_{k = 1}^n f_{k}(x) \ \ \forall x \text{ fissato}$$
 il concetto è sempre quello di una successione di funzioni, ad ogni $n$ associ una funzione che in questo caso non è più "una singola funzione" ma una somma di più funzioni. Immagina di fissare un punto $x$, definisci $s_{n}(x)$ come la somma di $n$ funzioni tutte della variable $x$ :

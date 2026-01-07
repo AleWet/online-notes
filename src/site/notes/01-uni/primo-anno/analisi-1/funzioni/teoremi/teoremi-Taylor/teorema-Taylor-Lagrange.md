@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-taylor/teorema-taylor-lagrange/","tags":["math","uni"]}
 ---
 
-sia $x_0$ fissato e sia $f$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-polinomio-Taylor\|politaylor]] di ordine $n$ centrato in $x_0$ di $f$ allora:
+sia $x_0$ fissato e sia $P_{n}$ il [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-polinomio-Taylor\|politaylor]] di ordine $n$ centrato in $x_0$ di $f$ allora:
 $$\exists y \in (x_{0},x) \text{ oppure } (x,x_{0})$$
 $$\text{tale che } f(x) = P_{n}(x)+R_{n}(x)$$
 dove chiamiamo $R_n(x)$ il **resto di Lagrange** :

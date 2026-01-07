@@ -33,7 +33,7 @@ voglio dimostrare che se
 $$\exists \delta>0 : 0<h<\delta \implies \star<\varepsilon$$
 in pratica se $h$ è abbastanza piccolo allora la derivata $I_{+}'(x_{0})$ e $f(x_{0})$ si avvicinano arbitrariamente.
 $$\star = \left| \frac{{\int_{a}^{x_{0+h}}f(t)dt - \int_{a}^{x_{0}} f(t)dt}}{h} - f(x_{0}) \right|$$
-e usando l'[[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-additività-integrale-(tbf)\|additività integrale]]:
+e usando l'[[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-additività-integrale\|additività integrale]]:
 $$= \left| \frac{1}{h} \int_{x_{0}}^{x_{0}+h}[f(t)dt] - f(x_{0}) \right|$$
 a questo punto noto che 
 $$f(x_{0}) = \frac{1}{h}\int_{x_{0}}^{x_{0}+h}f(x_{0})dt = \frac{f(x_{0})}{h}\int_{x_{0}}^{x_{0}+h}dt = \frac{f(x_{0})}{h}*h$$

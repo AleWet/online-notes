@@ -8,7 +8,7 @@ $$F:[a,b] \to \mathbb{R} : F'(x) = f(x) \ \ \forall x$$
 se $f$ ammette **primitiva** e se $f$ è **Riemann-integrabile** su $[a,b]$ allora diciamo che
 $$f \in R_{P}(a,b)$$
 ### osservazione 1
-Una funzione generica $f$ per ammettere primitiva deve avere la [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-Darboux\|la funzione derivata ha sempre la proprietà di Darboux]]. Di conseguenza non può avere discontinuità di tipo salto o eliminabili. Posso quindi dire che tutte le $f$ con di Darboux ammettono primitiva? **No, è solo necessario**.
+Una funzione generica $f$ per ammettere primitiva deve avere la [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-Darboux\|proprietà di Darboux]] poiché  [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-Darboux\|la funzione derivata ha sempre la proprietà di Darboux]]. Di conseguenza non può avere discontinuità di tipo salto o eliminabili. Posso quindi dire che tutte le $f$ con di Darboux ammettono primitiva? **No, è solo necessario**.
 ### osservazione 2
 Supponiamo che $f$ ammetta primitiva, allora tutte le sue primitive saranno della forma:
 $$F(x) + c , \ c \in \mathbb{R}$$

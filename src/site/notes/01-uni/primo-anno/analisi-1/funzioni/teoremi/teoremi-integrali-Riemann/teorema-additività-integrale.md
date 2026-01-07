@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-additivita-integrale-tbf/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-additivita-integrale/","tags":["math","uni"]}
 ---
 
 sia dato $[a,b]$ e sia $c \in (a,b)$ allora :

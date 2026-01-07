@@ -10,5 +10,5 @@ La definizione di funzione integrale non mi dice a priori nulla sull'esistenza d
 ### teoremi importanti
 Il Pata dopo aver definito la funzione integrale ha citato e dimostrato i seguenti tre teoremi:
 - [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-funzione-integrale-primitiva\|teorema-funzione-integrale-primitiva]]
-- [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-funzione-integrale-continua-(tbf)\|teorema-funzione-integrale-continua-(tbf)]]
+- [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-funzione-integrale-continua\|teorema-funzione-integrale-continua]]
 - [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-funzione-integrale-derivata\|teorema-funzione-integrale-derivata]]

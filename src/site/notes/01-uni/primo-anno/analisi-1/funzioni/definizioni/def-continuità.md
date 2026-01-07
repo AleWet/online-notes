@@ -10,7 +10,7 @@ $$\iff$$
 $$\forall \varepsilon > 0 \ \exists \delta > 0 : \text{ se } x \in D(f) \land |x-x_0| < \delta \implies |f(x) - f(x_0)| < \varepsilon$$
 $$\iff \lim_{x \to x_0}f(x) = f(x_0)$$
 ### osservazione 1
-cosa cambia da questa definizione alla [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-limite-funzione\|def-limite-funzione]]? Qui ci interessa cosa fa la funzione nel punto $x_0$, invece nei limiti cosa $f$ in $x_0$ è irrilevante. Infatti nei limiti uso $\dot{u}(x)$ mentre qui $u(x)$ quindi accetto che $x = x_0$. Inoltre cambia che al posto di usare $l$ uso $f(x_0)$.
+cosa cambia da questa definizione alla [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-limite-funzione\|def-limite-funzione]]? Qui ci interessa cosa fa la funzione nel punto $x_0$, invece nei limiti cosa fa $f$ in $x_0$ è irrilevante. Infatti nei limiti uso $\dot{u}(x)$ mentre qui $u(x)$ quindi accetto che $x = x_0$. Inoltre cambia che al posto di usare $l$ uso $f(x_0)$.
 ### osservazione 2 
 se $f$ è continua in $x_0$ e $x_0$ è un [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-punti-accumulazione-and-others#punti di accumulazione\|punto di accumulazione]] per $D(f)$ allora la definizione di continuità è equivalente a dire che $\lim_{x\to x_0} f(x) = f(x_0)$.
 ### osservazione 3
