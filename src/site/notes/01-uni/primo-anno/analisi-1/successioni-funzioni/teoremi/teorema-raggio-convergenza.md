@@ -9,7 +9,7 @@ $$\tag{2}\implies \text{la serie converge totalmente in ogni intervallo } [-r, r
 $$\tag{3}\implies \text{ la serie NON converge in ogni alcun intervallo } [-R, R]^C \text{ ovvero } |x| > R$$
 (guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-serie-di-funzioni#convergenza totale\|qui per convergenza totale]])
 ### osservazione 1
-è importante notare che la convergenza totale implica quella uniforme che è solitamente più comoda perché hai più teoremi applicabili (guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme\|qui]]).
+è importante notare che la convergenza totale implica quella uniforme che è solitamente più comoda perché hai più teoremi applicabili (guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-successioni\|qui]]).
 ### osservazione 2
 se $R = +\infty$ vuol dire che la serie converge totalmente in ogni intervallo chiuso.
 ### osservazione 3

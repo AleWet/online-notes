@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-serie-di-funzioni/","tags":["math","uni"]}
 ---
 
-	# definizione
+# definizione
 data $f_{n}: I \to \mathbb{R}$ costruiamo, come nelle [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie\|serie]], la **successione delle somme parziali** di una [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-successione-funzioni\|successione di funzioni]] :  
 $$s_{n}(x) = \sum_{k = 1}^n f_{k}(x) \ \ \forall x \text{ fissato}$$
 il concetto è sempre quello di una successione di funzioni, ad ogni $n$ associ una funzione che in questo caso non è più "una singola funzione" ma una somma di più funzioni. Immagina di fissare un punto $x$, definisci $s_{n}(x)$ come la somma di $n$ funzioni tutte della variable $x$ :
@@ -20,7 +20,7 @@ una serie di funzioni $\sum f_{n}:I \to \mathbb{R}$ ==converge totalmente== se
 $$\exists \text{ una successione } M_{n} \ge 0 : $$
 $$\tag{1} \sup_{x \in I}|f_{n}(x)| \le M_{n}$$
 $$\tag{2} \sum_{n = 1}^\infty M_{n} \in \mathbb{R}$$
-questo concetto è molto utile poiché ==implica la convergenza uniforme== ed è più semplice da applicare praticamente.
+questo concetto è molto utile poiché [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teorema-convergenza-totale-uniforme\|implica la convergenza uniforme]] ed è più semplice da applicare praticamente
 ### esempio
 $$I = [0,1], \ \sum_{n= 1}^\infty \frac{(-x)^n}{n^2}$$
 $$\sup_{x \in I}|f_{n}(x)| = \sup_{x \in I} \bigg|\frac{(-x)^n}{n^2} \bigg| \le \frac{1}{n^2}$$

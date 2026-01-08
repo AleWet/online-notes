@@ -20,7 +20,7 @@ $$\forall x \in I, \ \{f_{n}(x)\} \ \text{ converge } \in \mathbb{R}$$
 $$\text{ e definiamo } f : I \to \mathbb{R} \text{ come funzione limite}$$
 $$f(x):= \lim_{ n \to \infty } f_{n}(x)$$
 quindi solo quando il **limite esiste ed è finito**, la notazione standard è $f_{n} \to f$.
-Guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-puntuale-(tbd)\|qui]] per la trattazione fatta a lezione di questa proprietà che risulta molto debole.
+Guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-puntuale-successioni-(tbd)\|qui]] per la trattazione fatta a lezione di questa proprietà che risulta molto debole.
 ___
 # convergenza uniforme
 visto che la convergenza puntiforme risulta abbastanza debole come concetto di convergenza (come puoi vedere nel link qui sopra) è necessaria una definizione di convergenza più potente.
@@ -34,7 +34,7 @@ $$ \iff \sup_{x \in I} |f_{n}(x) - f(x)| < \varepsilon$$
 $$\iff\lim_{ n \to \infty }  \sup_{x \in I} |f_{n}(x) - f(x)| = 0 \tag*{(**)}$$
 la notazione che usa il Pata è
 $$f_{n} \xrightarrow{u} f$$
-è importante citare che con questo concetto di convergenza molte delle proprietà delle funzioni della successione si traslano alla funzione limite, per i teoremi guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme\|qui]].
+è importante citare che con questo concetto di convergenza molte delle proprietà delle funzioni della successione si traslano alla funzione limite, per i teoremi guarda [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-successioni\|qui]].
 ### osservazione importante
 Si usa sempre la relazione $(* *)$ nei calcoli, è quella più utile. Ci sono eccezioni ma dovrebbe essere il tuo standard negli esercizi. Se è complesso capire dov'è il $\sup f_{n}$, è utile fare la derivata di $f_{n}$ e trovare il massimo assoluto / locale, spesso ti verrà un'espressione che dipende da $n$. A questo punto calcoli il tuo limite $(* *)$ nel punto $x = \sup$, se per esempio ti viene $x = \frac{1}{n}$ fai $f_{n}\left( \frac{1}{n} \right)$. Un esempio utile che ha fatto il Pata è :
  $$f_{n}(x) = \frac{\sqrt{ n }x}{1+n^2x^2}$$
