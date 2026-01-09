@@ -14,4 +14,4 @@ se rispetta le seguenti proprietà $\forall n$
 - $a_n < a_{n+1}$
 - ...
 
-(teorema banale : se $a_n$ è monotona allora è [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione-limitata\|limitata]] o inf o sup o entrambi se converge)
+(teorema banale : se $a_n$ è monotona allora è [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione-limitata\|limitata]] superiormente o inferiormente  o entrambi se converge)

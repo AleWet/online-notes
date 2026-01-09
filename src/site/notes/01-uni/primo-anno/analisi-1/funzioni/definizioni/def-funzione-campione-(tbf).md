@@ -11,7 +11,7 @@ vedo subito che i "punti critici" di questa funzione sono 3:
 e si dimostra che la mia funzione campione è **integrabile impropriamente** :
 $$\text{ in } u(0) \iff \begin{cases}
 \alpha < 1 \ \ \forall \beta \\ \\
-\alpha = 0 \ \ \beta > 1
+\alpha = 1 \ \ \beta > 1
 \end{cases}$$
 $$\text{ in } u(1) \iff \begin{cases}
 \beta < 1 \ \ \forall \alpha
@@ -20,4 +20,4 @@ $$\text{ in } u(+\infty) \iff \begin{cases}
 \alpha > 1\ \ \forall \beta \\ \\
 \alpha = 1 \ \ \beta > 1
 \end{cases} $$
-### dimostrazioni TBD
+### dimostrazioni (tbd)

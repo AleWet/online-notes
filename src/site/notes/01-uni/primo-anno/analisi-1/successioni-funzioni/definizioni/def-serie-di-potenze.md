@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-serie-di-potenze-tbf/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-serie-di-potenze/","tags":["math","uni"]}
 ---
 
 # definizione
 chiamiamo **serie di potenze** una [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-serie-di-funzioni\|serie di funzioni]] della seguente specie:
 $$\sum_{n=0}^\infty a_{n} x^n$$
 $$= a_{0}+a_{1}x+a_{2}x^2+a_{3}x^3+\dots$$
-dove $a_{n}$ è una [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione\|successione]] assegnata e interpretiamo $0^0$ come $1$ come al solito.
+dove $a_{n}$ è una [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione\|successione]] assegnata e interpretiamo $0^0=1$ come al solito.
 ### raggio di convergenza
 chiamiamo **raggio di convergenza** di una serie di potenze la quantità:
 $$R = \frac{1}{L} \in [0,+\infty]$$

@@ -23,4 +23,4 @@ questa nota è stata scritta prima della trattazione degli "o-piccoli", un modo 
 $$f(x) = f'(x_{0})(x-x_{0}) + f(x_{0}) + o(x-x_{0})$$
 $$ \iff f(x) = r_{x_{0}}(x) + o(x-x_{0})$$
 ### osservazione
-in $\mathbb{R}^1$, ovvero la retta dei reali, questa nozione è equivalente alla nozione di [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-equivalenza-derivabile-differenziabile-(tbf)\|differenziabilità]].
+in $\mathbb{R}^1$, ovvero la retta dei reali, questa nozione è equivalente alla nozione di [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-equivalenza-derivabile-differenziabile\|differenziabilità]].
