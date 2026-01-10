@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-lagrange/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-lagrange-tbf/","tags":["math","uni"]}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ (definita su tutto $[a,b]$) tale che :
@@ -17,7 +17,7 @@ allora questo viene chiamato il ==teorema di Rolle==.
 2) se la prendo non derivabile in $(a,b)$
    $$f(x) = |x|$$
 in entrambi i casi non c'è un punto dove *m* della retta tangente è $= \frac{f(b)-f(a)}{b-a} = 0$
-### osservazione 2 DA RIGUARDARE LEZIONE 18/11
+### osservazione 2 (tbf-18/11)
 $a \in \mathbb{R}, \ f:u(a) \to \mathbb{R} \ \land f \in C^1(u(a))$ ([[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-classi-di-continuità\|classi delle funzioni]]) e sia $a_n \to a, \ a_n \ne a$ 
 $$\implies f(a_n)-f(a) \sim f'(a)(a_n-a)$$
 si dimostra nel seguente modo:

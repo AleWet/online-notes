@@ -10,4 +10,4 @@ e se derivi ottieni:
 $$I'(x) = F'(h(x))h'(x)-F'(g(x))g'(x) = f(h(x))h'(x) -f(g(x))g'(x)$$
 uguale alla [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-cambio-variabile\|teorema-cambio-variabile]]
 ### dim
-la dimostrazione deriva direttamente dal [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-fondamentale-del-calcolo\|teorema-fondamentale-del-calcolo]]. Guarda QR5 per più dettagli.
+la dimostrazione deriva direttamente dal [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-fondamentale-del-calcolo\|teorema-fondamentale-del-calcolo]], lo applichi e poi derivi e ottieni subito quello.

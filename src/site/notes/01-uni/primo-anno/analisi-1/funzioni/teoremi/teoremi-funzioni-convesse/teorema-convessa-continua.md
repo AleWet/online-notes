@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessa-allora-continua/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessa-continua/","tags":["math","uni"]}
 ---
 
 sia $f$ una funzione [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] sull'intervallo $(a,b)$.

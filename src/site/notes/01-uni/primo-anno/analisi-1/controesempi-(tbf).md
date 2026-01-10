@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/controesempi/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/controesempi-tbf/","tags":["math","uni"]}
 ---
 
 ### funzioni
@@ -20,4 +20,4 @@
 - non converge uniformemente allora non puoi scambiare limite con integrale
 	- funzione a tendina
 - non converge uniformemente allora può non essere continua
-	- $x^n$
+	- $x^n$ 

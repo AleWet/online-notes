@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-confronto-integrali-tbf/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-confronto-integrali/","tags":["math","uni"]}
 ---
 
 siano $f,g \in R(a,b)$ (dove con $R(a,b)$ si intende [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|questo]]) allora:

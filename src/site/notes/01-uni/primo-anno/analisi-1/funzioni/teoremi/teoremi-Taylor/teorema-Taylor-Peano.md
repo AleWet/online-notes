@@ -40,7 +40,7 @@ $$f'(0)-P'_{n}(0)=0$$
 $$\dots.$$
 $$f(0)^{(n)}-P_{n}^{(n)}(0)=0$$
 a questo punto il Pata ha detto che si dovrebbe procedere per induzione ma è uguale se non lo fai, quindi non lo farai all'esame:
-applico il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-Lagrange\|teorema-Lagrange]] su $g$ nell'intervallo $[0,x$] 
+applico il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-Lagrange-(tbf)\|teorema-Lagrange-(tbf)]] su $g$ nell'intervallo $[0,x$] 
 $$\implies \exists x_{1} \in (0,x):g(x)-g(0) = g'(x_{1})(x-0) = g'(x_{1})x$$
 $$\implies g(x) = g'(x_{1})x$$
 applico di nuovo Lagrange a $g'$ nell'intervallo $[0,x_{1}]$ 

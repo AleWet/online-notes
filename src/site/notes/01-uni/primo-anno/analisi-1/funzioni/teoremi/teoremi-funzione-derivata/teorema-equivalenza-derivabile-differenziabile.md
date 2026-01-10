@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-equivalenza-derivabile-differenziabile/","tags":["math","uni"]}
 ---
 
-$f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-differenziabilità\|differenziabile]] in $x_0 \iff f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata\|derivabile]] in $x_0$, e in tal caso $l$ è esattamente $f'(x_0)$.
+$f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-differenziabilità\|differenziabile]] in $x_0 \iff f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata\|derivabile]] in $x_0$, e in tal caso $L$ è esattamente $f'(x_0)$.
 ### osservazione
 in pratica la derivata esprime come la funzione si comporta lungo una *direzione* mentre il differenziale esprime come si comporta una funzione nell'[[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intorni\|intorno]] collassano sulla stessa definizione. Questo non sarebbe lo stesso in altre dimensioni come $\mathbb{R}^2$. 
 ### dim $\Rightarrow$

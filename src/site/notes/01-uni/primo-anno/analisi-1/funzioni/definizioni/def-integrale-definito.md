@@ -12,4 +12,4 @@ $$\int_{x}^y f(t)dy = \begin{cases}
 le proprietà dell'integrale rimangono : 
 - [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-linearità-integrale\|linearità dell'integrale]] continua a valere
 - l'[[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-additività-integrale\|additività]] continua a valere
-- il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-confronto-integrali-(tbf)\|confronto]] continua a valere ma con attenzione
+- il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-confronto-integrali\|confronto]] continua a valere ma con attenzione

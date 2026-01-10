@@ -6,7 +6,7 @@ sia $f:[a,b] \to \mathbb{R}$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/
 ### osservazione
 la parte più interessante di questa relazione è $\Leftarrow$ poiché la derivata ci sta dando informazioni riguardo la funzione ed è infatti l'unica parte che abbiamo dimostrato.
 ### dim $\Leftarrow$
-Parto per ipotesi dal fatto che $f'(x)$ è crescente e voglio dimostrare che $f$ è convessa, per fare ciò dimostro che $f(x)$ è sopra tutte le sue rette tangenti in $[a,b]$ e grazie a [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-Lagrange\|teorema di Lagrange]] all'intervallo $[x_0,x]$ ($f$ è derivabile e continua in quell'intervallo, posso dire che è continua [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessa-allora-continua\|grazie a questo teorema]])
+Parto per ipotesi dal fatto che $f'(x)$ è crescente e voglio dimostrare che $f$ è convessa, per fare ciò dimostro che $f(x)$ è sopra tutte le sue rette tangenti in $[a,b]$ e grazie a [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-Lagrange-(tbf)\|teorema di Lagrange]] all'intervallo $[x_0,x]$ ($f$ è derivabile e continua in quell'intervallo, posso dire che è continua [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessa-continua\|grazie a questo teorema]])
 $$\implies \exists y \in (x_0,x) : f(x)-f(x_0) = f'(y)(x-x_0)$$
 $$f(y)' \ge f(x_0)' \text{ poiché f' è crescente per ipotesi}$$
 $$f(x) = f'(y)(x-x_0)+f(x_0) \ge f(x_0)'(x-x_0)+f(x_0)$$

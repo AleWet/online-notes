@@ -13,5 +13,5 @@ $$\implies A \text{ è chiuso e limitato}$$
 ### dim $\Leftarrow$ o Heine-Borel
 sia $A$ un insieme chiuso e limitato, allora sia $x_n \in A$ e poiché $A$ è limitato, $x_n$ è limitata
 $$\implies \exists x \in \mathbb{R} : x_{n_k} \to x$$
-per il [[01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-bolzano-weierstrass\|teorema-bolzano-weierstrass]]. Poiché $A$ è chiuso e $x_{n_k} \in A$ per ogni $k$, il limite $x$ appartiene ad $A$ (un insieme chiuso contiene i [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-punti-accumulazione-and-others#punti di accumulazione\|limiti di tutte le successioni convergenti]]). Quindi ogni successione in $A$ ammette una sottosuccessione convergente a un punto di $A$
+per il [[01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-Bolzano-Weierstrass\|teorema-Bolzano-Weierstrass]]. Poiché $A$ è chiuso e $x_{n_k} \in A$ per ogni $k$, il limite $x$ appartiene ad $A$ (un insieme chiuso contiene i [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-punti-accumulazione-and-others#punti di accumulazione\|limiti di tutte le successioni convergenti]]). Quindi ogni successione in $A$ ammette una sottosuccessione convergente a un punto di $A$
 $$\implies A \text{ è compatto }$$

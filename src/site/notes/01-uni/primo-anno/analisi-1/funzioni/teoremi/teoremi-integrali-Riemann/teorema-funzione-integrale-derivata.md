@@ -36,13 +36,13 @@ $$\star = \left| \frac{{\int_{a}^{x_{0+h}}f(t)dt - \int_{a}^{x_{0}} f(t)dt}}{h} 
 e usando l'[[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-additività-integrale\|additività integrale]]:
 $$= \left| \frac{1}{h} \int_{x_{0}}^{x_{0}+h}[f(t)dt] - f(x_{0}) \right|$$
 a questo punto noto che 
-$$f(x_{0}) = \frac{1}{h}\int_{x_{0}}^{x_{0}+h}f(x_{0})dt = \frac{f(x_{0})}{h}\int_{x_{0}}^{x_{0}+h}dt = \frac{f(x_{0})}{h}*h$$
+$$f(x_{0}) = \bigg[\frac{1}{h}\int_{x_{0}}^{x_{0}+h}f(x_{0})dt\bigg] = \bigg[\frac{f(x_{0})}{h}\int_{x_{0}}^{x_{0}+h}dt \bigg] = \frac{f(x_{0})}{h}*h$$
 $$\implies \star= \left| \frac{1}{h} \int_{x_{0}}^{x_{0}+h}[f(t)-f(x_{0})]dt \right|$$
 usando la [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-linearità-integrale\|linearità dell'integrale]]
 $$\implies \star\leq \frac{1}{h} \int_{x_{0}}^{x_{0} h} |f(t)-f(x_{0})|dt$$
 usando il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-disuguaglianza-modulo\|teorema-disuguaglianza-modulo]]. Qui noto che se $h<\delta$ e se $t \in [x_{0}, x_{0}+h]$ 
 $$\implies|t-x_{0}|<h<\delta \implies|f(t)-f(x_{0})|<\varepsilon$$
 $$\implies \left| \frac{I(x_{0}+h)-I(x_{0})}{h} - f(x_{0})\right| \leq \frac{1}{h}  \int_{x_{0}}^{x_{0} h} |f(t)-f(x_{0})|dt \leq \frac{1}{h} \int_{x_{0}}^{x_{0}+h}\varepsilon = \frac{1}{h}\varepsilon h = \varepsilon$$
-usando il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-confronto-integrali-(tbf)\|teorema-confronto-integrali-(tbf)]]. Ho quindi dimostrato che:
+usando il [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-confronto-integrali\|teorema-confronto-integrali]]. Ho quindi dimostrato che:
 $$\star \leq \varepsilon$$
 $$\implies I_{+}'(x_{0}) = f(x_{0}) \ \ \ \ \ \square $$

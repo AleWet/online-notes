@@ -21,7 +21,7 @@ prima di dimostrare il teorema è necessario il seguente lemma:
 presa una successione $x_n \in [a,b] \implies \exists x \in [a,b]$ e una [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-sottosuccessione\|sottosuccessione]] $x_{n_k}$ di $x_n$ t.c. $x_{n_k} \to x$.
 Importante notare che questa è la definizione di [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-insieme-compatto\|compattezza]] di un insieme.
 ##### dim lemma
-$x_n \in [a,b] \implies x_n$ è limitata $\implies \exists x_{n_k} \to x \in \mathbb{R}$ grazie a [[01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-bolzano-weierstrass\|BW]]. Posso poi dire che:
+$x_n \in [a,b] \implies x_n$ è limitata $\implies \exists x_{n_k} \to x \in \mathbb{R}$ grazie a [[01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-Bolzano-Weierstrass\|BW]]. Posso poi dire che:
 $$\tag{1} x_{n_k} \le b \ \forall n \implies x \le b$$
 $$\tag{1} x_{n_k} \ge a \ \forall n \implies x \ge a$$
 usando 2 volte il [[01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-della-permanenza-del-segno\|teorema-della-permanenza-del-segno]] :
