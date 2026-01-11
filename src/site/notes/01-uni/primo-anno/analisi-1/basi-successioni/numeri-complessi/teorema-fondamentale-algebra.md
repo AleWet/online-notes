@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/numeri-complessi/teorema-fondamentale-algebra/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/numeri-complessi/teorema-fondamentale-algebra/","tags":["math","uni"]}
 ---
 
 siano $a_0, a_1, a_2, ... , a_n \in \mathbb{C}$ dove $a_n \ne 0$, l'equazione
 $$a_0+a_0z+a_1z^2+a_2z^3+...+a_nz^n = 0$$
-ha esattamente $n$ soluzioni in $\mathbb{C}$ contate con la loro [[01-uni/primo-anno/analisi-1/numeri-complessi/def-molteplicità-radice\|molteplicità]].
+ha esattamente $n$ soluzioni in $\mathbb{C}$ contate con la loro [[01-uni/primo-anno/analisi-1/basi-successioni/numeri-complessi/def-molteplicità-radice\|molteplicità]].
 Ciò vuol dire che $\mathbb{C}$ è un campo algebricamente chiuso, ovvero ogni equazione ha tutte soluzioni nel campo di partenza.
 ### corollario importante
 se l'equazione polinomiale è a coefficienti reali ($a_0,a_1,...,a_n \in \mathbb{R}$) allora :

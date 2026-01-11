@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/numeri-complessi/def-molteplicita-radice/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/numeri-complessi/def-molteplicita-radice/","tags":["math","uni"]}
 ---
 
 sia $P_n(z)$ un polinomio di grado $n$ di variable $z$ complessa, sia $\alpha \in \mathbb{C} : P_n(\alpha) = 0$ (è una radice).

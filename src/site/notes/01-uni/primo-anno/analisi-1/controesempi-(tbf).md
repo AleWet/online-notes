@@ -21,3 +21,5 @@
 	- funzione a tendina
 - non converge uniformemente allora può non essere continua
 	- $x^n$ 
+- teorema derivate di successioni
+	- $\frac{\sin(nx)}{\sqrt{ n }}$ la successione delle funzioni non converge uniformemente

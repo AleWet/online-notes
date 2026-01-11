@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/numeri-complessi/teorema-radici-complesse/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/numeri-complessi/teorema-radici-complesse/","tags":["math","uni"]}
 ---
 
 sia $n \in \mathbb{N} \ \ge1, z\in\mathbb{C}$ t.c. $z = \rho e^{i\theta}$ allora esistono esattamente $n$ radici $n$-esime distinte di $z$ date da:

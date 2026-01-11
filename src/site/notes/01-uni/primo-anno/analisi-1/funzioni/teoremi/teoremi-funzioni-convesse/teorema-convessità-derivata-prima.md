@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessita-derivata-prima/","tags":["math","uni"]}
 ---
 
-sia $f:[a,b] \to \mathbb{R}$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-convessa\|convessa]] $\iff f'(x)$ è crescente
+eoremsia $f:[a,b] \to \mathbb{R}$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-convessa\|convessa]] $\iff f'(x)$ è crescente
 ### osservazione
 la parte più interessante di questa relazione è $\Leftarrow$ poiché la derivata ci sta dando informazioni riguardo la funzione ed è infatti l'unica parte che abbiamo dimostrato.
 ### dim $\Leftarrow$
