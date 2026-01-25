@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/controesempi-tbf/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/controesempi/","tags":["math","uni"]}
 ---
 
 ### funzioni
@@ -22,4 +22,4 @@
 - non converge uniformemente allora può non essere continua
 	- $x^n$ 
 - teorema derivate di successioni
-	- $\frac{\sin(nx)}{\sqrt{ n }}$ la successione delle funzioni non converge uniformemente
+	- $\frac{\sin(nx)}{\sqrt{ n }}$ la successione delle derivate non converge uniformemente ma la funzione converge uniformemente.

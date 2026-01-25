@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-successioni/","tags":["math","uni"]}
 ---
 
-	guarda qui per def di [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-successione-funzioni#convergenza uniforme\|convergenza uniforme]], la notazione usata è $f_{n} \xrightarrow{u}f$.
+guarda qui per def di [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-successione-funzioni#convergenza uniforme\|convergenza uniforme]], la notazione usata è $f_{n} \xrightarrow{u}f$.
 ### teorema 1 continuità
 sia $f_n:I \to \mathbb{R}$ una [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] allora 
 $$\text{ se } f_{n} \xrightarrow{u} f \implies f \text{ è continua}$$
