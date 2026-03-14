@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-indicatrice/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-indicatrice/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
 ---
 
 Dato un [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intervallo\|intervallo]] $I$ (anche insieme generico ma è più utile a noi con gli intervalli) definisco la funzione caratteristica o indicatrice (o funzione caratteristica) di $I$ nel seguente modo:

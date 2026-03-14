@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intorni/","tags":["uni","math"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intorni/","tags":["uni","math"],"updated":"2026-02-24T15:52:00.479+01:00"}
 ---
 
 # intorno

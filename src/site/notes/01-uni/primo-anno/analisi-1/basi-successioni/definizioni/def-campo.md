@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/definizioni/def-campo/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/definizioni/def-campo/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.480+01:00"}
 ---
 
 un campo $F$ è definito come un insieme con 2 [[01-uni/primo-anno/analisi-1/basi-successioni/definizioni/def-operazione-binaria\|operazioni binarie]] tali che:

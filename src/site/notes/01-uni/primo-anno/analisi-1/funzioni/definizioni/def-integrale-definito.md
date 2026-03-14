@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-definito/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-definito/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
 ---
 
 sia $f \in R(a,b)$ ([[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann#Riemann integrabile\|guarda qui]] per definizione di $R(a,b)$) e siano $x,y \in [a,b]$ allora definisco integrale definito tra $x$ e $y$ la seguente quantità (senza assumere $x<y$)

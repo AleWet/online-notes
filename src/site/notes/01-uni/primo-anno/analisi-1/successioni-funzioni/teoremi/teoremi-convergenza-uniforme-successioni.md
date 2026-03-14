@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-successioni/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-successioni/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
 ---
 
 guarda qui per def di [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-successione-funzioni#convergenza uniforme\|convergenza uniforme]], la notazione usata è $f_{n} \xrightarrow{u}f$.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-serie/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-serie/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
 ---
 
 uguali ai teoremi per le [[01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teoremi-convergenza-uniforme-successioni\|successioni di funzioni]] ma applicati alle [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-serie-di-funzioni\|serie]].

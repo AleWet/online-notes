@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-kernel-tbf/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-kernel-tbf/","tags":["math","uni"],"updated":"2026-03-12T21:26:49.333+01:00"}
 ---
 
-il $kernel$ o $nucleo$ di una [[01-uni/primo-anno/gal/definizioni/def-matrice-(tbf)\|matrice]] $A$ di forma $m \times n$ è definito come l'insieme delle soluzioni del sistema $omogeneo$ (metti  $\underline{b}=\underline{0}$) associato : 
+il $kernel$ o $nucleo$ di una [[01-uni/primo-anno/gal/definizioni/def-matrice-(tbf)\|matrice]] $A$ di forma $m \times n$ è definito come l'insieme delle soluzioni del sistema $omogeneo$ (metti  $\underline{b}=\underline{0}$) associato :
 $$Ker(A) = \{ v \in V \ |\ Av = \underline{0}  \} \iff Sol(A \underline{x} = \underline{0})$$
 ______
 ### sotto spazio vettoriale

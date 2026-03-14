@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-primitiva/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-primitiva/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ definiamo una *primitiva* di $f$ una funzione [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] in ogni punto del dominio :

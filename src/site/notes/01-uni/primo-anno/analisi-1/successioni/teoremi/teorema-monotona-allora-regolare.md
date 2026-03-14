@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-monotona-allora-regolare/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-monotona-allora-regolare/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.488+01:00"}
 ---
 
 ### ==primo caso== 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/teorema-confronto-serie/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/teorema-confronto-serie/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
 ---
 
 siano $a_n , b_n \ge 0$ (quindi parliamo di [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-termini-positivi\|serie a termini positivi]]) allora se:

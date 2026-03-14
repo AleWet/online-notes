@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-linearita-integrale/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-linearita-integrale/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.484+01:00"}
 ---
 
 siano $f,g \in R(a,b)$ (dove con $R(a,b)$ si intende [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|questo]]) allora 

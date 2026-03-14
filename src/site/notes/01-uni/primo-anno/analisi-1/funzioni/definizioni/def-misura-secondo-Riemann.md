@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-misura-secondo-riemann/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-misura-secondo-riemann/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
 ---
 
 sia $A \subset \mathbb{R}$ è un insieme limitato, preso un generico intervallo $[-n,n]  \supset A$ e presa la [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-indicatrice\|funzione indicatrice]] di $A$, posso definire la sua **MISURA** $m$ nel seguente modo:

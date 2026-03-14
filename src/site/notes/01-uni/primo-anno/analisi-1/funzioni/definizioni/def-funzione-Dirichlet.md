@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-dirichlet/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-dirichlet/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
 ---
 
 $$D(x) = \cases{1 \ \ \ x\in \mathbb{Q} \\ \\ 0 \ \ \ x\not\in \mathbb{Q}}$$

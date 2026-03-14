@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-indefinito/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-indefinito/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
 ---
 
 sia $f$ una funzione che ammette [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-primitiva\|primitiva]] in $[a,b]$ indichiamo con il simbolo

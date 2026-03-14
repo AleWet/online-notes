@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-armonica-generalizzata/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-armonica-generalizzata/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.485+01:00"}
 ---
 
 definisco la serie armonica generalizzata come:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessa-derivata-seconda/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzioni-convesse/teorema-convessa-derivata-seconda/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.483+01:00"}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ con $f$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] 2 volte in tutto $[a,b]$

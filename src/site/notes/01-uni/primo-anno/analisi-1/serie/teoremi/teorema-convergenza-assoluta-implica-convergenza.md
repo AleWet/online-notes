@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/teorema-convergenza-assoluta-implica-convergenza/","tags":["math","uni"]}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/teorema-convergenza-assoluta-implica-convergenza/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
 ---
 
 se $\begin{equation} {\textstyle \sum^{}}a_n\end{equation}$ [[01-uni/primo-anno/analisi-1/serie/definizioni/def-convergenza-assoluta\|converge assolutamente]] allora [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie\|converge]] . Questo è di solito molto utile perché la serie dei valori assoluti è a termini positivi e puoi applicare gli asintotici.
