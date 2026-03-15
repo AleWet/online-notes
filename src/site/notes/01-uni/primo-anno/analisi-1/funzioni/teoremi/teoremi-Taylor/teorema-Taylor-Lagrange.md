@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-taylor/teorema-taylor-lagrange/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.482+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-taylor/teorema-taylor-lagrange/","tags":["math","uni"],"updated":"2026-01-07T11:18:51.727+01:00"}
 ---
 
 sia $x_0$ fissato e sia $P_{n}$ il [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-polinomio-Taylor\|politaylor]] di ordine $n$ centrato in $x_0$ di $f$ allora:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-funzioni/teoremi/teorema-compatto-chiuso-limitato/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.479+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-funzioni/teoremi/teorema-compatto-chiuso-limitato/","tags":["math","uni"],"updated":"2026-01-10T11:03:41.270+01:00"}
 ---
 
 sia $A$ un insieme allora: 

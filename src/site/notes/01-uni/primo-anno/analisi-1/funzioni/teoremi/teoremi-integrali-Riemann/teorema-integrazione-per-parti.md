@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-integrazione-per-parti/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.484+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-integrazione-per-parti/","tags":["math","uni"],"updated":"2026-01-06T14:37:51.919+01:00"}
 ---
 
 siano $f,g \in R_{P}(a,b)$ (guarda [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-primitiva#notazione interna al corso\|qui]]) e siano $F, G$ due loro **primitive** allora 

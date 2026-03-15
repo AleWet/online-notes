@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-limite-funzione/","tags":["uni","math"],"updated":"2026-02-24T15:52:00.481+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-limite-funzione/","tags":["uni","math"],"updated":"2026-01-05T09:25:10.875+01:00"}
 ---
 
 sia $f:\mathbb{R} \rightarrow\mathbb{R}$ di dominio $D(f)$ e sia $x_0$ un [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-punti-accumulazione-and-others\|punto di accumulazione]] per l'insieme $D(f)$, diciamo che $f$ ammette limite $l \in \mathbb{R}$ per $x \rightarrow x_0$ se 

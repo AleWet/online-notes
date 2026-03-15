@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/teoremi/gerarchie-infiniti-infinitesimi/","tags":["uni","math"],"updated":"2026-02-24T15:52:00.488+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/teoremi/gerarchie-infiniti-infinitesimi/","tags":["uni","math"],"updated":"2026-01-07T10:54:10.338+01:00"}
 ---
 
 ### infiniti

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-riemann/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-riemann/","tags":["math","uni"],"updated":"2026-01-06T10:57:41.372+01:00"}
 ---
 
 # costruzione dell'integrale di Riemann

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-uniformemente-continua/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-uniformemente-continua/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.876+01:00"}
 ---
 
 questa definizione servirà per analisi 2 ma il Pata ce l'ha spiegata in classe:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-polinomio-taylor/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-polinomio-taylor/","tags":["math","uni"],"updated":"2026-01-06T16:05:58.500+01:00"}
 ---
 
 sia $f$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata#derivabilità\|derivabile]] $n$ volte in $x_0$, definiamo **polinomio di Taylor** di ordine $n$ centrato in $x_0$ i polinomio di grado $\le n$ :

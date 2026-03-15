@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/criterio-confronto-asintotico/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/criterio-confronto-asintotico/","tags":["math","uni"],"updated":"2026-01-06T11:35:15.137+01:00"}
 ---
 
 siano $a_n, b_n$ a [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-termini-positivi\|a termini positivi]] $: a_n \sim b_n \implies \begin{equation}{\textstyle \sum}a_n\end{equation} \text{ ha lo stesso carattere di }$$\begin{equation}{\textstyle \sum}b_n\end{equation}$.

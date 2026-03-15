@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/numeri-complessi/teorema-fondamentale-algebra/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.480+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/numeri-complessi/teorema-fondamentale-algebra/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.871+01:00"}
 ---
 
 siano $a_0, a_1, a_2, ... , a_n \in \mathbb{C}$ dove $a_n \ne 0$, l'equazione

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-sotto-spazio-vettoriale-tbf/","tags":["math","uni"],"updated":"2026-03-12T19:04:24.427+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-sotto-spazio-vettoriale-tbf/","tags":["math","uni"],"updated":"2026-03-13T08:49:59.897+01:00"}
 ---
 
 sia $V$ uno [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] (abbreviato s.v.) e sia $H \subseteq V$, se $H$ è uno s.v allora esso si definisce $\text{sotto spazio vettoriale}$ di $V$. Come faccio allora a controllare che $H$ sia uno s.v.? Noto subito che la maggior parte degli assiomi d s.v. sono asserzioni che riguardato tutti gli elementi ($\forall \dots$) dello spazio e si estendono anche al sottospazio necessariamente. Le vere cose che devo controllare sono le seguenti:

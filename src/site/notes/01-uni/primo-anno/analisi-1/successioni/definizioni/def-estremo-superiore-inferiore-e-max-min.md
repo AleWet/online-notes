@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/definizioni/def-estremo-superiore-inferiore-e-max-min/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.487+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/definizioni/def-estremo-superiore-inferiore-e-max-min/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.884+01:00"}
 ---
 
 ### definizione

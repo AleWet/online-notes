@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-costante-a-tratti/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-costante-a-tratti/","tags":["math","uni"],"updated":"2026-01-06T11:25:16.038+01:00"}
 ---
 
 una funzione $h : \mathbb{R} \to \mathbb{R}$ è detta costante a tratti se esistono $N$ numeri reali $\lambda_{1}, \lambda_{2}, \dots \lambda_{N}$ e $N$ [[01-uni/primo-anno/analisi-1/basi-funzioni/definizioni/def-intervallo\|intervalli]] reali $K_{1}, \dots K_{n}$ tali che : 

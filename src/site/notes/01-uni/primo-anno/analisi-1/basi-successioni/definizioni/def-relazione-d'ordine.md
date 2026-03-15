@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/definizioni/def-relazione-d-ordine/","tags":["math","uni"],"updated":"2026-03-05T09:55:39.223+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/basi-successioni/definizioni/def-relazione-d-ordine/","tags":["math","uni"],"updated":"2026-02-28T16:11:00.393+01:00"}
 ---
 
 ### relazione d'ordine

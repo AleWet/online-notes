@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teorema-convergenza-totale-uniforme/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni-funzioni/teoremi/teorema-convergenza-totale-uniforme/","tags":["math","uni"],"updated":"2026-01-08T11:11:44.908+01:00"}
 ---
 
 se una [[01-uni/primo-anno/analisi-1/successioni-funzioni/definizioni/def-serie-di-funzioni\|serie di funzioni]] converge totalmente allora la serie converge uniformemente.

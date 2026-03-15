@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/criterio-della-radice/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/criterio-della-radice/","tags":["math","uni"],"updated":"2026-01-06T11:31:07.127+01:00"}
 ---
 
 sia $a_n \ge 0$ ([[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-termini-positivi\|a termini positivi]]) e sia $l$ = [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-limite-superiore-inferiore\|limite superiore]] di $\sqrt[n]a_n \in [0, +\infty]$ : 
