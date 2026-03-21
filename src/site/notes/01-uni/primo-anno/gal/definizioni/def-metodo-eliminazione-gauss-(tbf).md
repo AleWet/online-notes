@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-metodo-eliminazione-gauss-tbf/","tags":["math","uni"],"updated":"2026-03-15T10:55:28.570+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-metodo-eliminazione-gauss-tbf/","tags":["math","uni"],"updated":"2026-03-15T11:12:47.752+01:00"}
 ---
 
 ### matrice a scala
@@ -18,6 +18,8 @@ Presa una $A$ di grandezza $m \times n$, si usa il **metodo di eliminazione di g
 2) prendi la riga dopo e gli sottrai la prima riga in modo da rendere il termine più a sinistra nullo
 3) repeat finché non arrivi in fondo
 questo metodo garantisce che alla fine rimangano solo tutte le equazioni "indipendenti", ovvero stai togliendo le informazioni ridondanti contenute nelle altre equazioni della matrice. 
+### (tbd)
+Il motivo per cui questa serie di operazioni lasci intatto l'insieme delle soluzioni di una matrice non è banale.
 ### sostituzione all'indietro
 Le matrici a scala sono particolarmente utili perché permettono di "risolvere" un sistema associato molto velocemente con delle sostituzioni all'indietro. Se partiamo con una matrice del genere :
 $$ A =\begin{bmatrix}
@@ -39,4 +41,3 @@ ax_{1}+bx_{2}+cx_{3} = b_{1} \\
 \end{cases}$$
 si nota subito come avere una matrice a scala rende la risoluzione di questo sistema (ovvero trovare il vettore $\underline{x} : U \underline{x} = \underline{b}$) molto più facile poiché basta sostituire all'indietro partendo dall'ultima equazione :
 $$lx_{3} = b_{3} \implies x_{3} =\frac{b_{3}}{l} \implies  jx_{2} = b_{2} -\frac{kb_{3}}{l} \implies \dots$$
-___

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-rango-tbf/","tags":["math","uni"],"updated":"2026-03-15T10:47:33.380+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-rango-tbf/","tags":["math","uni"],"updated":"2026-03-20T09:20:59.343+01:00"}
 ---
 
 ### rango per pivots
