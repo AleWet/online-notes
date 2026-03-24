@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-kernel-tbf/","tags":["math","uni"],"updated":"2026-03-15T11:27:45.289+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-kernel/","tags":["math","uni"],"updated":"2026-03-24T11:39:07.707+01:00"}
 ---
 
 Sia $L:V \to W$ una [[01-uni/primo-anno/gal/definizioni/def-funzione-lineare\|funzione lineare]] chiamo $Kern(L)$ l'insieme dei vettori di $V$ che vengono mappati nell'origine di $W$ :
@@ -18,6 +18,11 @@ Il nucleo di una funzione lineare è un [[01-uni/primo-anno/gal/definizioni/def-
 3) $c \in \mathbb{N}, \ Lh = \underline{0} \implies L(ch) = c(Lh) = c \underline{0} = \underline{0}$
 usando solo le proprietà di funzione lineare
 ____
-### todo
-in pratica $Kern(L)$ o $Kern(A)$ ti dice come sono distribuite le soluzioni delle equazioni del tipo:
-$$L( \underline{x}) = \underline{b}$$
+### intuizione 1
+in pratica $Kern(L)$ o $Kern(A)$ ti dice come sono distribuiti i vettori del dominio che vengono mandati in un certo vettore del codominio, se  $dim(kern(L)) = 1$ vuol dire che la "dimensione" dell'insieme dei vettori mandati nell'origine è $1$ e quindi è una retta. Tutta una retta di vettori del dominio viene mandata nell'origine del codominio. 
+Se adesso prendo un generico vettore $\underline{b}$ dell'immagine di $L$ ho la seguente proprietà  :
+$$\underline{x} : L(\underline{x}) = \underline{b}$$
+$$H:= kern(L) = \{ v \in V : L(v) = \underline{0} \}$$
+$$v_{0} \in H\implies L( \underline{x} + v_{0}) = L(\underline{x})+L(v_{0}) = L(\underline{x})+\underline{0} = \underline{b}+\underline{0} = \underline{b}$$
+in pratica se "mi sposto" da $\underline{x}$ con un vettore del nucleo vengo comunque mappato in $\underline{b}$ da $L$.
+Questo è il motivo per cui solo le [[01-uni/primo-anno/gal/definizioni/def-funzione-lineare\|funzioni lineari]] il cui $kern$ è solo il vettore nullo sono iniettive, se no ci sarebbero infinite soluzioni trovate aggiungendo ad una soluzioni i vettori del $kern$.

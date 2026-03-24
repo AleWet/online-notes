@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-funzione-integrale-continua/","tags":["math","uni"],"updated":"2026-01-08T15:08:12.723+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-funzione-integrale-continua/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.484+01:00"}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ t.c. $f \in R(a,b)$ (guarda [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann#Riemann integrabile\|qui]]) e sia $I(x)$ la [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-integrale\|funzione integrale]] di $f$, allora $I(x)$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]]. 

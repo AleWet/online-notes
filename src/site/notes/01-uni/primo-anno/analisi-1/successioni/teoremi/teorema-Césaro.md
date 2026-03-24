@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-cesaro/","tags":["uni","math"],"updated":"2026-01-11T10:31:22.931+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-cesaro/","tags":["uni","math"],"updated":"2026-02-24T15:52:00.488+01:00"}
 ---
 
 sia $a_n$ una [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione\|successione]] definiamo:

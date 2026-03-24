@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-campione/","tags":["math","uni"],"updated":"2026-01-09T14:53:12.418+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-campione/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.485+01:00"}
 ---
 
 definisco la [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie\|serie]] campione come:

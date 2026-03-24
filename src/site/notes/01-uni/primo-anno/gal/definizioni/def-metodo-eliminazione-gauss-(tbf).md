@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-metodo-eliminazione-gauss-tbf/","tags":["math","uni"],"updated":"2026-03-15T11:12:47.752+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-metodo-eliminazione-gauss-tbf/","tags":["math","uni"],"updated":"2026-03-16T14:56:01.733+01:00"}
 ---
 
 ### matrice a scala

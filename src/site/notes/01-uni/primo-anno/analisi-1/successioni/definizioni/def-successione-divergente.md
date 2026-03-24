@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione-divergente/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.884+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione-divergente/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.487+01:00"}
 ---
 
 una $a_n$ diverge a $\pm \infty\iff a_n \rightarrow \pm \infty$ e si definisce con:

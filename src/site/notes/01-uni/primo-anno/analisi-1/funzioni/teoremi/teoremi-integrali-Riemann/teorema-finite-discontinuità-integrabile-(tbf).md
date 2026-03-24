@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-finite-discontinuita-integrabile-tbf/","tags":["math","uni"],"updated":"2026-01-07T12:57:21.890+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-finite-discontinuita-integrabile-tbf/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.484+01:00"}
 ---
 
 sia $f:[a,b] \to \mathbb{R}$ **limitata** e con un numero **finito** di punti di discontinuità, allora $f\in R(a,b)$ (dove con $R(a,b)$ si intende [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|questo]]).

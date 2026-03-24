@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/definizioni/def-forme-di-indecisione/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.885+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/definizioni/def-forme-di-indecisione/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.487+01:00"}
 ---
 
 con la [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-R-esteso\|retta reale estesa]] si possono trovare delle forme di indecisione : 

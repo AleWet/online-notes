@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-base/","tags":["math","uni"],"updated":"2026-03-19T19:10:21.151+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-base/","tags":["math","uni"],"updated":"2026-03-24T11:30:00.675+01:00"}
 ---
 
 sia $V$ uno [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] e sia $B$ una $n-upla$ (un insieme ordinato di $n$ elementi) di vettori $\in V$ 
@@ -26,6 +26,7 @@ Equivalentemente, una $n-upla$ di elementi di $V$ è detta una $\iff$ le seguent
 pensa al piano cartesiano $x,y$, esiste una coppia di vettori $B = \{  \hat{u}, \hat{y}\}$ che, scalati con due parametri $a_{1}, a_{2}$ possono raggiungere tutti i punti del piano. L'osservazione importante da fare è che i vettori della base possono anche non essere perpendicolari, l'unico vincolo è che la funzione associata $L_{B}(a_{1},a_{2}) = a_{1}x_{1} + a_{2}x_{2}$ sia biunivoca. ovvero che 
 - ogni vettore $v$ del piano cartesiano (ogni punto stessa cosa) è raggiunto da almeno una coppia di parametri $a_{1},a_{2}$
 - a vettori diversi $v_{1} \neq v_{2}$ corrispondono parametri $(a_{11},a_{21}) \neq (a_{21},a_{22}$) diversi
+in questo modo non lavori mai con i vettori in sé in $\mathbb{R}^2$ ma invece con le **coordinate** di questi vettori relativi alle basi che scegli (implicitamente quando scrivi $p = (1,2) \in \mathbb{R}^2$ stai dicendo che $p = 1\hat{u}_{x}+2\hat{u}_{y}$ ovvero una combinazione lineare delle basi canoniche).
 ___
 ### osservazione 1
 Se ho $S$ come basi di $V$, posso dire naturalmente che :
