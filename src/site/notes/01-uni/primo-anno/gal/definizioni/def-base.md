@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-base/","tags":["math","uni"],"updated":"2026-03-24T11:30:00.675+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-base/","tags":["math","uni"],"updated":"2026-03-26T11:03:51.804+01:00"}
 ---
 
 sia $V$ uno [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] e sia $B$ una $n-upla$ (un insieme ordinato di $n$ elementi) di vettori $\in V$ 
-$$B = () \underline{b_{1}}, \underline{b_{2}}, \dots, \underline{b_{n}} \
+$$B = (\underline{b_{1}}, \underline{b_{2}}, \dots, \underline{b_{n}} \
 ): \ \underline{b_{i}} \in V$$
 L'insieme $B$ si dice $base$ di $V$ **se e solo se** ogni vettore $\underline{v} \in V$ si scrive in **uno e un solo modo** della forma:
 $$\underline{v} = a_{1} \underline{b_{1}} + a_{2} \underline{b_{2}} + \dots + a_{n} \underline{b_{n}}$$

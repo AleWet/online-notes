@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-rouche-capelli/","tags":["math","uni"],"updated":"2026-03-24T11:19:09.689+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-rouche-capelli-tbf/","tags":["math","uni"],"updated":"2026-03-26T10:50:54.809+01:00"}
 ---
 
-Sia $A \underline{x}= \underline{b}$ un sistema lineare in $n$ incognite allora :
+	Sia $A \underline{x}= \underline{b}$ un sistema lineare in $n$ incognite allora :
 1) se [[01-uni/primo-anno/gal/definizioni/def-rango-(tbf)\|rango]]$([A| \underline{b}]) = rank(A) + 1$ il sistema non ha soluzioni
 2) se $rank([A|\underline{b}]) = rank(A) = n$ il sistema ha un'unica soluzione
 3) se $rank([A|\underline{b}]) =rank(A) < n$ il sistema ha infinite soluzione "disposte" come il [[01-uni/primo-anno/gal/definizioni/def-kernel\|nucleo]] di $A$
@@ -29,3 +29,4 @@ $$\tag{in A|b}0+0+\dots+0 = b_{n}-\gamma$$
 mentre la matrice originale $A$ avevi semplicemente tutti $0$ (lo zero alla fine era sottinteso) : 
 $$0+0+\dots+0 = 0 \tag{in A}$$
 naturalmente visto che $rank(A|\underline{b}) < rank(A)$ il termine dopo l'uguale $b_{n}-\gamma \neq 0$ se no il rango sarebbe uguale e avremmo infinite soluzioni come nel caso prima. (questo caso è possibile naturalmente solo quando il rango della matrice non è massimo).
+### dimostrazione

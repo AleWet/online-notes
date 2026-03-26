@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-metodo-eliminazione-gauss-tbf/","tags":["math","uni"],"updated":"2026-03-16T14:56:01.733+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-metodo-eliminazione-gauss-tbf/","tags":["math","uni"],"updated":"2026-03-25T17:14:00.446+01:00"}
 ---
 
 ### matrice a scala
@@ -18,8 +18,10 @@ Presa una $A$ di grandezza $m \times n$, si usa il **metodo di eliminazione di g
 2) prendi la riga dopo e gli sottrai la prima riga in modo da rendere il termine più a sinistra nullo
 3) repeat finché non arrivi in fondo
 questo metodo garantisce che alla fine rimangano solo tutte le equazioni "indipendenti", ovvero stai togliendo le informazioni ridondanti contenute nelle altre equazioni della matrice. 
-### (tbd)
-Il motivo per cui questa serie di operazioni lasci intatto l'insieme delle soluzioni di una matrice non è banale.
+### insieme soluzione
+Il motivo per cui questa serie di operazioni lasci intatto l'insieme delle soluzioni di una matrice non è banale, si può vedere però che le operazioni fondamentali di riga sono alla fine [[01-uni/primo-anno/gal/definizioni/def-combinazione-lineare\|combinazioni lineari]] dei vettori riga della matrice di partenza che non intaccano le "informazioni espresse" dalle equazioni, ovvero non cambia lo [[01-uni/primo-anno/gal/definizioni/def-spazio-riga\|spazio riga]] della matrice.
+### spazio colonna
+Al contrario dello spazio riga, lo [[01-uni/primo-anno/gal/definizioni/def-spazio-colonna\|spazio colonna]] cambia quando fai operazioni sulle righe, questo si vede subito perché stai effettivamente cambiando l'ordine delle coordinate dei vettori colonna di $A$, i vettori che ci sono nella matrice a scala sono in qualche modo i vettori di $A$ ma trasformati.
 ### sostituzione all'indietro
 Le matrici a scala sono particolarmente utili perché permettono di "risolvere" un sistema associato molto velocemente con delle sostituzioni all'indietro. Se partiamo con una matrice del genere :
 $$ A =\begin{bmatrix}
