@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-equivalenza-derivabile-differenziabile/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.483+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-equivalenza-derivabile-differenziabile/","tags":["math","uni"],"updated":"2026-01-09T17:21:13.758+01:00"}
 ---
 
 $f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-differenziabilità\|differenziabile]] in $x_0 \iff f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-derivata\|derivabile]] in $x_0$, e in tal caso $L$ è esattamente $f'(x_0)$.

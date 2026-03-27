@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-spazio-riga/","tags":["math","uni"],"updated":"2026-03-25T17:06:06.506+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-spazio-riga/","tags":["math","uni"],"updated":"2026-03-25T20:19:10.110+01:00"}
 ---
 
 sia $A$ una [[01-uni/primo-anno/gal/definizioni/def-matrice-(tbf)\|matrice]] $\in Mat_{m \times n}$ del tipo : 

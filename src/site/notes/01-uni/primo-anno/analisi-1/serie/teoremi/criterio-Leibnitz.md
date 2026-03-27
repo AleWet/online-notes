@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/criterio-leibnitz/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/criterio-leibnitz/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.869+01:00"}
 ---
 
 $$\text{sia } \sum_{n=0}^{+\infty}a_n$$

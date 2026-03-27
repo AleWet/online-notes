@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivabile-continua/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.483+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivabile-continua/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.881+01:00"}
 ---
 
 se $f$ è [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-continuità\|continua]] in $x_0$.

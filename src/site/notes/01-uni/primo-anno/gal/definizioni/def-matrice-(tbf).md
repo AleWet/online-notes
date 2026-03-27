@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-matrice-tbf/","tags":["math","uni"],"updated":"2026-03-24T11:37:13.090+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-matrice-tbf/","tags":["math","uni"],"updated":"2026-03-27T20:26:01.703+01:00"}
 ---
 
 Una $matrice$ $m \times n$ è una tabella rettangolare di numeri organizzati in $m$ righe e $n$ colonne: $$ A = \begin{bmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \cdots & a_{mn} \end{bmatrix} $$
@@ -32,7 +32,6 @@ $$A(x+y) = Ax + Ay \ \ \ \land \ \ \ A(cx) = cA(x)$$
 Data una funzione (lineare) $f:\mathbb{R} \to \mathbb{R}, \ \ f(x) = 3x$ posso definire una matrice $A$ che mi generalizza questa funzione lineare in una variabile generica : $A = [3]$. Questa non è un'analogia, è il caso specifico dove $n = m = 1$. la funzione $f$ a questo punto può essere rappresentata come :
 $$f(x) = T(x) = Ax= 3x$$
 $A$ non è una funzione, $T$ lo è.
-
 _____
 ### osservazione 2
 presa una matrice $A$ di $n$ colonne $c_{1}, c_{2}, \dots , c_{n} \in \mathbb{R}^m$ e un vettore $v \in R^n$ il prodotto vettore-matrice può essere visto esattamente come [[01-uni/primo-anno/gal/definizioni/def-combinazione-lineare\|combinazione lineare]] delle colonne di $A$ con i "pesi" del vettore $v$ : 
@@ -46,3 +45,4 @@ ___
 Le matrici alla fine possono essere viste come casi speciali di [[01-uni/primo-anno/gal/definizioni/def-funzione-lineare\|funzioni lineari]] ovvero quando vanno da :
 $$L_{A} :\mathbb{R}^n \to \mathbb{R}^m$$
 $$\underline{x} \mapsto A \underline{x}$$
+per più dettagli guarda [[01-uni/primo-anno/gal/teoremi/teorema-rappresentazione-1-(tbf)\|questo teorema]]. 

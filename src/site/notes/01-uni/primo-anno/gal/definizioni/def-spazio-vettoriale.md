@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale/","tags":["math","uni"],"updated":"2026-03-24T10:48:45.193+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale/","tags":["math","uni"],"updated":"2026-03-27T20:26:01.703+01:00"}
 ---
 
 assumerò sempre che $V$ sia un insieme non vuoto di vettori :  $V \neq \emptyset$ e che il campo preso è $\mathbb{R}$ per semplicità. Importante citare anche che i vettori non sono solo "array" di numeri ma qualsiasi cosa su cui tu possa definire delle operazioni analoghe a quelle spiegate qui.

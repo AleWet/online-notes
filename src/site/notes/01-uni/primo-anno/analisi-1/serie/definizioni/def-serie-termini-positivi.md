@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-termini-positivi/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.485+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-termini-positivi/","tags":["math","uni"],"updated":"2026-01-07T10:21:32.173+01:00"}
 ---
 
 sia $a_{n} > 0$ definitivamente, allora 

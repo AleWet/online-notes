@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/definizioni/def-sottosuccessione/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.487+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/definizioni/def-sottosuccessione/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.884+01:00"}
 ---
 
 una **sottosuccessione** $a_{nk}$ di una [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-successione\|successione]] $a_n$ è una successione formata da alcuni degli elementi di $a_n$, come un suo sottoinsieme, un esempio sarebbe:

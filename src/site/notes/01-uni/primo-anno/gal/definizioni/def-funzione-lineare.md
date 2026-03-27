@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-funzione-lineare/","tags":["math","uni"],"updated":"2026-03-19T13:39:37.475+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-funzione-lineare/","tags":["math","uni"],"updated":"2026-03-27T20:26:01.703+01:00"}
 ---
 
 chiamiamo $L : V \to W$ una $funzione \ lineare$  se essa soddisfa le seguenti proprietà : 

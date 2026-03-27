@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-indipendenza-lineare/","tags":["math","uni"],"updated":"2026-03-23T21:36:11.092+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-indipendenza-lineare/","tags":["math","uni"],"updated":"2026-03-20T09:50:35.808+01:00"}
 ---
 
 ### indipendenza lineare

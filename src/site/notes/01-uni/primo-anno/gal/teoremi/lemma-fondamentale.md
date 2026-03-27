@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/lemma-fondamentale/","tags":["math","uni"],"updated":"2026-03-26T14:10:48.106+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/lemma-fondamentale/","tags":["math","uni"],"updated":"2026-03-27T20:26:01.703+01:00"}
 ---
 
 sia $V$ uno [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] con un insieme di generatori di cardinalità $m$, allora se $S$ è un insieme di vettori [[01-uni/primo-anno/gal/definizioni/def-indipendenza-lineare\|linearmente indipendenti]] si ha che :
@@ -8,7 +8,7 @@ e si ha che $V$ avrà [[01-uni/primo-anno/gal/definizioni/def-dimensione\|dimens
 ### dimostrazione
 Prima di dimostrare questo devi dimostrare che se hai $n$ vettori indipendenti di $\mathbb{R}^m$ allora si ha che $n\leq m$, sembra che non c'entri nulla ma poi ti serve : 
 #### prima parte
-sia $S = \{ c_{1},c_{2},\dots,c_{n} \}$ dove $c_{i} \in \mathbb{R}^m$ e dove tutti i vettori $c_{i}$ sono linearmente indipendenti. Prendi poi la matrice $A = [c_{1}|c_{2}|\dots|c_{n}]$, avrai che il [[01-uni/primo-anno/gal/definizioni/def-rango-(tbf)\|rango]] di $A$ è $n\ \  (*)$. Se $A$ ha rango $n$ e $rank(A) \leq m$ ottieni : 
+sia $S = \{ c_{1},c_{2},\dots,c_{n} \}$ dove $c_{i} \in \mathbb{R}^m$ e dove tutti i vettori $c_{i}$ sono linearmente indipendenti. Prendi poi la matrice $A = [c_{1}|c_{2}|\dots|c_{n}]$, avrai che il [[01-uni/primo-anno/gal/definizioni/def-rango\|rango]] di $A$ è $n\ \  (*)$. Se $A$ ha rango $n$ e $rank(A) \leq m$ ottieni : 
 $$n\leq m$$
 #### seconda parte
 prendo $S = \{ w_{1},w_{1},\dots,w_{m} \}$ di vettori $\in V$ **generatori** di $V$. Poiché $S$ è insieme di generatori, la funzione delle combinazioni lineari di $S$ è **suriettiva** in V :
@@ -31,7 +31,5 @@ $$L_{S}(t_{1}c_{1}+\dots+t_{n}c_{n}) = L_{S}( \underline{0})$$
 $$\iff t_{1}L_{S}(c_{1}) + t_{2}L_{S}(c_{2})+\dots+t_{n}L_{S}(c_{n}) = L_{S}( \underline{0})$$
 $$\iff t_{1}v_{1}+\dots+t_{n}v_{n} = \underline{0}$$
 dove per ipotesi $t_{1},\dots,t_{n}$ non sono tutti nulli, allora anche $v_{1},\dots,v_{n}$ sono linearmente **dipendenti**.
-
-
-
+___
 $(*)$ per dimostrare questo basta usare la condizione di indipendenza lineare sulle colonne di $A$, imponi che $A\underline{x} = \underline{0}$ sia unica che, usando [[01-uni/primo-anno/gal/teoremi/teorema-Rouché-Capelli-(tbf)\|R.C.]], è equivalente a chiedere che il rango di $A$ sia $n$.

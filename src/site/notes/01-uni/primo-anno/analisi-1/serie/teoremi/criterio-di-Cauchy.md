@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/criterio-di-cauchy/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/criterio-di-cauchy/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.871+01:00"}
 ---
 
 come per le [[01-uni/primo-anno/analisi-1/successioni/definizioni/def-cauchy\|successioni di Cauchy]]:
