@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-base/","tags":["math","uni"],"updated":"2026-03-26T17:55:20.117+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-base/","tags":["math","uni"],"updated":"2026-03-28T09:03:24.624+01:00"}
 ---
 
 sia $V$ uno [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] e sia $B$ una $n-upla$ (un insieme ordinato di $n$ elementi) di vettori $\in V$ 
@@ -19,9 +19,9 @@ a_{n}
 a certi parametri :  $\begin{bmatrix}a_{1} \\  \vdots  \\ a_{n}\end{bmatrix}$ mappa uno e un solo vettore $\in V$ scalando ogni base $\underline{b_{i}}$ di una quantità $a_{i}$
 
 ### definizione equivalente
-Equivalentemente, una $n-upla$ di elementi di $V$ è detta una $\iff$ le seguenti sono verificate :
+Equivalentemente, una $n-upla$ di elementi di $V$ è detta una **base**$\iff$ le seguenti sono verificate :
 1) $\forall u \in V \ \exists a_{1},a_{2},\dots,a_{n}  : u = a_{1}v_{1} + \dots + a_{n}v_{n}$, ovvero che sono dei generatori
-2) $u_{1},\dots ,u_{n}$ sono [[01-uni/primo-anno/gal/definizioni/def-indipendenza-lineare\|linearmente indipendenti]], in breve che $\underline{0}$ si può scrivere in un solo modo come combinazione lineare degli $n$ vettori (non solo con tutti gli scalari messi $=0$)
+2) $v_{1},\dots ,v_{n}$ sono [[01-uni/primo-anno/gal/definizioni/def-indipendenza-lineare\|linearmente indipendenti]], in breve che $\underline{0}$ si può scrivere in un solo modo come combinazione lineare degli $n$ vettori (non solo con tutti gli scalari messi $=0$)
 ##### esempio
 pensa al piano cartesiano $x,y$, esiste una coppia di vettori $B = \{  \hat{u}, \hat{y}\}$ che, scalati con due parametri $a_{1}, a_{2}$ possono raggiungere tutti i punti del piano. L'osservazione importante da fare è che i vettori della base possono anche non essere perpendicolari, l'unico vincolo è che la funzione associata $L_{B}(a_{1},a_{2}) = a_{1}x_{1} + a_{2}x_{2}$ sia biunivoca. ovvero che 
 - ogni vettore $v$ del piano cartesiano (ogni punto stessa cosa) è raggiunto da almeno una coppia di parametri $a_{1},a_{2}$

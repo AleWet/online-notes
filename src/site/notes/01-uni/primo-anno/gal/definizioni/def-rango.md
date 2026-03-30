@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-rango/","tags":["math","uni"],"updated":"2026-03-27T20:26:01.703+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-rango/","tags":["math","uni"],"updated":"2026-03-28T09:08:32.878+01:00"}
 ---
 
 ### rango per pivots
@@ -10,6 +10,6 @@ $$rank_{row}(A) = \dim { Row (A)}$$
 ### rango per colonne
 Il rango per colonne è definito come la [[01-uni/primo-anno/gal/definizioni/def-dimensione\|dimensione]] dello [[01-uni/primo-anno/gal/definizioni/def-spazio-colonna\|spazio colonna]] di $A$ : 
 $$rank_{col}(A) = \dim{Col(A)}$$
-però grazie a [[01-uni/primo-anno/gal/teoremi/teorema-rango-righe-colonne-(tbd)\|questo teorema]] sai che il rango per righe è uguale al rango per colonne, rappresenta sempre il numero di "informazioni diverse" contenute nella matrice: 
+però grazie a [[01-uni/primo-anno/gal/teoremi/teorema-rango-righe-colonne-(tbf)\|questo teorema]] sai che il rango per righe è uguale al rango per colonne, rappresenta sempre il numero di "informazioni diverse" contenute nella matrice: 
 - se puoi derivare una riga dalle altre vuol dire quel vincolo è superfluo
 - se puoi derivare una colonna dalle altre vuol dire che quella colonna è già "raggiunta" dalle altre.
