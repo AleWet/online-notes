@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/statistica/schemi-primo-parziale/","tags":["uni"],"updated":"2026-04-12T17:36:49.767+02:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/statistica/schemi-primo-parziale/","tags":["uni"],"updated":"2026-04-12T21:16:17.573+02:00"}
 ---
 
 # grafici
 - istogramma usa densità (dividi per la larghezza della classe)
 - box plot ha come rettangolo la IQR, la riga in mezzo è la mediana e le due linee tratteggiate (il range degli outliers) sono 
 	- Q1- 3/2 IQR (o min val)
-	- Q3 + 3/2 IQR (o max val)
+	- Q3 + 3/2 IQR 
 ___
 # formule generali
 $$E(X) = \sum x f(x) = \int_{-\infty}^{+\infty} xf(x)dx$$
