@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-telescopica/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.864+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-telescopica/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.485+01:00"}
 ---
 
 una [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie\|serie]] telescopica è una serie il cui termine generale può essere espresso nel seguente modo:

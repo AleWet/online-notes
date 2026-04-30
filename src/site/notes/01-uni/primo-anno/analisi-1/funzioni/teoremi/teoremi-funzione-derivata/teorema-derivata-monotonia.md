@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-monotonia/","tags":["math","uni"],"updated":"2026-01-09T17:21:34.622+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-monotonia/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.483+01:00"}
 ---
 
 sia $f:[a,b] \to \mathbb{R}, f$ soddisfa le ipotesi di [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-Lagrange-(tbf)\|Lagrange]] $\implies$

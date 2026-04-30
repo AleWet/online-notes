@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-span/","tags":["math","uni"],"updated":"2026-03-25T20:19:10.109+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-span/","tags":["math","uni"],"updated":"2026-03-24T11:47:58.992+01:00"}
 ---
 
 sia $S = \{ v_{1},v_{2},v_{3},\dots,v_{n} \}$ un insieme di vettori appartenenti allo [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] $V$, chiamo $span(V)$ il seguente insieme :

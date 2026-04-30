@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-darboux/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.880+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-funzione-derivata/teorema-derivata-darboux/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.483+01:00"}
 ---
 
 sia $f : I \to \mathbb{R}$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-Darboux\|Darboux]].

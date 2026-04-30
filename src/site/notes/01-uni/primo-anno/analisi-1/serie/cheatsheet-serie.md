@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/cheatsheet-serie/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.871+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/cheatsheet-serie/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.484+01:00"}
 ---
 
 breve guida sui metodi di risoluzione degli esercizi per le serie, linee guida su quali criteri usare etc.

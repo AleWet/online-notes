@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/statistica/schemi-primo-parziale/","tags":["uni"],"updated":"2026-04-12T21:16:17.573+02:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/statistica/schemi-primo-parziale/","tags":["uni"],"updated":"2026-04-21T15:08:12.756+02:00"}
 ---
 
 # grafici

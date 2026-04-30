@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-taylor/teorema-taylor-peano/","tags":["math","uni"],"updated":"2026-01-09T17:21:34.582+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-taylor/teorema-taylor-peano/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.482+01:00"}
 ---
 
 sia $f$ [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-polinomio-Taylor\|polinomio di Taylor]] di ordine $n$ centrato in $x_0$ allora:

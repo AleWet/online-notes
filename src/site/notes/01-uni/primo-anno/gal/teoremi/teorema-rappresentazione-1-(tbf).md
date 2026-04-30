@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-rappresentazione-1-tbf/","tags":["math","uni"],"updated":"2026-03-27T21:59:15.519+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-rappresentazione-1-tbf/","tags":["math","uni"],"updated":"2026-03-30T16:17:45.559+02:00"}
 ---
 
 Sia $L$ una [[01-uni/primo-anno/gal/definizioni/def-funzione-lineare\|funzione lineare]] definita da uno [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] di scalari come $\mathbb{R}^n$ a un'altro spazio di scalari come $\mathbb{R}^m$, allora esiste un'unica [[01-uni/primo-anno/gal/definizioni/def-matrice-(tbf)\|matrice]] $A$ che rappresenta $L$ : 

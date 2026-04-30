@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-rouche-capelli-tbf/","tags":["math","uni"],"updated":"2026-03-27T20:26:01.703+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-rouche-capelli-tbf/","tags":["math","uni"],"updated":"2026-03-27T15:02:21.515+01:00"}
 ---
 
 Sia $A \underline{x}= \underline{b}$ un sistema lineare in $n$ incognite allora :

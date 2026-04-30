@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-campione-tbf/","tags":["math","uni"],"updated":"2026-01-09T16:59:32.445+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/definizioni/def-funzione-campione-tbf/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.481+01:00"}
 ---
 
 definiamo come fatto per le [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-campione\|serie]] una **funzione campione** con cui confrontare l'[[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-integrale-improprio-(tbf)\|integrale improprio]] di cui vogliamo studiare il carattere:

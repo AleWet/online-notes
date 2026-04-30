@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-autovettori-tbf/","tags":["math","uni"],"updated":"2026-04-23T17:46:32.623+02:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-autovettori-tbf/","tags":["math","uni"],"updated":"2026-04-28T19:01:47.671+02:00"}
 ---
 
 # intro

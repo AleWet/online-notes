@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-geometrica/","tags":["uni","math"],"updated":"2026-01-05T09:25:10.865+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie-geometrica/","tags":["uni","math"],"updated":"2026-02-24T15:52:00.485+01:00"}
 ---
 
 definiamo una [[01-uni/primo-anno/analisi-1/serie/definizioni/def-serie\|serie]] geometrica come di ragione $q \in \mathbb{R}$

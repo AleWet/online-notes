@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/teorema-test-di-convergenza-serie/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.869+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/teoremi/teorema-test-di-convergenza-serie/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
 ---
 
 $$se \sum a_n \text{ converge } \implies a_n\rightarrow 0$$

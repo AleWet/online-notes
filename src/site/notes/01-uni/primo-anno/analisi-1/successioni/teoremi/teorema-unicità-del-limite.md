@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-unicita-del-limite/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.886+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/successioni/teoremi/teorema-unicita-del-limite/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.488+01:00"}
 ---
 
 una successione $a_n \rightarrow l_1 \in \mathbb{R}$ (anche infinito) allora il suo limite è unico, non è vero che $a_n \rightarrow l_2 \ne l_1$   

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-base-dimensione-tbf/","tags":["math","uni"],"updated":"2026-03-28T09:08:41.881+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-base-dimensione-tbf/","tags":["math","uni"],"updated":"2026-03-30T16:17:45.558+02:00"}
 ---
 
 Sia dato $V$ come [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]], allora 

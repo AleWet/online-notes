@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-fondamentale-del-calcolo/","tags":["math","uni"],"updated":"2026-01-10T15:44:14.962+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-fondamentale-del-calcolo/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.484+01:00"}
 ---
 
 sia $f \in R_{P}(a,b)$ quindi intendiamo [[01-uni/primo-anno/analisi-1/funzioni/definizioni/def-primitiva#notazione interna al corso\|che ammette primitiva e che è integrabile]], chiamata $F$ una primitiva di $f$ si ha che:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-combinazione-lineare/","tags":["math","uni"],"updated":"2026-03-15T11:26:29.010+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-combinazione-lineare/","tags":["math","uni"],"updated":"2026-03-16T14:56:01.730+01:00"}
 ---
 
 Dato un insieme ordinato $S = \{ v_{1}, v_{2}, v_{3}\dots. , v_{n}\}$ di $n$ elementi di dimensione $m$ di uno [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] $W$ definisco una funzione $f : V \to W$ nel seguente modo:

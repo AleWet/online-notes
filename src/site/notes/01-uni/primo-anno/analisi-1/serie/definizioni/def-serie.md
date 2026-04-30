@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.869+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/serie/definizioni/def-serie/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.485+01:00"}
 ---
 
 non esiste un algoritmo che ti permette di sommare infiniti numeri, le serie non possono quindi essere trattate come serie infinite di numeri (tranne le serie per cui vale il [[01-uni/primo-anno/analisi-1/serie/teoremi/teorema-Riemann\|teorema-Riemann]]). 

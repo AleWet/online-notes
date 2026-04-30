@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-kernel/","tags":["math","uni"],"updated":"2026-03-25T20:19:10.109+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-kernel/","tags":["math","uni"],"updated":"2026-03-24T11:39:07.707+01:00"}
 ---
 
 Sia $L:V \to W$ una [[01-uni/primo-anno/gal/definizioni/def-funzione-lineare\|funzione lineare]] chiamo $Kern(L)$ l'insieme dei vettori di $V$ che vengono mappati nell'origine di $W$ :

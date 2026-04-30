@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-taylor/teorema-unicita-polibello/","tags":["math","uni"],"updated":"2026-01-05T09:25:10.883+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-taylor/teorema-unicita-polibello/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.482+01:00"}
 ---
 
 $\exists$ al più un singolo [[01-uni/primo-anno/analisi-1/funzioni/teoremi/teoremi-Taylor/teorema-Taylor-Peano#osservazione 3\|polibello]] $P(x)$ di grado $n$ per una singola $f$.

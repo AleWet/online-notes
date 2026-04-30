@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-base/","tags":["math","uni"],"updated":"2026-03-28T09:03:24.624+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-base/","tags":["math","uni"],"updated":"2026-03-30T16:17:45.556+02:00"}
 ---
 
 sia $V$ uno [[01-uni/primo-anno/gal/definizioni/def-spazio-vettoriale\|spazio vettoriale]] e sia $B$ una $n-upla$ (un insieme ordinato di $n$ elementi) di vettori $\in V$ 

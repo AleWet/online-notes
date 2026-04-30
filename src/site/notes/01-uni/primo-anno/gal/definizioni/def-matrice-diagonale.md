@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-matrice-diagonale/","tags":["math","uni"],"updated":"2026-04-23T16:00:32.247+02:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-matrice-diagonale/","tags":["math","uni"],"updated":"2026-04-28T19:01:47.671+02:00"}
 ---
 
 Sia $L$ un'[[01-uni/primo-anno/gal/definizioni/def-funzione-lineare\|endomorfismo]] di $V$ con base $B = (b_{1},b_{2},\dots,b_{n})$ allora dico che la [[01-uni/primo-anno/gal/definizioni/def-matrice-(tbf)\|matrice]] rappresentativa $A$ di $L$ è diagonale se e solo se :

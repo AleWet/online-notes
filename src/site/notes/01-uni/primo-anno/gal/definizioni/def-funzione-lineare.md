@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-funzione-lineare/","tags":["math","uni"],"updated":"2026-04-23T15:31:00.032+02:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/definizioni/def-funzione-lineare/","tags":["math","uni"],"updated":"2026-04-28T19:01:47.671+02:00"}
 ---
 
 ### definizione

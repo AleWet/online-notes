@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-rango-righe-colonne-tbf/","tags":["math","uni"],"updated":"2026-03-28T09:08:31.051+01:00"}
+{"dg-publish":true,"permalink":"/01-uni/primo-anno/gal/teoremi/teorema-rango-righe-colonne-tbf/","tags":["math","uni"],"updated":"2026-03-30T16:17:45.558+02:00"}
 ---
 
 - [[01-uni/primo-anno/gal/definizioni/def-rango#rango per righe\|rango per righe]] = [[01-uni/primo-anno/gal/definizioni/def-rango#rango per colonne\|def-rango#rango per colonne]] 
