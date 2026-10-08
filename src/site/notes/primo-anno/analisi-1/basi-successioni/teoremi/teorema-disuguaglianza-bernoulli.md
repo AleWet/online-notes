@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/primo-anno/analisi-1/basi-successioni/teoremi/teorema-disuguaglianza-bernoulli/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.480+01:00"}
+---
+
+$$(1+x)^n\ge1+xn$$
+$$\forall n\in\mathbb{N}\ge0, \forall x\in\mathbb{R}>-1$$
+### ==dim==
+(per induzione)

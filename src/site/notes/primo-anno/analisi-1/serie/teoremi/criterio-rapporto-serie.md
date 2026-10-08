@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/primo-anno/analisi-1/serie/teoremi/criterio-rapporto-serie/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.486+01:00"}
+---
+
+sia $a_n>0$ ([[primo-anno/analisi-1/serie/definizioni/def-serie-termini-positivi\|a termini positivi]]) e sia $l =$ [[primo-anno/analisi-1/successioni/definizioni/def-limite-superiore-inferiore\|limite superiore]] di $\frac{a_{n+1}}{a_n} \in [0, +\infty]$ allora :
+- se $l > 1 \implies \sum a_n \ diverge$
+- se $l < 1 \implies \sum a_n \ converge$
+- come al solito se $l = 1$ il criterio è inconcludente
+___
+### dim
+non dimostrato dal Pata

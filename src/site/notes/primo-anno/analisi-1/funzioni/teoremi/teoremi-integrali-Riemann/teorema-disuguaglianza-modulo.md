@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-riemann/teorema-disuguaglianza-modulo/","tags":["math","uni"],"updated":"2026-02-24T15:52:00.484+01:00"}
+---
+
+$f \in R(a,b)$ (dove con $R(a,b)$ si intende la [[primo-anno/analisi-1/funzioni/definizioni/def-integrale-Riemann\|seguente cosa]])
+$$\implies |f| \in R(a,b)$$
+$$\implies \bigg |\int_{a}^af(x)dx \bigg| \le \int_{a}^a|f(x)|dx$$
+### dim
+la dimostrazione usa banalmente il [[primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-confronto-integrali\|teorema-confronto-integrali]] dalla seguente osservazione:
+$$-|f| \le f \le |f| \ \ \forall x$$
+$$\implies \int_{a}^b -|f| \le \int_{a}^b f \le \int_{a}^b |f|$$
+qui usi la [[primo-anno/analisi-1/funzioni/teoremi/teoremi-integrali-Riemann/teorema-linearità-integrale\|linearità dell'integrale]] :
+$$\int_{a}^b -|f| = -\int_{a}^b |f|$$
+$$\implies -\int_{a}^b |f| \le \int_{a}^b f \le \int_{a}^b |f| $$
+$$\iff$$
+$$\bigg|\int_{a}^b f \bigg|  \le \int_{a}^b |f|$$
