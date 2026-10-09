@@ -9,4 +9,4 @@ Dalla barra a sinistra puoi accedere a tutte le note, i pdf non sono accessibili
 
 
 Author : Alessandro Bagnato 
-GitHub : TODO
+GitHub : [AleWet/online-notes](https://github.com/AleWet/online-notes)
